@@ -1,0 +1,106 @@
+
+@font-face {
+    font-family: "gillsans";
+    src: url(gillsanBold.ttf) format("truetype");
+}
+
+body {
+  background-color: #EBF2F2;
+  margin: 15px;
+}
+
+.page {
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+
+.head:hover {
+    text-decoration: none;
+}
+
+p:hover {
+    text-decoration: none;
+}
+
+.bar {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    height: 2px;
+/*    background-color: #489FB7 ;*/
+    background-color: #55A4B7;
+    border-radius: 100px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+h5 {
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.panel-heading {
+    background: #AFD4DD!important;
+}
+
+.panel-body {
+    background: #DFEDEF;
+}
+
+.fact {
+    background-color: #DFEDEf;
+    border: 20px;
+    border-color: #489FB7;
+    border-radius: 15px;
+    padding: 15px;
+    padding-top: 10px;
+    margin: 20px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+.pie {
+    margin: 20px;
+    text-align: center;
+    background-color: ;
+    border-radius: 15px;
+    padding: 10px;
+
+
+}
+
+#example {
+  margin: 20px;
+}
+
+/*Page Sizing*/
+@media screen and (min-width: 1200px) {
+    .page {
+        width: 60%;
+    }
+
+}

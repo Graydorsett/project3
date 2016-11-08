@@ -1,0 +1,11316 @@
+{
+  "data": [
+ [
+   "8/20/15",
+   "Male",
+   "Black",
+   63,
+   "NEW HAVEN",
+   "Liver Failure due to cirrhosis due to chronic hepatitis C (OSC Heroin)"
+ ],
+ [
+   "7/30/15",
+   "Male",
+   "White",
+   24,
+   "HAMDEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/25/13",
+   "Male",
+   "White",
+   31,
+   "NEW HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/26/15",
+   "Male",
+   "Hispanic, White",
+   38,
+   "MERIDEN",
+   "Acute Cocaine and Heroin Intoxication"
+ ],
+ [
+   "1/7/12",
+   "Male",
+   "White",
+   45,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/3/15",
+   "Female",
+   "Hispanic, White",
+   45,
+   "NEW HAVEN",
+   "Acute Intoxication due to the combined effects of Heroin, Alprazolam and Clonazepam"
+ ],
+ [
+   "8/25/13",
+   "Male",
+   "White",
+   44,
+   "MERIDEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/6/14",
+   "Male",
+   "White",
+   37,
+   "SOUTHINGTON",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "9/5/15",
+   "Male",
+   "White",
+   28,
+   "DURHAM",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl and cocaine"
+ ],
+ [
+   "4/23/14",
+   "Female",
+   "White",
+   37,
+   "BURLINGTON",
+   "Acute Combined Oxycodone, Morphine, Oxymorphone, Alprazolam and Zopiclone Toxicities"
+ ],
+ [
+   "11/9/13",
+   "Female",
+   "White",
+   36,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/7/14",
+   "Female",
+   "White",
+   24,
+   "WALLINGFORD",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "1/5/13",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NEW LONDON",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/31/13",
+   "Male",
+   "White",
+   40,
+   "VERNON",
+   "Combined Effects of Morphine, Diazapem, Oxazepam, Temazepam, Bupropion, Clomipramine and Duloxetime"
+ ],
+ [
+   "9/28/15",
+   "Male",
+   "White",
+   21,
+   "WILLIMANTIC",
+   "Acute Heroin and Alprazolam Intoxication"
+ ],
+ [
+   "7/12/15",
+   "Male",
+   "Black",
+   49,
+   "WATERBURY",
+   "Acute intoxication from the combined effects of cocaine, morphine, Fentanyl, cyclobenzaprine and alcohol"
+ ],
+ [
+   "7/17/15",
+   "Male",
+   "White",
+   49,
+   "WESTBROOK",
+   "Acute Combined Heroin, Fentanyl, and Alcohol Toxicities"
+ ],
+ [
+   "12/13/14",
+   "Female",
+   "White",
+   23,
+   "NEW LONDON",
+   "Ethanol, heroin, benzo"
+ ],
+ [
+   "7/25/13",
+   "Male",
+   "White",
+   50,
+   "NEW BRITAIN",
+   "Cocaine, Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "1/21/14",
+   "Male",
+   "White",
+   52,
+   "PLAINVILLE",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/4/14",
+   "Female",
+   "White",
+   26,
+   "NEW BRITAIN",
+   "Brain Death due to Heroin Intoxication"
+ ],
+ [
+   "8/12/12",
+   "Female",
+   "White",
+   21,
+   "WEST HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/7/12",
+   "Female",
+   "Hispanic, White",
+   62,
+   "NEW HAVEN",
+   "Multiple DrugToxicity"
+ ],
+ [
+   "12/4/14",
+   "Male",
+   "White",
+   53,
+   "NEW HAVEN",
+   "Acute Combined Heroin and Ethanol Toxicities"
+ ],
+ [
+   "11/4/13",
+   "Female",
+   "White",
+   26,
+   "BRANFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin and Mitragynine"
+ ],
+ [
+   "3/2/14",
+   "Male",
+   "White",
+   40,
+   "HARTFORD",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "11/2/13",
+   "Female",
+   "White",
+   46,
+   "PUTNAM",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/1/14",
+   "Female",
+   "White",
+   20,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin and alcohol"
+ ],
+ [
+   "5/16/12",
+   "Male",
+   "White",
+   58,
+   "LEBANON",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/12/14",
+   "Male",
+   "White",
+   44,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/15/13",
+   "Male",
+   "White",
+   34,
+   "WILLIMANTIC",
+   "Acute Intoxication due to the Combined Effects of Heroin, Methadone, and Ethanol"
+ ],
+ [
+   "12/24/14",
+   "Male",
+   "Hispanic, White",
+   60,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin, cocaine and Oxycodone"
+ ],
+ [
+   "8/23/12",
+   "Female",
+   "Hispanic, White",
+   26,
+   "STRATFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/1/14",
+   "Female",
+   "White",
+   30,
+   "MANCHESTER",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/22/14",
+   "Male",
+   "White",
+   40,
+   "ELLINGTON",
+   "Acute Heroin Toxicity Associated Wtih Tramadol and Diazapam Use"
+ ],
+ [
+   "5/31/15",
+   "Male",
+   "White",
+   20,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/16/13",
+   "Male",
+   "White",
+   30,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of heroin, alprazolam, citalopram, and hydrocodone"
+ ],
+ [
+   "7/22/13",
+   "Male",
+   "White",
+   29,
+   "NEW BRITAIN",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "8/20/12",
+   "Female",
+   "White",
+   54,
+   "MIDDLETOWN",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/5/12",
+   "Male",
+   "White",
+   43,
+   "SOUTHINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/21/15",
+   "Male",
+   "Hispanic, White",
+   58,
+   "DERBY",
+   "Acute combined heroin and methadone toxicities"
+ ],
+ [
+   "6/6/14",
+   "Male",
+   "White",
+   42,
+   "TORRINGTON",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "9/30/15",
+   "Male",
+   "White",
+   52,
+   "WATERBURY",
+   "Acute intox heroin, ethanol, fentanyl, lorazepam"
+ ],
+ [
+   "1/6/15",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/9/14",
+   "Male",
+   "White",
+   45,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of Fentanyl, heroin and alcohol"
+ ],
+ [
+   "6/20/12",
+   "Female",
+   "White",
+   29,
+   "NEW LONDON",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/27/14",
+   "Male",
+   "White",
+   39,
+   "THOMASTON",
+   "fen her"
+ ],
+ [
+   "9/3/15",
+   "Male",
+   "White",
+   60,
+   "EAST HAVEN",
+   "Acute cocaine and heroin intoxication"
+ ],
+ [
+   "1/4/15",
+   "Male",
+   "White",
+   28,
+   "MILFORD",
+   "Acute intoxication due to the combined effects of heroin, Clonazepam and Hydrocodone"
+ ],
+ [
+   "11/17/14",
+   "Male",
+   "White",
+   38,
+   "NEW LONDON",
+   "Cocaine, Heroin, and Oxycodone Intoxication"
+ ],
+ [
+   "6/29/15",
+   "Male",
+   "White",
+   40,
+   "WATERTOWN",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "11/29/13",
+   "Male",
+   "White",
+   26,
+   "NORWICH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/26/15",
+   "Male",
+   "White",
+   51,
+   "NEW HAVEN",
+   "Acute intoxiation from the combined effects of cocaine, heroin, Fentanyl and Acetyl Fentanyl"
+ ],
+ [
+   "11/16/13",
+   "Female",
+   "White",
+   44,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/23/13",
+   "Male",
+   "White",
+   30,
+   "DANBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "7/8/15",
+   "Male",
+   "White",
+   57,
+   "WATERBURY",
+   "Acute intoxication from the combined effects of heroin, Fentanyl, Clonazepam, 7-Amino Clonazepam, Triazolam, Desalkylflurazepam,"
+ ],
+ [
+   "5/24/12",
+   "Male",
+   "White",
+   73,
+   "NEW BRITAIN",
+   "Opiate Toxicity"
+ ],
+ [
+   "7/12/15",
+   "Male",
+   "White",
+   31,
+   "SEYMOUR",
+   "Acute Intoxication due to the combined effects of Heroin, Fentanyl, Diazepam and Bupropion"
+ ],
+ [
+   "2/23/13",
+   "Male",
+   "White",
+   18,
+   "NORWICH",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/10/13",
+   "Male",
+   "Black",
+   51,
+   "BRIDGEPORT",
+   "Intoxication due to the Combined Effects of Ethanol, Diazepam, Nordiazepam, Oxazepam, Temazepam, Codeine, and Morphine"
+ ],
+ [
+   "8/6/15",
+   "Male",
+   "Black",
+   65,
+   "BRISTOL",
+   "Acute heroin fentanyl methamphetamine toxicity"
+ ],
+ [
+   "6/28/13",
+   "Male",
+   "White",
+   59,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Morphine"
+ ],
+ [
+   "3/1/14",
+   "Male",
+   "Black",
+   25,
+   "NEWINGTON",
+   "Acute intoxication due to the combined effects of cocaine, heroin and Citalopram"
+ ],
+ [
+   "6/1/13",
+   "Male",
+   "White",
+   50,
+   "MERIDEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/25/12",
+   "Male",
+   "White",
+   31,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/1/14",
+   "Female",
+   "White",
+   35,
+   "NEW MILFORD",
+   "Acute heroin and Fentanyl intoxication"
+ ],
+ [
+   "4/11/13",
+   "Male",
+   "White",
+   61,
+   "SOUTHINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/8/13",
+   "Male",
+   "White",
+   32,
+   "NORWICH",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/25/14",
+   "Male",
+   "White",
+   41,
+   "MANCHESTER",
+   "Acute intoxication due to the combined effects of heroin and cocaine"
+ ],
+ [
+   "9/24/13",
+   "Female",
+   "White",
+   49,
+   "GREENWICH",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/4/13",
+   "Male",
+   "White",
+   46,
+   "NEW BRITAIN",
+   "Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "1/12/13",
+   "Male",
+   "White",
+   21,
+   "NEW HAVEN",
+   "Opiate Toxicity"
+ ],
+ [
+   "8/15/14",
+   "Male",
+   "White",
+   53,
+   "WATERBURY",
+   "Heron Intoxication"
+ ],
+ [
+   "10/18/14",
+   "Female",
+   "White",
+   19,
+   "BRISTOL",
+   "Intoxication due to the combined effects of Heroin, Bupropion, Citalopram/Escitalopram, Olanzapine, and Hydroxyzine"
+ ],
+ [
+   "6/27/12",
+   "Male",
+   "White",
+   37,
+   "NORWICH",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/24/14",
+   "Male",
+   "White",
+   32,
+   "DEEP RIVER",
+   "Acute heroin intoxication"
+ ],
+ [
+   "4/13/14",
+   "Male",
+   "White",
+   62,
+   "CHESHIRE",
+   "Intoxication due to the Combined Effects of Methadone and Heroin"
+ ],
+ [
+   "12/25/14",
+   "Male",
+   "White",
+   35,
+   "NORTH HAVEN",
+   "Acute Heroin, Fentanyl and Cocaine Toxicities"
+ ],
+ [
+   "6/30/12",
+   "Male",
+   "White",
+   28,
+   "BRIDGEPORT",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/18/15",
+   "Male",
+   "White",
+   58,
+   "WEST HAVEN",
+   "Intoxication due to the combined effects of ethanol, Fluoxetine, Trazodone and heroin"
+ ],
+ [
+   "9/22/15",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Diazepam, and Heroin"
+ ],
+ [
+   "8/31/15",
+   "Male",
+   "White",
+   51,
+   "DERBY",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "5/24/15",
+   "Male",
+   "White",
+   38,
+   "SHARON",
+   "Intoxication due to the Combined Effects of Alprazolam and Heroin"
+ ],
+ [
+   "4/22/15",
+   "Male",
+   "White",
+   30,
+   "FAIRFIELD",
+   "Intoxication due to the Combined Effects of Ethanol, Clonazepam, Alprazolam, Topiramate, and Heroin"
+ ],
+ [
+   "5/3/13",
+   "Male",
+   "Hispanic, White",
+   61,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "11/7/13",
+   "Female",
+   "White",
+   25,
+   "MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/21/13",
+   "Male",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "8/16/14",
+   "Male",
+   "White",
+   41,
+   "ENFIELD",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "4/27/13",
+   "Female",
+   "White",
+   44,
+   "BRISTOL",
+   "Intoxication due to the Combined Effects of Cocaine and Morphine"
+ ],
+ [
+   "2/22/12",
+   "Female",
+   "White",
+   47,
+   "FARMINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "3/11/14",
+   "Female",
+   "White",
+   37,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Alprazolam, Heroin, Oxycodone, Oxymorphone, and Fentanyl"
+ ],
+ [
+   "1/30/13",
+   "Male",
+   "White",
+   26,
+   "WATERBURY",
+   "Ethanol and Heroin Toxicity"
+ ],
+ [
+   "1/28/15",
+   "Male",
+   "White",
+   24,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/21/13",
+   "Male",
+   "White",
+   46,
+   "STAMFORD",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "6/22/15",
+   "Male",
+   "White",
+   25,
+   "NEW MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/28/15",
+   "Male",
+   "White",
+   21,
+   "HARWINTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/12/15",
+   "Male",
+   "White",
+   26,
+   "MASHANTUCKET",
+   "Acute heroin intoxication"
+ ],
+ [
+   "4/10/13",
+   "Male",
+   "White",
+   45,
+   "EAST HARTFORD",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "6/11/14",
+   "Male",
+   "White",
+   42,
+   "BETHEL",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "1/11/13",
+   "Female",
+   "White",
+   34,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/19/12",
+   "Male",
+   "White",
+   40,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/9/15",
+   "Male",
+   "White",
+   59,
+   "HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "6/24/15",
+   "Male",
+   "White",
+   42,
+   "NEW HAVEN",
+   "Heroin, cocaine"
+ ],
+ [
+   "2/2/14",
+   "Male",
+   "White",
+   35,
+   "AVON",
+   "Heroin, Alprazolam, and Methylphenidate Intoxication"
+ ],
+ [
+   "4/24/14",
+   "Male",
+   "White",
+   62,
+   "GROTON",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "7/3/12",
+   "Male",
+   "Black",
+   54,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "8/17/15",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Alprazolam and Heroin"
+ ],
+ [
+   "2/15/13",
+   "Male",
+   "White",
+   54,
+   "BRISTOL",
+   "Intoxication due to the Effects of Ethanol and Heroin"
+ ],
+ [
+   "12/14/12",
+   "Male",
+   "White",
+   36,
+   "MIDDLETOWN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/8/15",
+   "Male",
+   "White",
+   37,
+   "MARLBOROUGH",
+   "Intoxication due to the Combined Effects of Clonazepam, Cocaine, and Heroin"
+ ],
+ [
+   "8/8/12",
+   "Male",
+   "White",
+   34,
+   "BRISTOL",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/31/13",
+   "Male",
+   "White",
+   29,
+   "WEST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/7/15",
+   "Male",
+   "White",
+   41,
+   "NEW HAVEN",
+   "Anoxic ischemic encephalopathy due to acute intoxication by the combined effects of cocaine, Fentanyl and morphine"
+ ],
+ [
+   "11/28/14",
+   "Male",
+   "Hispanic, White",
+   40,
+   "HAMDEN",
+   "Intoxication due to the combined effects of Methadone, Alprazolam, and Heroin"
+ ],
+ [
+   "8/29/14",
+   "Male",
+   "White",
+   46,
+   "EAST HARTFORD",
+   "Acute Heroin Toxicity in Association with Amphetamine, Oxycodone, Hydrocodone, and Alcohol"
+ ],
+ [
+   "2/25/15",
+   "Male",
+   "Hispanic, White",
+   50,
+   "NEW LONDON",
+   "Acute and chronic substance abuse (heroin and cocaine)"
+ ],
+ [
+   "3/4/13",
+   "Male",
+   "Hispanic, White",
+   47,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Cocaine, Methadone, and Heroin"
+ ],
+ [
+   "6/27/15",
+   "Male",
+   "White",
+   34,
+   "NORWICH",
+   "Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "7/23/12",
+   "Male",
+   "Hispanic, White",
+   36,
+   "MILFORD",
+   "Ethanol and Heroin Toxicity"
+ ],
+ [
+   "9/28/14",
+   "Male",
+   "White",
+   26,
+   "STAMFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "2/16/13",
+   "Male",
+   "White",
+   53,
+   "WATERBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/10/14",
+   "Female",
+   "White",
+   43,
+   "STAMFORD",
+   "Intoxication due to the combined effects of Cocaine, Heroin, and Clonazepam"
+ ],
+ [
+   "12/11/12",
+   "Female",
+   "White",
+   23,
+   "MIDDLETOWN",
+   "Heroin Toxicity"
+ ],
+ [
+   "10/8/13",
+   "Male",
+   "Unknown",
+   60,
+   "MANCHESTER",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/27/13",
+   "Male",
+   "White",
+   19,
+   "BETHEL",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/5/15",
+   "Male",
+   "Hispanic, White",
+   20,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine, Heroin, and Oxycodone"
+ ],
+ [
+   "2/8/13",
+   "Male",
+   "White",
+   29,
+   "STAMFORD",
+   "Combined Drug Toxicity, Heroin and Cocaine"
+ ],
+ [
+   "8/4/14",
+   "Male",
+   "White",
+   54,
+   "VERNON",
+   "Intoxication due to the Combined Effects of Cocaine, Fentanyl, Diphenhydramine, and Morphine"
+ ],
+ [
+   "9/27/14",
+   "Male",
+   "White",
+   28,
+   "BARKHAMSTED",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/12/15",
+   "Male",
+   "White",
+   23,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/12/13",
+   "Male",
+   "White",
+   52,
+   "LEDYARD",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "7/22/14",
+   "Male",
+   "White",
+   37,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/17/14",
+   "Male",
+   "White",
+   54,
+   "SALISBURY",
+   "Combined Toxicity of Opiates, Nordiazapine, Buprenorphine and Mitragynine"
+ ],
+ [
+   "8/10/15",
+   "Male",
+   "White",
+   35,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "12/3/13",
+   "Male",
+   "White",
+   45,
+   "PLAINFIELD",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/5/15",
+   "Male",
+   "White",
+   44,
+   "BROOKFIELD",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, Alprazolam and Ethanol"
+ ],
+ [
+   "4/13/14",
+   "Female",
+   "White",
+   27,
+   "WETHERSFIELD",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/16/14",
+   "Male",
+   "White",
+   24,
+   "NEW LONDON",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/14/15",
+   "Male",
+   "Hispanic, White",
+   23,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "9/24/15",
+   "Male",
+   "White",
+   33,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/22/12",
+   "Female",
+   "White",
+   51,
+   "GROTON",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/22/13",
+   "Female",
+   "White",
+   27,
+   "NEW MILFORD",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "4/26/15",
+   "Male",
+   "White",
+   56,
+   "MIDDLETOWN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/25/15",
+   "Male",
+   "White",
+   29,
+   "DANIELSON",
+   "Acute Combined Heroin, Oxycodone, and Alcohol Toxicities"
+ ],
+ [
+   "3/20/14",
+   "Male",
+   "White",
+   25,
+   "WETHERSFIELD",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/4/13",
+   "Male",
+   "White",
+   50,
+   "WATERFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "1/11/14",
+   "Female",
+   "White",
+   25,
+   "DANBURY",
+   "Heroin and Clonazepam Intoxication"
+ ],
+ [
+   "1/30/12",
+   "Male",
+   "White",
+   45,
+   "WETHERSFIELD",
+   "Ethanol, cocaine and Heroin Toxicity"
+ ],
+ [
+   "6/16/15",
+   "Male",
+   "White",
+   61,
+   "NORWALK",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/24/13",
+   "Male",
+   "White",
+   39,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "10/7/12",
+   "Male",
+   "White",
+   41,
+   "MANCHESTER",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/21/13",
+   "Male",
+   "White",
+   29,
+   "NEW LONDON",
+   "Acute and Chronic Substance Abuse (Heroin and Cocaine)"
+ ],
+ [
+   "9/18/13",
+   "Female",
+   "White",
+   31,
+   "WATERBURY",
+   "Opiate Toxicity"
+ ],
+ [
+   "9/23/14",
+   "Male",
+   "White",
+   28,
+   "WEST STAFFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/31/15",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NEW HAVEN",
+   "Cocaine and Phencyclidine Intoxication"
+ ],
+ [
+   "11/12/13",
+   "Male",
+   "White",
+   29,
+   "NO HAVEN",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "7/13/15",
+   "Male",
+   "White",
+   21,
+   "NORWALK",
+   "Acute Combined Heroin, Fentanyl and Methadone Toxicities"
+ ],
+ [
+   "6/30/15",
+   "Male",
+   "White",
+   58,
+   "BRISTOL",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/6/15",
+   "Male",
+   "Hispanic, White",
+   41,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/5/15",
+   "Female",
+   "White",
+   27,
+   "NEW HAVEN",
+   "Acute intoxication from the combined effects of heroin and phencyclidine"
+ ],
+ [
+   "10/27/13",
+   "Male",
+   "Black",
+   42,
+   "NEW LONDON",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "9/9/14",
+   "Male",
+   "White",
+   49,
+   "NAUGATUCK",
+   "Intoxication due to the combined effects of Heroin and Methadone"
+ ],
+ [
+   "2/13/14",
+   "Male",
+   "White",
+   44,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl, Oxycodone, Clonazepam and cocaine"
+ ],
+ [
+   "9/4/14",
+   "Male",
+   "Hispanic, White",
+   38,
+   "NEW LONDON",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "10/23/12",
+   "Male",
+   "White",
+   45,
+   "EAST HAMPTON",
+   "Ethanol and Heroin Toxicity"
+ ],
+ [
+   "12/13/14",
+   "Male",
+   "White",
+   37,
+   "TERRYVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/1/12",
+   "Male",
+   "White",
+   32,
+   "NEW MILFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/23/14",
+   "Male",
+   "White",
+   47,
+   "WATERBURY",
+   "Acute Heroin Toxicity Associated with Alcohol and Benzodiazepine Use"
+ ],
+ [
+   "12/4/13",
+   "Male",
+   "White",
+   48,
+   "NORWALK",
+   "Acute intoxication due to the combined effects of heroin, Alprazolam and ethanol"
+ ],
+ [
+   "8/17/12",
+   "Female",
+   "White",
+   45,
+   "MANSFIELD",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/15/13",
+   "Female",
+   "White",
+   42,
+   "BRISTOL",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/12/13",
+   "Male",
+   "Black",
+   53,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "6/29/14",
+   "Male",
+   "White",
+   23,
+   "BRISTOL",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/24/13",
+   "Male",
+   "White",
+   40,
+   "NEW LONDON",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/23/15",
+   "Female",
+   "White",
+   33,
+   "MANCHESTER",
+   "Acute Intoxication due to the Combined Effects of Clonazepam, Citalopram/Escitalopram, Trazadone, Perphenazine, Hydroxyzine, and heroin"
+ ],
+ [
+   "3/22/13",
+   "Male",
+   "White",
+   25,
+   "HARTFORD",
+   "Acute Intoxication, Heroin and Phencyclidine"
+ ],
+ [
+   "7/2/12",
+   "Male",
+   "Hispanic, White",
+   47,
+   "BRISTOL",
+   "Ethanol and Opiate Toxicity"
+ ],
+ [
+   "3/24/14",
+   "Male",
+   "White",
+   17,
+   "DANBURY",
+   "Opiate and Amphetamine Intoxication with Anoxic Brain Death"
+ ],
+ [
+   "1/8/15",
+   "Male",
+   "Black",
+   37,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/12/13",
+   "Male",
+   "White",
+   50,
+   "NEW HAVEN",
+   "Combined Drug Toxicity, Heroin and Ethanol"
+ ],
+ [
+   "6/19/14",
+   "Male",
+   "White",
+   24,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "3/27/13",
+   "Male",
+   "White",
+   43,
+   "TORRINGTON",
+   "Intoxication due to the Combined Effects of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "6/15/13",
+   "Male",
+   "White",
+   34,
+   "MERIDEN",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "12/30/13",
+   "Male",
+   "Hispanic, White",
+   58,
+   "HARTFORD",
+   "intox"
+ ],
+ [
+   "7/25/15",
+   "Male",
+   "White",
+   62,
+   "HARTFORD",
+   "Acute intoxication from the combined effects of cocaine, heroin, alcohol and Oxycodone"
+ ],
+ [
+   "6/29/12",
+   "Male",
+   "White",
+   31,
+   "DANBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/23/13",
+   "Male",
+   "White",
+   28,
+   "JEWETT CITY",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/21/14",
+   "Female",
+   "Hispanic, White",
+   29,
+   "STAFFORD SPRINGS",
+   "Heroin, Duloxetine, and Cyclobenzapine Intoxication"
+ ],
+ [
+   "9/5/12",
+   "Male",
+   "Hispanic, White",
+   43,
+   "NORWICH",
+   "Ethanol and Opiate Toxicity"
+ ],
+ [
+   "6/2/13",
+   "Male",
+   "White",
+   24,
+   "BRIDGEPORT",
+   "Multiple Drug Toxicities"
+ ],
+ [
+   "9/13/14",
+   "Male",
+   "White",
+   27,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, Alprazolam and Cyclobenzaprine"
+ ],
+ [
+   "5/1/15",
+   "Male",
+   "Hispanic, White",
+   27,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Phencyclidine, Tramadol, Fentanyl, and Heroin"
+ ],
+ [
+   "9/4/14",
+   "Male",
+   "White",
+   25,
+   "HAMDEN",
+   "Acute intoxication due to the combined effects of heroin, Alprazolam and Clonazepam"
+ ],
+ [
+   "2/6/15",
+   "Female",
+   "White",
+   37,
+   "TAFTVILLE",
+   "Acute intoxication due to the combined effects of cocaine, heroin and Clonazepam"
+ ],
+ [
+   "9/8/14",
+   "Male",
+   "White",
+   23,
+   "EAST LYME",
+   "Intoxication due to the Combined Effects of Ethanol andHeroin"
+ ],
+ [
+   "9/14/15",
+   "Female",
+   "White",
+   38,
+   "BRIDGEPORT",
+   "Complications of acute opiate intoxication "
+ ],
+ [
+   "5/22/14",
+   "Male",
+   "White",
+   55,
+   "DANBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/17/15",
+   "Male",
+   "White",
+   32,
+   "AMSTON",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "6/7/13",
+   "Male",
+   "White",
+   30,
+   "STAMFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/7/12",
+   "Male",
+   "Black",
+   50,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "6/3/13",
+   "Female",
+   "White",
+   26,
+   "BRIDGEPORT",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/9/12",
+   "Male",
+   "Black",
+   44,
+   "BRIDGEPORT",
+   "Heroin, Cocaine and Methadone Toxicities"
+ ],
+ [
+   "8/30/15",
+   "Male",
+   "Hispanic, White",
+   32,
+   "NEW LONDON",
+   "Acute Combined Heroin and Methadone Toxicities"
+ ],
+ [
+   "4/3/14",
+   "Male",
+   "White",
+   42,
+   "STAFFORD SPRINGS",
+   "Combined drug toxicity, heroin and ethanol"
+ ],
+ [
+   "3/8/15",
+   "Male",
+   "White",
+   26,
+   "MILFORD",
+   "Intoxication due to the Combined Effects of Cocaine, Heroin, and Alprazolam"
+ ],
+ [
+   "7/28/15",
+   "Female",
+   "White",
+   25,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/22/12",
+   "Male",
+   "Hispanic, White",
+   32,
+   "WATERBURY",
+   "Opiate Toxicity"
+ ],
+ [
+   "7/20/13",
+   "Female",
+   "White",
+   58,
+   "ENFIELD",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/14/15",
+   "Male",
+   "White",
+   23,
+   "NORWALK",
+   "Intoxication due to the Combined Effects of Heroin, Temazepam, Oxazepam, and Diazepam"
+ ],
+ [
+   "10/22/12",
+   "Male",
+   "White",
+   28,
+   "MILFORD",
+   "Cocaine and Opiate Toxicities"
+ ],
+ [
+   "9/30/12",
+   "Female",
+   "Hispanic, White",
+   32,
+   "MIDDLETOWN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "8/4/14",
+   "Female",
+   "White",
+   54,
+   "BRIDGEPORT",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "3/16/14",
+   "Male",
+   "White",
+   66,
+   "NORTH HAVEN",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "7/5/15",
+   "Male",
+   "Hispanic, White",
+   43,
+   "NAUGATUCK",
+   "Intoxication due to the Combined Effects of Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "8/14/15",
+   "Male",
+   "Hispanic, White",
+   53,
+   "NEW LONDON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/6/15",
+   "Male",
+   "White",
+   29,
+   "VERNON",
+   "Intoxication due to the Combined Effects of Diazepam, Paroxetine, Tramadol,  and Heroin"
+ ],
+ [
+   "7/26/12",
+   "Male",
+   "White",
+   24,
+   "BRANFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/25/15",
+   "Male",
+   "White",
+   24,
+   "NEW LONDON",
+   "Acute heroin intoxication"
+ ],
+ [
+   "9/12/15",
+   "Male",
+   "White",
+   35,
+   "HARTFORD",
+   "Complications of Opiate and Cocaine Toxicities"
+ ],
+ [
+   "9/12/15",
+   "Male",
+   "White",
+   30,
+   "EAST LYME",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/10/13",
+   "Male",
+   "White",
+   39,
+   "NEW HAVEN",
+   "Opiate and Cocaine Intoxication"
+ ],
+ [
+   "6/30/14",
+   "Male",
+   "White",
+   53,
+   "PAWCATUCK",
+   "Intoxication due to the combined effects of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "4/29/14",
+   "Male",
+   "White",
+   52,
+   "NEW LONDON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/27/14",
+   "Female",
+   "White",
+   54,
+   "BERLIN",
+   "Intoxication due to the combined effects of Heroin, Diazepam, and Zolpidem"
+ ],
+ [
+   "7/6/12",
+   "Male",
+   "Hispanic, White",
+   54,
+   "STAMFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/13/12",
+   "Male",
+   "White",
+   29,
+   "DANBURY",
+   "Cocaine and Morphine Toxicity"
+ ],
+ [
+   "5/9/15",
+   "Female",
+   "Hispanic, White",
+   33,
+   "NORWALK",
+   "Acute Intoxication from the Combined Effects of Phencyclidine and Heroin"
+ ],
+ [
+   "10/2/14",
+   "Male",
+   "White",
+   45,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/30/15",
+   "Male",
+   "White",
+   24,
+   "DURHAM",
+   "Acute Intoxication due to the Combined Effects of Diazepam, Alprazolam, Fentanyl, and Heroin"
+ ],
+ [
+   "4/7/14",
+   "Male",
+   "White",
+   28,
+   "WATERBURY",
+   "Asthma"
+ ],
+ [
+   "6/12/13",
+   "Male",
+   "White",
+   49,
+   "NORWICH",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "4/24/14",
+   "Male",
+   "White",
+   35,
+   "DANBURY",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "1/12/14",
+   "Female",
+   "White",
+   29,
+   "NEW HAVEN",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "6/22/15",
+   "Male",
+   "White",
+   45,
+   "NORTH GROSVENORDALE",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/17/12",
+   "Male",
+   "White",
+   20,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/18/12",
+   "Female",
+   "Black",
+   51,
+   "NEW LONDON",
+   "Heroin and Mixed Opiate Toxicity"
+ ],
+ [
+   "6/24/15",
+   "Female",
+   "White",
+   56,
+   "WATERBURY",
+   "Combined Acute Heroin, Oxycodone and Diphenhydramine Toxicities"
+ ],
+ [
+   "11/30/14",
+   "Female",
+   "White",
+   36,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of cocaine and heroin"
+ ],
+ [
+   "1/2/14",
+   "Female",
+   "Black",
+   29,
+   "NORWALK",
+   "Acute and Chronic Substance Abuse (Cocaine, Heroin, Risperidone, Amitriptyline and Alpha-PVP"
+ ],
+ [
+   "2/21/14",
+   "Female",
+   "White",
+   45,
+   "NEW BRITAIN",
+   "Acute Opiate Toxicity"
+ ],
+ [
+   "5/15/13",
+   "Male",
+   "White",
+   26,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/13/12",
+   "Male",
+   "White",
+   23,
+   "NEW LONDON",
+   "Cocaine and Heroin Toxicities"
+ ],
+ [
+   "2/17/15",
+   "Male",
+   "White",
+   58,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/18/15",
+   "Male",
+   "Black",
+   50,
+   "NEW LONDON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/25/15",
+   "Male",
+   "White",
+   25,
+   "MANCHESTER",
+   "Acute heroin intoxication"
+ ],
+ [
+   "5/14/14",
+   "Female",
+   "White",
+   52,
+   "BRISTOL",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/1/14",
+   "Male",
+   "White",
+   27,
+   "MILFORD",
+   "Acute heroin and Fentanyl intoxication"
+ ],
+ [
+   "7/23/12",
+   "Male",
+   "White",
+   47,
+   "BERLIN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "8/28/14",
+   "Male",
+   "White",
+   40,
+   "EAST HARTFORD",
+   "Intoxication due to the combined effects of Fentanyl and Heroin"
+ ],
+ [
+   "9/20/14",
+   "Male",
+   "White",
+   34,
+   "SOUTHINGTON",
+   "Acute intoxication due to the combined effects of heroin and Fentanyl"
+ ],
+ [
+   "5/25/15",
+   "Male",
+   "Hispanic, White",
+   36,
+   "ENFIELD",
+   "Intoxication due to the Combined Toxicity of Cocaine and Heroin"
+ ],
+ [
+   "7/16/15",
+   "Male",
+   "Hispanic, White",
+   33,
+   "PUTNAM",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl and Acetyl Fentanyl"
+ ],
+ [
+   "9/30/12",
+   "Female",
+   "White",
+   33,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/15/12",
+   "Female",
+   "Black",
+   47,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "1/13/14",
+   "Male",
+   "White",
+   35,
+   "TORRINGTON",
+   "Combined drug toxicity, heroin and ethanol"
+ ],
+ [
+   "11/5/14",
+   "Female",
+   "White",
+   20,
+   "WINDSOR",
+   "Acute intoxication due to the combined effects of heroin, ethanol, Methorphan, Promethazine and Chlorpheniramine"
+ ],
+ [
+   "6/14/15",
+   "Male",
+   "Black",
+   27,
+   "MIDDLETOWN",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "5/31/15",
+   "Male",
+   "White",
+   32,
+   "WEST HAVEN",
+   "Intoxication due to the Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "1/16/13",
+   "Female",
+   "White",
+   20,
+   "MERIDEN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "4/12/15",
+   "Male",
+   "White",
+   23,
+   "DANBURY",
+   "Heroin and Ethanol Intoxication"
+ ],
+ [
+   "6/30/14",
+   "Female",
+   "White",
+   56,
+   "NEW HAVEN",
+   "Intoxication due to the combined effects of Cocaine, Diazepam, Nordiazepam, and Heroin"
+ ],
+ [
+   "7/15/12",
+   "Male",
+   "Unknown",
+   29,
+   "SHELTON",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "9/24/14",
+   "Male",
+   "White",
+   67,
+   "NEW HAVEN",
+   "Acute heroin intoxication"
+ ],
+ [
+   "10/17/14",
+   "Female",
+   "White",
+   32,
+   "SOUTHINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/28/15",
+   "Male",
+   "White",
+   34,
+   "NORWICH",
+   "Acute Alcohol and Heroin Intoxication"
+ ],
+ [
+   "9/28/13",
+   "Male",
+   "Black",
+   47,
+   "HARTFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "5/14/15",
+   "Male",
+   "White",
+   69,
+   "NEW HAVEN",
+   "Acute Intoxication from the Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "6/2/15",
+   "Male",
+   "White",
+   47,
+   "WATERBURY",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "6/5/13",
+   "Male",
+   "White",
+   22,
+   "NEW FAIRFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/11/14",
+   "Male",
+   "White",
+   57,
+   "NORWALK",
+   "Acute intoxication due to the combined effects of heroin, Diazepam and ethanol"
+ ],
+ [
+   "5/24/12",
+   "Male",
+   "Black",
+   53,
+   "NEW LONDON",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/14/15",
+   "Male",
+   "White",
+   50,
+   "DANBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/7/14",
+   "Female",
+   "White",
+   53,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Heroin and Methadone"
+ ],
+ [
+   "2/19/15",
+   "Male",
+   "White",
+   20,
+   "NEW HAVEN",
+   "Acute heroin intoxication"
+ ],
+ [
+   "10/6/13",
+   "Female",
+   "White",
+   28,
+   "TORRINGTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/27/13",
+   "Male",
+   "White",
+   30,
+   "STAFFORD",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "12/5/12",
+   "Female",
+   "White",
+   48,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/15/12",
+   "Male",
+   "Hispanic, White",
+   44,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/12/14",
+   "Male",
+   "White",
+   47,
+   "NORWALK",
+   "Acute intoxication due to the combined effects of heroin, Alprazolam and ethanol"
+ ],
+ [
+   "7/25/13",
+   "Female",
+   "White",
+   27,
+   "PUTNAM",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "5/12/14",
+   "Male",
+   "Hispanic, White",
+   43,
+   "BRIDGEPORT",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "5/3/14",
+   "Male",
+   "White",
+   52,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "7/26/15",
+   "Male",
+   "White",
+   39,
+   "TORRINGTON",
+   "Acute Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "5/16/14",
+   "Male",
+   "White",
+   29,
+   "CANTON",
+   "Acute Heroin and Alcohol Toxicity"
+ ],
+ [
+   "7/23/15",
+   "Female",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Heroin and Alprazolam Intoxication"
+ ],
+ [
+   "2/14/14",
+   "Female",
+   "White",
+   39,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin, Methylphenidate, Topiramate, Methylone and Amitriptyline"
+ ],
+ [
+   "9/12/14",
+   "Female",
+   "White",
+   39,
+   "FAIRFIELD",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl, Benzodiazepines and Amitriptyline"
+ ],
+ [
+   "1/25/13",
+   "Female",
+   "White",
+   24,
+   "HARTFORD",
+   "Heroin and Opiate Toxicity"
+ ],
+ [
+   "6/14/15",
+   "Male",
+   "White",
+   35,
+   "WILLIMANTIC",
+   "Acute Intoxication due to the Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "3/12/12",
+   "Female",
+   "White",
+   45,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/18/14",
+   "Male",
+   "White",
+   50,
+   "NORWICH",
+   "Intoxication due to the combined effects of Cocaine, Heroin, and Ethanol"
+ ],
+ [
+   "5/26/15",
+   "Male",
+   "White",
+   51,
+   "FAIRFIELD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/21/14",
+   "Male",
+   "White",
+   36,
+   "HARTFORD",
+   "Complications of Acute Opiate Toxicity"
+ ],
+ [
+   "5/3/13",
+   "Male",
+   "Hispanic, White",
+   43,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/28/14",
+   "Male",
+   "White",
+   49,
+   "STRATFORD",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "4/13/15",
+   "Male",
+   "",
+   68,
+   "HARTFORD",
+   "Complications of Acute Heroin Toxicity"
+ ],
+ [
+   "11/7/14",
+   "Male",
+   "White",
+   58,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, ethanol and Mirtazepine"
+ ],
+ [
+   "10/9/13",
+   "Male",
+   "White",
+   23,
+   "ESSEX",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/18/14",
+   "Female",
+   "White",
+   27,
+   "NEW HAVEN",
+   "Intoxication due to the combined effects of Cocaine, Olanzapine, Doxylamine, and Heroin"
+ ],
+ [
+   "2/8/13",
+   "Male",
+   "Hispanic, White",
+   36,
+   "WILLIMANTIC",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "8/24/12",
+   "Male",
+   "White",
+   49,
+   "MONROE",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/24/14",
+   "Female",
+   "White",
+   52,
+   "WEST HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/25/15",
+   "Male",
+   "White",
+   54,
+   "WINDSOR LOCKS",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "5/11/12",
+   "Male",
+   "White",
+   30,
+   "DANBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/19/13",
+   "Male",
+   "White",
+   32,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/9/13",
+   "Male",
+   "White",
+   24,
+   "SOUTHINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/17/12",
+   "Male",
+   "White",
+   52,
+   "BRIDGEPORT",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/10/14",
+   "Male",
+   "White",
+   33,
+   "HARTFORD",
+   "Acute heroin intoxication"
+ ],
+ [
+   "5/2/15",
+   "Female",
+   "White",
+   28,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, cocaine and alcohol"
+ ],
+ [
+   "7/9/15",
+   "Male",
+   "White",
+   33,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin, cocaine, ethanol and benzodiazepines"
+ ],
+ [
+   "5/8/14",
+   "Male",
+   "White",
+   33,
+   "S GLASTONBURY",
+   "Acute heroin intoxication"
+ ],
+ [
+   "10/24/14",
+   "Male",
+   "White",
+   26,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/14/13",
+   "Male",
+   "White",
+   36,
+   "STAMFORD",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "9/18/15",
+   "Male",
+   "White",
+   23,
+   "NEW MILFORD",
+   "Acute heroin intoxication"
+ ],
+ [
+   "8/11/13",
+   "Male",
+   "White",
+   33,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/3/13",
+   "Male",
+   "White",
+   36,
+   "ENFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/24/12",
+   "Male",
+   "White",
+   29,
+   "WOODBRIDGE",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/7/13",
+   "Female",
+   "White",
+   26,
+   "NEW LONDON",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/3/12",
+   "Male",
+   "White",
+   60,
+   "EAST WINDSOR",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "6/10/12",
+   "Male",
+   "White",
+   23,
+   "BRISTOL",
+   "Opiate Toxicity"
+ ],
+ [
+   "12/27/13",
+   "Male",
+   "White",
+   55,
+   "BRIDGEPORT",
+   "intox"
+ ],
+ [
+   "2/20/15",
+   "Male",
+   "White",
+   26,
+   "LEBANON",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "5/10/14",
+   "Female",
+   "White",
+   24,
+   "PUTNAM",
+   "Phencyclidine and Heroin Intoxication"
+ ],
+ [
+   "9/18/15",
+   "Male",
+   "White",
+   28,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin, Acetyl Fentanyl, amphetamine and ethanol"
+ ],
+ [
+   "10/23/12",
+   "Male",
+   "White",
+   44,
+   "NEW BRITAIN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/9/13",
+   "Female",
+   "White",
+   51,
+   "MANCHESTER",
+   "Acute Heroin and Hydrocodone Intoxication"
+ ],
+ [
+   "4/19/15",
+   "Female",
+   "Hispanic, White",
+   49,
+   "HARTFORD",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "8/17/13",
+   "Male",
+   "White",
+   64,
+   "BRISTOL",
+   "Heroin and Alcohol Intoxication"
+ ],
+ [
+   "3/28/15",
+   "Male",
+   "White",
+   31,
+   "DANBURY",
+   "Acute intoxication due to the combined effects of Fentanyl, opiates,"
+ ],
+ [
+   "4/5/12",
+   "Male",
+   "White",
+   49,
+   "DERBY",
+   "Ethanol and Cocaine Toxicity"
+ ],
+ [
+   "12/20/14",
+   "Male",
+   "Hispanic, Black",
+   58,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin and alcohol"
+ ],
+ [
+   "9/20/15",
+   "Male",
+   "White",
+   24,
+   "WATERBURY",
+   "Intoxication due to the combined effects of ethanol, Clonazepam, Bupropion and heroin"
+ ],
+ [
+   "5/13/12",
+   "Male",
+   "White",
+   39,
+   "BRANFORD",
+   "Cocaine And Heroin Toxicity"
+ ],
+ [
+   "9/25/15",
+   "Male",
+   "White",
+   46,
+   "MADISON",
+   "Acute intoxication from the combined effects of heroin, Zolpidem and Nordiazepam"
+ ],
+ [
+   "10/23/13",
+   "Male",
+   "White",
+   49,
+   "MILFORD",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "5/1/12",
+   "Male",
+   "White",
+   49,
+   "BRISTOL",
+   "Ethanol and Heroin Toxicity"
+ ],
+ [
+   "6/20/15",
+   "Male",
+   "Hispanic, White",
+   42,
+   "NEW LONDON",
+   "Acute Intoxication Due to the Combined Effects of Heroin and Cocaine"
+ ],
+ [
+   "6/2/14",
+   "Male",
+   "White",
+   47,
+   "PLAINFIELD",
+   "Acute intoxication due to the combined effects of heroin, Oxycodone and Diazepam"
+ ],
+ [
+   "10/24/13",
+   "Male",
+   "White",
+   58,
+   "UNIONVILLE",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "2/4/13",
+   "Male",
+   "White",
+   57,
+   "NEW LONDON",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "10/1/14",
+   "Female",
+   "Hispanic, White",
+   34,
+   "WILLIMANTIC",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "10/10/13",
+   "Male",
+   "White",
+   20,
+   "NEW HAVEN",
+   "Acute Heroin and Methadone Toxicities"
+ ],
+ [
+   "3/1/14",
+   "Male",
+   "White",
+   32,
+   "GLASTONBURY",
+   "Acute intoxication due to the combined effects of heroin, Clonazepam and Alprazolam"
+ ],
+ [
+   "2/4/13",
+   "Male",
+   "White",
+   25,
+   "POMFRET",
+   "Opiate Toxicity"
+ ],
+ [
+   "11/2/13",
+   "Male",
+   "White",
+   40,
+   "TORRINGTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/13/14",
+   "Male",
+   "White",
+   30,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Opiates"
+ ],
+ [
+   "1/3/13",
+   "Male",
+   "White",
+   65,
+   "NORWICH",
+   "Heroin, Cocaine and Hydrocodone Toxicities"
+ ],
+ [
+   "1/5/14",
+   "Male",
+   "Hispanic, White",
+   50,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, Zolpidem and Quetiapine"
+ ],
+ [
+   "3/2/13",
+   "Male",
+   "White",
+   29,
+   "NORTH HAVEN",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "6/17/14",
+   "Female",
+   "White",
+   29,
+   "NEW LONDON",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "9/3/15",
+   "Male",
+   "White",
+   55,
+   "NORWICH",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl, Zolpidem and ethanol"
+ ],
+ [
+   "12/25/12",
+   "Female",
+   "White",
+   44,
+   "NEW LONDON",
+   "Opiate Toxicity"
+ ],
+ [
+   "10/22/14",
+   "Female",
+   "White",
+   42,
+   "VOLUNTOWN",
+   "Acute Heroin Toxicity Associated with Cocaine and Alcohol Abuse"
+ ],
+ [
+   "8/14/12",
+   "Male",
+   "White",
+   21,
+   "ENFIELD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/4/15",
+   "Male",
+   "White",
+   59,
+   "GROTON",
+   "Acute heroin intoxication"
+ ],
+ [
+   "3/25/15",
+   "Male",
+   "White",
+   35,
+   "GROTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/14/12",
+   "Male",
+   "White",
+   18,
+   "NEW LONDON",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "7/5/15",
+   "Female",
+   "White",
+   49,
+   "NEW HAVEN",
+   "Acute intoxication from the combined effects of heroin and methadone"
+ ],
+ [
+   "3/22/15",
+   "Male",
+   "White",
+   47,
+   "NEW LONDON",
+   "Intoxication due to the Combined Effects of Diazepam, Cocaine, Sertraline, Hydrocodone, and Heroin"
+ ],
+ [
+   "4/8/13",
+   "Male",
+   "Unknown",
+   22,
+   "BRIDGEPORT",
+   "Acute Alcohol and Morphine Intoxication"
+ ],
+ [
+   "12/6/14",
+   "Female",
+   "White",
+   44,
+   "MIDDLETOWN",
+   "Intoxication due to the combined effects of Fentanyl, Heroin, and Cocaine"
+ ],
+ [
+   "7/11/12",
+   "Male",
+   "Hispanic, White",
+   44,
+   "MERIDEN",
+   "Cocaine and Opiate Toxicity"
+ ],
+ [
+   "4/8/12",
+   "Male",
+   "White",
+   45,
+   "DERBY",
+   "Cocaine and Fentanyl Toxicity"
+ ],
+ [
+   "10/18/12",
+   "Male",
+   "White",
+   19,
+   "BRIDGEPORT",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/8/14",
+   "Male",
+   "White",
+   39,
+   "MANCHESTER",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/27/14",
+   "Male",
+   "Black",
+   41,
+   "MERIDEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/27/14",
+   "Female",
+   "Hispanic, White",
+   27,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of heroin and methadone"
+ ],
+ [
+   "2/20/14",
+   "Male",
+   "White",
+   29,
+   "NORWALK",
+   "Acute Heroin, Alprazolam and Mirtazapine Toxicities"
+ ],
+ [
+   "7/27/13",
+   "Female",
+   "White",
+   46,
+   "NORWICH",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "1/31/14",
+   "Male",
+   "White",
+   62,
+   "VERNON",
+   "Acute intoxication due to the combined effects of heroin and Alprazolam"
+ ],
+ [
+   "8/4/13",
+   "Male",
+   "White",
+   60,
+   "GLASTONBURY",
+   "Acute Heroin and Oxycodone Toxicities"
+ ],
+ [
+   "8/2/15",
+   "Female",
+   "White",
+   21,
+   "MANCHESTER",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "6/19/15",
+   "Male",
+   "White",
+   50,
+   "DANBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, Bupropion, Haloperidol, and Heroin"
+ ],
+ [
+   "1/4/14",
+   "Male",
+   "Black",
+   55,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin, cocaine, and ethanol"
+ ],
+ [
+   "1/16/15",
+   "Male",
+   "White",
+   34,
+   "BRISTOL",
+   "Acute intoxication due to the combined effects of heroin and Alprazolam"
+ ],
+ [
+   "10/5/14",
+   "Male",
+   "White",
+   31,
+   "COVENTRY",
+   "Heroin and Alcohol Intoxication"
+ ],
+ [
+   "1/27/12",
+   "Female",
+   "White",
+   40,
+   "MANCHESTER",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/28/13",
+   "Male",
+   "White",
+   29,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Fentanyl and Morphine"
+ ],
+ [
+   "12/1/13",
+   "Male",
+   "White",
+   41,
+   "CROMWELL",
+   "Ethanol, Cocaine and Heroin Intoxication"
+ ],
+ [
+   "11/4/12",
+   "Male",
+   "White",
+   30,
+   "NEW HAVEN",
+   "Combined Drug Toxicity, Heroin and Cocaine"
+ ],
+ [
+   "8/8/14",
+   "Male",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin and alcohol"
+ ],
+ [
+   "7/12/13",
+   "Male",
+   "White",
+   20,
+   "EAST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/6/15",
+   "Male",
+   "Hispanic, White",
+   35,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/5/14",
+   "Male",
+   "Hispanic, White",
+   45,
+   "WILLIMANTIC",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/26/13",
+   "Male",
+   "White",
+   38,
+   "VERNON",
+   "Combined Acute Heroin, Tramadol and Benzodiazepine Toxicities"
+ ],
+ [
+   "12/6/13",
+   "Female",
+   "White",
+   41,
+   "NEW LONDON",
+   "Acute Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "5/16/13",
+   "Male",
+   "White",
+   44,
+   "TERRYVILLE",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/26/14",
+   "Male",
+   "White",
+   35,
+   "SOUTHINGTON",
+   "Acute intoxication due to the combined effects of cocaine, heroin, and ethanol"
+ ],
+ [
+   "1/14/13",
+   "Female",
+   "White",
+   29,
+   "NORTH BRANFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/15/13",
+   "Male",
+   "White",
+   29,
+   "EAST LYME",
+   "Acute Opiate Intoxication"
+ ],
+ [
+   "8/20/14",
+   "Male",
+   "White",
+   54,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/21/15",
+   "Female",
+   "White",
+   50,
+   "UNCASVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/20/12",
+   "Male",
+   "White",
+   29,
+   "DERBY",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/21/12",
+   "Male",
+   "White",
+   29,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/19/12",
+   "Male",
+   "White",
+   47,
+   "ANSONIA",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/1/12",
+   "Male",
+   "White",
+   51,
+   "PORTLAND",
+   "Heroin Toxicity"
+ ],
+ [
+   "3/30/13",
+   "Male",
+   "White",
+   38,
+   "EAST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/12/15",
+   "Male",
+   "White",
+   53,
+   "DANBURY",
+   "Acute Intoxication from the Combined Effects of Heroin, Cocaine, Hydromorphone, Alprazolam, Haloperidol, Trazodone, Mirtazepine, lamotrigine"
+ ],
+ [
+   "9/6/12",
+   "Male",
+   "White",
+   30,
+   "OAKDALE",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/18/12",
+   "Male",
+   "White",
+   49,
+   "BRIDGEPORT",
+   "Combined drug toxicity, cocaine and heroin"
+ ],
+ [
+   "4/12/12",
+   "Female",
+   "White",
+   38,
+   "MERIDEN",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "1/7/14",
+   "Male",
+   "White",
+   34,
+   "TORRINGTON",
+   "ACUTE INTOXICATION DUE TO THE COMBINED EFFECTS OF HEROIN AND ALPRAZOLAM"
+ ],
+ [
+   "4/9/12",
+   "Male",
+   "White",
+   36,
+   "BRISTOL",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "7/15/15",
+   "Male",
+   "White",
+   55,
+   "BRIDGEPORT",
+   "Acute Combined Heroin, Cocaine and Methadone Toxicities"
+ ],
+ [
+   "9/5/12",
+   "Male",
+   "White",
+   26,
+   "NORTHFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/30/15",
+   "Male",
+   "White",
+   38,
+   "NORWICH",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/1/12",
+   "Male",
+   "White",
+   31,
+   "NEW HAVEN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "4/10/14",
+   "Male",
+   "White",
+   29,
+   "MARLBOROUGH",
+   "Heroin toxicity"
+ ],
+ [
+   "8/13/14",
+   "Male",
+   "White",
+   42,
+   "WEST HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/31/14",
+   "Male",
+   "Hispanic, White",
+   50,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of heroin and ethanol"
+ ],
+ [
+   "9/28/15",
+   "Male",
+   "White",
+   52,
+   "HAMDEN",
+   "Heroin, methadone, oxycodone, diazepam toxicities"
+ ],
+ [
+   "4/4/15",
+   "Female",
+   "White",
+   59,
+   "MANCHESTER",
+   "Intoxication due to the Combined Effects of Alprazolam, Cocaine, Bupropion, Duloxetine, Quetiapine, Fentanyl, and Heroin"
+ ],
+ [
+   "8/9/12",
+   "Male",
+   "White",
+   30,
+   "VERNON",
+   "Combined drug toxicity, heroin and ethanol"
+ ],
+ [
+   "5/3/15",
+   "Male",
+   "White",
+   45,
+   "BRISTOL",
+   "Acute Intoxication from the Combined Effects of Heroin, Citalopram, Doxepin, and Aripiprazole"
+ ],
+ [
+   "1/12/14",
+   "Female",
+   "White",
+   53,
+   "BRISTOL",
+   "Acute Heroin, Lorazepam, Clonazepam, Carisoprodol,Quetiapine and Tramadol Toxicities"
+ ],
+ [
+   "1/4/13",
+   "Male",
+   "White",
+   21,
+   "WINDSOR",
+   "Opiate Toxicity"
+ ],
+ [
+   "4/9/14",
+   "Female",
+   "White",
+   43,
+   "BERLIN",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/19/15",
+   "Female",
+   "White",
+   39,
+   "HARTFORD",
+   "Complications of acute intoxication due to the combined effects of heroin, Fentanyl and cocaine"
+ ],
+ [
+   "7/27/14",
+   "Male",
+   "White",
+   35,
+   "NEW HAVEN",
+   "Alcohol and Heroin Intoxication"
+ ],
+ [
+   "11/5/13",
+   "Male",
+   "Hispanic, White",
+   47,
+   "NAUGATUCK",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "9/21/13",
+   "Female",
+   "White",
+   49,
+   "WOODBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/6/15",
+   "Male",
+   "White",
+   29,
+   "BRIDGEPORT",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/11/12",
+   "Female",
+   "Hispanic, White",
+   29,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/15/13",
+   "Male",
+   "White",
+   66,
+   "WATERBURY",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "8/14/15",
+   "Female",
+   "White",
+   37,
+   "HANOVER",
+   "Acute heroin intoxication"
+ ],
+ [
+   "11/24/12",
+   "Male",
+   "White",
+   20,
+   "WALLINGFORD",
+   "Heroin and Cocaine Toxicities"
+ ],
+ [
+   "11/28/13",
+   "Female",
+   "White",
+   40,
+   "HARTFORD",
+   "Acute Heroin, Cocaine and Alcohol Toxicities"
+ ],
+ [
+   "1/8/12",
+   "Male",
+   "White",
+   33,
+   "PUTNAM",
+   "Opiate Toxicity"
+ ],
+ [
+   "6/19/15",
+   "Male",
+   "White",
+   26,
+   "MANCHESTER",
+   "Acute Combined Heroin and Alcohol Toxicities"
+ ],
+ [
+   "12/17/13",
+   "Female",
+   "White",
+   44,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/18/12",
+   "Male",
+   "White",
+   61,
+   "GROTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "1/15/12",
+   "Male",
+   "White",
+   38,
+   "NEW BRITAIN",
+   "Combined Drug Toxicity, Heroin and Methadone"
+ ],
+ [
+   "11/4/12",
+   "Male",
+   "White",
+   49,
+   "BRISTOL",
+   "Heroin aNd Cocaine Toxicities"
+ ],
+ [
+   "8/27/13",
+   "Male",
+   "White",
+   60,
+   "PLAINVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/30/13",
+   "Male",
+   "White",
+   55,
+   "ROCKVILLE",
+   "Diazepam and Heroin Intoxication"
+ ],
+ [
+   "3/23/15",
+   "Female",
+   "White",
+   19,
+   "GREENWICH",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/10/14",
+   "Female",
+   "White",
+   47,
+   "NEW LONDON",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/29/14",
+   "Male",
+   "Hispanic, White",
+   28,
+   "MILFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "4/7/12",
+   "Female",
+   "White",
+   24,
+   "NEW LONDON",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/27/14",
+   "Male",
+   "White",
+   26,
+   "MIDDLETOWN",
+   "Acute heroin intoxication"
+ ],
+ [
+   "12/22/12",
+   "Male",
+   "Hispanic, White",
+   25,
+   "BRIDGEPORT",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/12/14",
+   "Male",
+   "White",
+   26,
+   "MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/1/14",
+   "Male",
+   "White",
+   46,
+   "NORWICH",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/24/14",
+   "Male",
+   "White",
+   33,
+   "EAST GRANBY",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "2/21/15",
+   "Male",
+   "White",
+   36,
+   "MERIDEN",
+   "Acute cocaine and heroin intoxication"
+ ],
+ [
+   "9/19/12",
+   "Female",
+   "White",
+   40,
+   "NEW HAVEN",
+   "Cocaine and Heroin Toxicities"
+ ],
+ [
+   "12/22/13",
+   "Male",
+   "White",
+   54,
+   "EAST WINDSOR",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/16/13",
+   "Male",
+   "White",
+   26,
+   "DURHAM",
+   "Combined Drug Toxicity, Heroin and Ethanol"
+ ],
+ [
+   "2/1/15",
+   "Male",
+   "White",
+   52,
+   "MIDDLETOWN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/7/13",
+   "Male",
+   "White",
+   24,
+   "HARTFORD",
+   "Opiate Toxicity"
+ ],
+ [
+   "7/15/14",
+   "Male",
+   "White",
+   36,
+   "BRIDGEPORT",
+   "Intoxication due to the Combined Effects of Heroin, Oxycodone, Oxymorphone, Fentanyl, and Diazepam"
+ ],
+ [
+   "9/19/15",
+   "Female",
+   "White",
+   37,
+   "JEWETT CITY",
+   "Acute Intoxication due to the Combined Effects of Heroin, Cocaine, and Clonazepam"
+ ],
+ [
+   "10/4/13",
+   "Female",
+   "White",
+   26,
+   "WEST HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/2/13",
+   "Male",
+   "White",
+   46,
+   "MILFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/6/12",
+   "Male",
+   "Black",
+   39,
+   "NEW BRITAIN",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/24/15",
+   "Female",
+   "Hispanic, White",
+   42,
+   "MIDDLETOWN",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "10/14/13",
+   "Male",
+   "Hispanic, White",
+   34,
+   "NEW BRITAIN",
+   "Acute Cocaine and Morphine Toxicities"
+ ],
+ [
+   "11/13/14",
+   "Male",
+   "White",
+   44,
+   "NEW LONDON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/7/13",
+   "Female",
+   "White",
+   47,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of heroin and Sertraline"
+ ],
+ [
+   "6/11/13",
+   "Male",
+   "Black",
+   48,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "7/6/15",
+   "Male",
+   "White",
+   42,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Heroin, Alprazolam, and 3,4-Methylenedioxymethamphetamine (MDMA)"
+ ],
+ [
+   "2/17/15",
+   "Male",
+   "Hispanic, White",
+   45,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/30/12",
+   "Male",
+   "White",
+   35,
+   "BRIDGEPORT",
+   "Opiate Toxicity"
+ ],
+ [
+   "2/26/15",
+   "Male",
+   "White",
+   28,
+   "NEW MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/18/15",
+   "Female",
+   "White",
+   36,
+   "HAMDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/14/14",
+   "Male",
+   "White",
+   49,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "7/28/12",
+   "Female",
+   "White",
+   56,
+   "PLAINVILLE",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "5/5/14",
+   "Male",
+   "White",
+   50,
+   "BROOKLYN",
+   "Acute intoxication due to the combined effects of methamphetamine, heroin and Clonazepam"
+ ],
+ [
+   "7/6/13",
+   "Male",
+   "White",
+   32,
+   "EAST HAMPTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/18/15",
+   "Male",
+   "White",
+   37,
+   "CLINTON",
+   "Acute Intoxication from the combined effects of Heroin, Fentanyl, and Diphenhydramine"
+ ],
+ [
+   "9/18/14",
+   "Male",
+   "White",
+   44,
+   "NEW HAVEN",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "5/26/14",
+   "Female",
+   "White",
+   26,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "7/22/14",
+   "Male",
+   "White",
+   27,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/2/13",
+   "Male",
+   "White",
+   42,
+   "NEW HAVEN",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "3/14/15",
+   "Male",
+   "White",
+   38,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Heroin, Diazepam,and Hydroxyzine"
+ ],
+ [
+   "7/13/15",
+   "Male",
+   "White",
+   27,
+   "BRISTOL",
+   "Acute intoxication due to the combined effects of heroin and Fentanyl"
+ ],
+ [
+   "7/26/15",
+   "Male",
+   "White",
+   31,
+   "SEYMOUR",
+   "Acute Combined Heroin and Alcohol Toxicities"
+ ],
+ [
+   "4/4/15",
+   "Male",
+   "Hispanic, White",
+   35,
+   "EAST HARTFORD",
+   "Intoxication due to the Combined Effects of Sertraline, Trazodone, and Heroin"
+ ],
+ [
+   "3/7/14",
+   "Male",
+   "White",
+   24,
+   "GROTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/19/13",
+   "Female",
+   "White",
+   43,
+   "BRIDGEPORT",
+   "Combined Drug Toxicity, Ethanol and Heroin"
+ ],
+ [
+   "6/28/15",
+   "Male",
+   "White",
+   38,
+   "MIDDLETOWN",
+   "HEROIN, FENTANYL, BENZO, BE"
+ ],
+ [
+   "9/29/14",
+   "Male",
+   "White",
+   28,
+   "NEW BRITAIN",
+   "Heroin and Alcohol Intoxication"
+ ],
+ [
+   "6/2/15",
+   "Male",
+   "Hispanic, White",
+   31,
+   "ENFIELD",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "6/27/14",
+   "Male",
+   "White",
+   34,
+   "GLASTONBURY",
+   "Acute intoxication due to the combined effects of heroin, ethanol, Lorazepam and Sertraline"
+ ],
+ [
+   "11/2/12",
+   "Male",
+   "White",
+   47,
+   "GROTON",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/28/13",
+   "Male",
+   "Hispanic, White",
+   23,
+   "NEW LONDON",
+   "intox"
+ ],
+ [
+   "4/28/14",
+   "Male",
+   "Hispanic, White",
+   44,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "8/20/12",
+   "Male",
+   "White",
+   42,
+   "STAFFORD SPRINGS",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "1/31/15",
+   "Male",
+   "White",
+   43,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/30/13",
+   "Female",
+   "White",
+   26,
+   "NORWICH",
+   "Acute Intoxication of Heroin and Cocaine"
+ ],
+ [
+   "2/16/14",
+   "Female",
+   "White",
+   14,
+   "HARTFORD",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "5/23/14",
+   "Male",
+   "White",
+   30,
+   "TORRINGTON",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "1/12/12",
+   "Male",
+   "White",
+   32,
+   "NORWICH",
+   "Ethanol and Cocaine Toxicity"
+ ],
+ [
+   "6/22/15",
+   "Male",
+   "Black",
+   63,
+   "NORWALK",
+   "Acute Combined Heroin, Tramadol, Nordiazepam and Alcohol Toxicities"
+ ],
+ [
+   "8/2/13",
+   "Female",
+   "White",
+   40,
+   "WILLIMANTIC",
+   "Acute Intoxication due to the Combined Effects of                                                                 Heroin, Cocaine and Sertraline"
+ ],
+ [
+   "6/27/15",
+   "Male",
+   "White",
+   32,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Alprazolam, Fentanyl, Buspirone, and Heroin"
+ ],
+ [
+   "3/8/14",
+   "Male",
+   "White",
+   49,
+   "PUTNAM",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/23/12",
+   "Male",
+   "White",
+   38,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/18/13",
+   "Female",
+   "White",
+   26,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/17/15",
+   "Male",
+   "White",
+   27,
+   "NEW HARTFORD",
+   "Acute heroin and cocaine intoxication"
+ ],
+ [
+   "6/22/14",
+   "Male",
+   "Black",
+   56,
+   "BRIDGEPORT",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "5/6/12",
+   "Male",
+   "White",
+   30,
+   "BERLIN",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/9/14",
+   "Male",
+   "Hispanic, White",
+   42,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin and ethanol"
+ ],
+ [
+   "6/28/14",
+   "Male",
+   "White",
+   31,
+   "WATERBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "7/26/13",
+   "Male",
+   "White",
+   40,
+   "BRIDGEPORT",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/19/15",
+   "Male",
+   "White",
+   34,
+   "WATERBURY",
+   "Acute Intoxication from the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "9/7/15",
+   "Male",
+   "Black",
+   29,
+   "NEW HAVEN",
+   "Acute Intoxication from the Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "2/14/13",
+   "Male",
+   "White",
+   34,
+   "NORWICH",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/7/15",
+   "Male",
+   "White",
+   28,
+   "DANIELSON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "3/7/14",
+   "Male",
+   "White",
+   46,
+   "NEW HAVEN",
+   "Cocaine, Fentanyl, Heroin, and Alcohol Intoxication"
+ ],
+ [
+   "8/30/12",
+   "Male",
+   "White",
+   25,
+   "MILFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/28/15",
+   "Female",
+   "White",
+   59,
+   "MILFORD",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "9/26/15",
+   "Male",
+   "White",
+   25,
+   "HARTFORD",
+   "Acute intoxication from the combined effects of heroin, Fentanyl, Acetyl Fentanyl, Oxycodone and alcohol"
+ ],
+ [
+   "1/21/15",
+   "Male",
+   "White",
+   50,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of cocaine, heroin and Alprazolam"
+ ],
+ [
+   "12/14/12",
+   "Male",
+   "White",
+   37,
+   "NEW BRITAIN",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/11/13",
+   "Male",
+   "White",
+   25,
+   "PLAINVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/8/12",
+   "Male",
+   "White",
+   29,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/20/12",
+   "Female",
+   "White",
+   54,
+   "NEW BRITAIN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/30/13",
+   "Male",
+   "White",
+   57,
+   "NEW BRITAIN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/13/15",
+   "Female",
+   "White",
+   48,
+   "NORWALK",
+   "Acute Combined Heroin, Methadone and Nordiazapam Toxicities"
+ ],
+ [
+   "9/13/12",
+   "Male",
+   "Asian, Other",
+   22,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "9/14/12",
+   "Male",
+   "White",
+   36,
+   "MOOSUP",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/17/12",
+   "Male",
+   "White",
+   28,
+   "NEW HAVEN",
+   "Mutiple Drug Toxicity"
+ ],
+ [
+   "2/9/14",
+   "Male",
+   "White",
+   31,
+   "ELLINGTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/19/14",
+   "Female",
+   "White",
+   35,
+   "ENFIELD",
+   "Acute Combined Heroin, Alcohol, and Benzodiapam Toxicities"
+ ],
+ [
+   "1/6/13",
+   "Male",
+   "Black",
+   55,
+   "BRISTOL",
+   "Cocaine and Heroin Toxicities"
+ ],
+ [
+   "8/29/14",
+   "Female",
+   "White",
+   24,
+   "ANSONIA",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/25/14",
+   "Male",
+   "White",
+   42,
+   "FAIRFIELD",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "3/3/12",
+   "Female",
+   "White",
+   57,
+   "BRIDGEPORT",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/12/15",
+   "Female",
+   "White",
+   51,
+   "HARTFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "4/17/14",
+   "Male",
+   "White",
+   28,
+   "WINDSOR",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "2/20/13",
+   "Male",
+   "Hispanic, White",
+   37,
+   "MERIDEN",
+   "Acute Cocaine, Phencyclidine and Heroin Toxicity"
+ ],
+ [
+   "6/11/13",
+   "Female",
+   "White",
+   48,
+   "NEW HAVEN",
+   "Acute Combined Heroin, Methadone, and Alcohol Toxicities"
+ ],
+ [
+   "12/12/13",
+   "Male",
+   "White",
+   42,
+   "EAST HARTFORD",
+   "Diazepam and Heroin Intoxication"
+ ],
+ [
+   "3/13/13",
+   "Male",
+   "White",
+   29,
+   "TORRINGTON",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "9/26/15",
+   "Male",
+   "Hispanic, White",
+   22,
+   "NORTH CANAAN",
+   "Acute intoxication from the combined effects of heroin and Fentanyl"
+ ],
+ [
+   "6/25/13",
+   "Male",
+   "White",
+   34,
+   "WATERBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/12/14",
+   "Male",
+   "White",
+   23,
+   "TORRINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/8/13",
+   "Male",
+   "White",
+   39,
+   "MANCHESTER",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/4/14",
+   "Male",
+   "White",
+   26,
+   "TOLLAND",
+   "Acute intoxication due to the combined effects of Fentanyl, heroin, Oxycodone, cocaine and ethanol"
+ ],
+ [
+   "3/19/14",
+   "Female",
+   "White",
+   23,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin, Clonazepam, Topiramate and Trazodone"
+ ],
+ [
+   "9/24/13",
+   "Female",
+   "White",
+   40,
+   "STRATFORD",
+   "Combined Drug Toxicity, Heroin and Ethanol"
+ ],
+ [
+   "4/8/15",
+   "Male",
+   "White",
+   55,
+   "HARTFORD",
+   "Intoxication Due to the  Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "8/24/14",
+   "Female",
+   "White",
+   51,
+   "WINDSOR",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/25/15",
+   "Female",
+   "White",
+   47,
+   "NORWICH",
+   "Acute intoxication due to the combined effects of heroin, methadone,"
+ ],
+ [
+   "6/28/14",
+   "Female",
+   "White",
+   35,
+   "NEW BRITAIN",
+   "Acute intoxication due to the combined effects of heroin, cocaine and ethanol"
+ ],
+ [
+   "11/16/14",
+   "Male",
+   "White",
+   54,
+   "DANBURY",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "5/23/12",
+   "Female",
+   "White",
+   37,
+   "WINDSOR LOCKS",
+   "Multple DrugToxicity"
+ ],
+ [
+   "11/21/13",
+   "Male",
+   "White",
+   51,
+   "LISBON",
+   "Acute Intoxication due to the Combined Effects of Heroin, Clonazepam, and Ethanol"
+ ],
+ [
+   "8/28/14",
+   "Female",
+   "White",
+   51,
+   "STAMFORD",
+   "Intoxication due to the combined effects of Heroin, Fluoxetine, Clonazepam, and Tramadol"
+ ],
+ [
+   "1/1/15",
+   "Male",
+   "White",
+   29,
+   "MIDDLETOWN",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/31/14",
+   "Male",
+   "Hispanic, White",
+   41,
+   "HARTFORD",
+   "Cocaine, Alcohol and Heroin Intoxication"
+ ],
+ [
+   "5/27/14",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NEW BRITAIN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/23/14",
+   "Male",
+   "White",
+   51,
+   "NORWICH",
+   "Opiate and Cocaine Intoxication"
+ ],
+ [
+   "8/22/15",
+   "Male",
+   "Hispanic, White",
+   48,
+   "BRIDGEPORT",
+   "Acute heroin intoxication"
+ ],
+ [
+   "10/13/12",
+   "Female",
+   "White",
+   21,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "1/22/14",
+   "Female",
+   "Hispanic, White",
+   27,
+   "HARTFORD",
+   "Heroin, Oxycodone, and Phencyclidine Intoxication"
+ ],
+ [
+   "12/14/15",
+   "Male",
+   "White",
+   51,
+   "NEW LONDON",
+   "Acute Intoxication from the Combined Effects of Heroin, Oxycodone, and Alcohol"
+ ],
+ [
+   "1/30/13",
+   "Female",
+   "White",
+   55,
+   "NEW MILFORD",
+   "Intoxication due to the Combined Effects of Heroin, Oxycodone, and Oxymorphone"
+ ],
+ [
+   "10/10/13",
+   "Male",
+   "White",
+   30,
+   "STAFFORD SPRINGS",
+   "Combined Drug Toxicity, Heroin and Ethanol"
+ ],
+ [
+   "6/22/14",
+   "Male",
+   "White",
+   41,
+   "ENFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/14/12",
+   "Female",
+   "White",
+   43,
+   "NORWICH",
+   "Cocaine, Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "12/5/15",
+   "Male",
+   "White",
+   64,
+   "MERIDEN",
+   "Acute Heroin Intoxication with Bronchopneumonia"
+ ],
+ [
+   "11/9/12",
+   "Male",
+   "Black",
+   55,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/8/12",
+   "Male",
+   "White",
+   31,
+   "MARLBOROUGH",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/28/12",
+   "Female",
+   "White",
+   48,
+   "ENFIELD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "8/21/15",
+   "Male",
+   "Hispanic, White",
+   55,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of cyclobenzaprine, heroin, and hydromorphone"
+ ],
+ [
+   "10/17/14",
+   "Male",
+   "White",
+   35,
+   "WATERBURY",
+   "Intoxication due to the combined effects of Ethanol, Cocain, and Heroin"
+ ],
+ [
+   "12/21/13",
+   "Male",
+   "White",
+   41,
+   "BETHEL",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/4/12",
+   "Male",
+   "White",
+   48,
+   "MIDDLETOWN",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/11/12",
+   "Male",
+   "White",
+   23,
+   "NORWICH",
+   "Heroin and Cocaine Toxicities"
+ ],
+ [
+   "9/30/15",
+   "Male",
+   "White",
+   33,
+   "EAST HARTFORD",
+   "Acute fentanyl, heroin, hydromorphone"
+ ],
+ [
+   "1/25/15",
+   "Male",
+   "White",
+   24,
+   "OLD SAYBROOK",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/24/14",
+   "Male",
+   "White",
+   41,
+   "WATERBURY",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "3/27/12",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NEW BRITAIN",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "3/12/14",
+   "Male",
+   "White",
+   51,
+   "BRIDGEPORT",
+   "Complications of Opiate Toxicity"
+ ],
+ [
+   "6/13/15",
+   "Female",
+   "Hispanic, White",
+   39,
+   "BRIDGEPORT",
+   "Acute Combined Heroin, Oxycodone, and Diphenhydramine Toxicities"
+ ],
+ [
+   "11/17/15",
+   "Male",
+   "Hispanic, White",
+   49,
+   "HARTFORD",
+   "Acute Intoxication Due To The Combined Effects Of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "8/26/13",
+   "Male",
+   "White",
+   45,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/4/14",
+   "Male",
+   "Black",
+   35,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "3/24/14",
+   "Male",
+   "White",
+   28,
+   "MARLBOROUGH",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/8/15",
+   "Male",
+   "White",
+   26,
+   "GREENWICH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/4/15",
+   "Male",
+   "White",
+   50,
+   "STERLING",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "11/4/12",
+   "Male",
+   "White",
+   28,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/19/14",
+   "Male",
+   "White",
+   44,
+   "HARTFORD",
+   "Acute Heroin and Zolpidem Toxicities"
+ ],
+ [
+   "6/27/15",
+   "Male",
+   "White",
+   34,
+   "WATERBURY",
+   "heroin, fentanyl"
+ ],
+ [
+   "8/26/14",
+   "Male",
+   "White",
+   38,
+   "NORWICH",
+   "Acute intoxication due to the combined effects of heroin, alcohol and Alprazolam"
+ ],
+ [
+   "9/6/13",
+   "Male",
+   "White",
+   30,
+   "TORRINGTON",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "11/11/14",
+   "Male",
+   "White",
+   27,
+   "NEWTOWN",
+   "Intoxication due to the combined effects of Diazepam, Heroin, and Oxycodone"
+ ],
+ [
+   "3/2/13",
+   "Male",
+   "White",
+   28,
+   "SALEM",
+   "Hypothermia/morphine"
+ ],
+ [
+   "12/29/12",
+   "Male",
+   "Hispanic, White",
+   50,
+   "WILLIMANTIC",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/18/13",
+   "Male",
+   "White",
+   24,
+   "ESSEX",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/27/15",
+   "Male",
+   "White",
+   43,
+   "THOMASTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/25/13",
+   "Female",
+   "White",
+   26,
+   "GROTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/22/14",
+   "Male",
+   "White",
+   44,
+   "STRATFORD",
+   "Acute intoxication due to the combined effects of heroin, Clonazepam and ethanol"
+ ],
+ [
+   "10/9/15",
+   "Female",
+   "Black",
+   38,
+   "NEW HAVEN",
+   "Complications of Acute Heroin Intoxication"
+ ],
+ [
+   "5/31/14",
+   "Male",
+   "White",
+   46,
+   "STONINGTON",
+   "Acute intoxication due to the combined effects of heroin and Fentanyl"
+ ],
+ [
+   "12/6/14",
+   "Male",
+   "White",
+   45,
+   "DEEP RIVER",
+   "Intoxication due to the combined effects of Ethanol, Diazepam, Heroin, and Oxycodone"
+ ],
+ [
+   "4/8/15",
+   "Male",
+   "White",
+   36,
+   "EAST HARTFORD",
+   "Intoxicaion due to the Combined Effects of Heroin, Fentanyl and Alprazolam"
+ ],
+ [
+   "9/3/15",
+   "Male",
+   "White",
+   48,
+   "WEST HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "8/23/15",
+   "Male",
+   "White",
+   21,
+   "BETHANY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/23/14",
+   "Male",
+   "White",
+   26,
+   "SHARON",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/30/14",
+   "Female",
+   "White",
+   29,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, Citalopram and Clonazepam"
+ ],
+ [
+   "4/15/12",
+   "Male",
+   "White",
+   49,
+   "ROCKVILLE",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/14/14",
+   "Male",
+   "White",
+   18,
+   "CHAPLIN",
+   "Heroin Toxicity"
+ ],
+ [
+   "3/19/13",
+   "Male",
+   "Hispanic, White",
+   46,
+   "HARTFORD",
+   "Acute Cocaine and Heroin Intoxication"
+ ],
+ [
+   "12/13/15",
+   "Male",
+   "White",
+   28,
+   "NEW LONDON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/28/13",
+   "Male",
+   "White",
+   28,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/8/13",
+   "Female",
+   "Black",
+   54,
+   "HARTFORD",
+   "Heroin and Tramadol Intoxication"
+ ],
+ [
+   "12/23/13",
+   "Male",
+   "White",
+   43,
+   "FARMINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/3/15",
+   "Male",
+   "White",
+   40,
+   "NEW LONDON",
+   "Acute Intoxication Due to the Combined Effects of Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "10/3/15",
+   "Male",
+   "White",
+   28,
+   "SHARON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/19/15",
+   "Male",
+   "White",
+   26,
+   "HARTFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/2/13",
+   "Male",
+   "White",
+   44,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "1/17/13",
+   "Male",
+   "Hispanic, White",
+   37,
+   "NEW HAVEN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "7/16/15",
+   "Male",
+   "White",
+   25,
+   "DANBURY",
+   "Acute Heroin, Fentanyl, and Methamphetamine Toxicities"
+ ],
+ [
+   "7/31/14",
+   "Male",
+   "White",
+   34,
+   "WATERBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/15/14",
+   "Male",
+   "White",
+   54,
+   "TORRINGTON",
+   "Intoxication due to the Combined Effects of Cocaine and Ethanol"
+ ],
+ [
+   "5/6/13",
+   "Male",
+   "White",
+   53,
+   "BRIDGEPORT",
+   "Complications of Heroin and Benzodiazepine Toxicity"
+ ],
+ [
+   "2/5/14",
+   "Female",
+   "White",
+   34,
+   "VERNON",
+   "Acute intoxication due to the combined effects of cocaine, heroin, Alprazolam and ethanol"
+ ],
+ [
+   "7/19/13",
+   "Male",
+   "White",
+   40,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/26/14",
+   "Male",
+   "Hispanic, White",
+   48,
+   "NEW HAVEN",
+   "Heroin and Alcohol Intoxication"
+ ],
+ [
+   "8/27/13",
+   "Male",
+   "Hispanic, White",
+   30,
+   "MERIDEN",
+   "Heroin and Ethanol Toxicity"
+ ],
+ [
+   "2/18/14",
+   "Male",
+   "White",
+   42,
+   "ENFIELD",
+   "Acute Heroin, Hydrocodone and Alcohol Toxicities"
+ ],
+ [
+   "11/6/12",
+   "Male",
+   "White",
+   60,
+   "BRIDGEPORT",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/26/14",
+   "Male",
+   "Hispanic, White",
+   39,
+   "DANBURY",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "1/20/12",
+   "Male",
+   "White",
+   33,
+   "COVENTRY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/29/13",
+   "Male",
+   "White",
+   34,
+   "MERIDEN",
+   "Alcohol and Heroin Intoxication"
+ ],
+ [
+   "6/29/12",
+   "Male",
+   "White",
+   38,
+   "WATERBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/22/12",
+   "Female",
+   "Black",
+   48,
+   "WATERBURY",
+   "Opiate Toxicity"
+ ],
+ [
+   "2/27/15",
+   "Male",
+   "White",
+   45,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of Fentanyl, heroin and alcohol."
+ ],
+ [
+   "7/27/15",
+   "Male",
+   "Hispanic, White",
+   34,
+   "NEW HAVEN",
+   "Complications of Acute Opiate Toxicity"
+ ],
+ [
+   "11/9/12",
+   "Male",
+   "White",
+   29,
+   "WATERBURY",
+   "Combined Drug Toxicity, Heroin and Ethanol"
+ ],
+ [
+   "9/4/15",
+   "Male",
+   "White",
+   22,
+   "TOLLAND",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, and Acetyl Fentanyl"
+ ],
+ [
+   "2/7/14",
+   "Male",
+   "White",
+   38,
+   "NEW HAVEN",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "8/17/14",
+   "Male",
+   "White",
+   21,
+   "STAMFORD",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "9/4/15",
+   "Male",
+   "Hispanic, White",
+   46,
+   "HARTFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/31/15",
+   "Female",
+   "White",
+   37,
+   "EAST HAMPTON",
+   "Acute Intoxication Due To The Combined Effects of Heroin, Cocaine, Alprazolam and Tramadol"
+ ],
+ [
+   "8/4/12",
+   "Female",
+   "White",
+   36,
+   "HAMDEN",
+   "Cocaine and Heroin Toxicities"
+ ],
+ [
+   "10/3/15",
+   "Female",
+   "White",
+   25,
+   "BRIDGEPORT",
+   "Acute Intoxication due to the Combined Effects of Diphenhydramine and Heroin"
+ ],
+ [
+   "1/12/15",
+   "Male",
+   "White",
+   39,
+   "MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/30/14",
+   "Male",
+   "White",
+   37,
+   "EAST HARTFORD",
+   "Acute heroin intoxication"
+ ],
+ [
+   "2/10/15",
+   "Male",
+   "Hispanic, White",
+   39,
+   "NEW BRITAIN",
+   "Complications of Acute Opioid and Cocaine Intoxication"
+ ],
+ [
+   "8/20/13",
+   "Female",
+   "White",
+   44,
+   "PLAINVILLE",
+   "Acute intoxication due to the combined effects of                                                                                    heroin, Clonazepam, Citalopram and Alprazolam"
+ ],
+ [
+   "10/6/13",
+   "Male",
+   "White",
+   20,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/30/13",
+   "Male",
+   "White",
+   22,
+   "NEW MILFORD",
+   "intox"
+ ],
+ [
+   "11/7/14",
+   "Male",
+   "White",
+   42,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of heroin, cocaine and ethanol"
+ ],
+ [
+   "9/21/14",
+   "Male",
+   "White",
+   36,
+   "NORWALK",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/19/15",
+   "Male",
+   "Other",
+   29,
+   "NEW BRITAIN",
+   "Complications of Acute Opioid Intoxication including Fentanyl and Probably Heroin with Recent Cocaine Use "
+ ],
+ [
+   "10/14/13",
+   "Male",
+   "White",
+   52,
+   "MANCHESTER",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "2/7/12",
+   "Male",
+   "White",
+   46,
+   "MANCHESTER",
+   "Ethanol, Cocaine, and Heroin Toxicity"
+ ],
+ [
+   "8/25/14",
+   "Female",
+   "White",
+   29,
+   "MERIDEN",
+   "Complications of Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "3/23/13",
+   "Male",
+   "White",
+   53,
+   "HARTFORD",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "5/21/15",
+   "Male",
+   "White",
+   19,
+   "EAST HADDAM",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "8/13/13",
+   "Male",
+   "White",
+   43,
+   "WATERBURY",
+   "Acute and Chronic Substance Abuse (Ethanol, Cocaine, Heroin)"
+ ],
+ [
+   "12/23/15",
+   "Male",
+   "White",
+   19,
+   "BRANFORD",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "3/12/14",
+   "Male",
+   "Black",
+   71,
+   "HARTFORD",
+   "Acute Heroin and Fentanyl Toxicity"
+ ],
+ [
+   "10/30/15",
+   "Male",
+   "White",
+   49,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "11/20/15",
+   "Male",
+   "White",
+   37,
+   "NEW BRITAIN",
+   "Acute Intoxication Due To The Combined Effects of Heroin, Fentanyl, Oxycodone and Alprazolam"
+ ],
+ [
+   "1/30/13",
+   "Female",
+   "Hispanic, White",
+   57,
+   "HARTFORD",
+   "Complications of Opiate and Phencyclidine Toxicity"
+ ],
+ [
+   "6/8/13",
+   "Female",
+   "White",
+   36,
+   "DANBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/6/15",
+   "Male",
+   "Hispanic, White",
+   70,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, cocaine and methadone"
+ ],
+ [
+   "11/4/13",
+   "Male",
+   "White",
+   49,
+   "MANCHESTER",
+   "Acute Intoxication due to the Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "6/28/15",
+   "Male",
+   "White",
+   24,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "10/29/15",
+   "Female",
+   "White",
+   40,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Heroin, Cocaine, Trazodone, and Ethanol"
+ ],
+ [
+   "7/31/15",
+   "Female",
+   "White",
+   44,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Clonazepam, Citalopram/Escitalopram, Fentanyl, Methamphetamine, and Heroin"
+ ],
+ [
+   "3/19/15",
+   "Male",
+   "White",
+   49,
+   "NEW HAVEN",
+   "Alcohol and Heroin Intoxication"
+ ],
+ [
+   "12/13/14",
+   "Male",
+   "White",
+   26,
+   "SOUTHINGTON",
+   "Acute intoxication due to the combined effects of heroin, alcohol, Alprazolam, Temazepam and Trazodone"
+ ],
+ [
+   "5/23/14",
+   "Male",
+   "White",
+   33,
+   "MARLBOROUGH",
+   "Heroin and Alprazolam Intoxication"
+ ],
+ [
+   "1/17/13",
+   "Male",
+   "White",
+   32,
+   "MANCHESTER",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/1/15",
+   "Male",
+   "Hispanic, White",
+   26,
+   "HARTFORD",
+   "Acute cocaine and heroin intoxication"
+ ],
+ [
+   "7/1/14",
+   "Female",
+   "Hispanic, White",
+   22,
+   "NEW LONDON",
+   "Intoxication due to the combined effects or Heroin and Methylenedioxymethamphetamine (MDMA)"
+ ],
+ [
+   "8/10/13",
+   "Male",
+   "White",
+   22,
+   "NEWTOWN",
+   "Heroin and Ketamine Intoxication"
+ ],
+ [
+   "7/2/15",
+   "Male",
+   "White",
+   24,
+   "NEW HAVEN",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "6/16/12",
+   "Male",
+   "Hispanic, White",
+   50,
+   "STAMFORD",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "2/28/15",
+   "Male",
+   "Hispanic, White",
+   43,
+   "BRIDGEPORT",
+   "Acute Combined Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "3/8/14",
+   "Male",
+   "White",
+   50,
+   "HARTFORD",
+   "Cocaine, Heroin and Phencyclidine Intoxication"
+ ],
+ [
+   "3/23/15",
+   "Male",
+   "White",
+   50,
+   "EAST HARTFORD",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "11/3/13",
+   "Male",
+   "White",
+   26,
+   "TORRINGTON",
+   "Intoxication due to the Combined Effects of Heroin and Buprenorphine"
+ ],
+ [
+   "12/7/12",
+   "Female",
+   "White",
+   26,
+   "WALLINGFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/30/13",
+   "Male",
+   "White",
+   38,
+   "MANCHESTER",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/1/15",
+   "Female",
+   "White",
+   56,
+   "BLOOMFIELD",
+   "Acute intoxication due to the combined effects of heroin, Butalbital and Clonazepam"
+ ],
+ [
+   "7/14/14",
+   "Male",
+   "White",
+   24,
+   "NORTH CANAAN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/14/14",
+   "Male",
+   "White",
+   48,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of heroin, cocaine and ethanol"
+ ],
+ [
+   "2/8/14",
+   "Female",
+   "White",
+   43,
+   "SOUTHINGTON",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "7/10/15",
+   "Male",
+   "White",
+   22,
+   "BRISTOL",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/4/13",
+   "Male",
+   "White",
+   44,
+   "NEWINGTON",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "11/17/14",
+   "Male",
+   "Black",
+   57,
+   "HAMDEN",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "7/21/13",
+   "Female",
+   "White",
+   42,
+   "WATERBURY",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "10/5/14",
+   "Female",
+   "White",
+   28,
+   "TORRINGTON",
+   "Acute heroin and Clonazepam intoxication"
+ ],
+ [
+   "8/12/15",
+   "Male",
+   "Hispanic, White",
+   54,
+   "SHELTON",
+   "Acute Intoxication due to the Combined Effects of Heroin, Cocaine, and Ethanol"
+ ],
+ [
+   "2/21/15",
+   "Male",
+   "White",
+   44,
+   "GROTON",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "1/28/15",
+   "Female",
+   "White",
+   53,
+   "WINDSOR LOCKS",
+   "Intoxication due to the combined effects of Lorazepam, Methadone, Bupropion, Citalopram, Olanzapine, Diphenhydramine, Morphine, and Hydromorphone"
+ ],
+ [
+   "3/8/14",
+   "Male",
+   "White",
+   23,
+   "OXFORD",
+   "Acute intoxication due to the combined effects of heroin and Alprazolam"
+ ],
+ [
+   "5/2/16",
+   "Male",
+   "White",
+   37,
+   "MERIDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/12/13",
+   "Female",
+   "White",
+   21,
+   "HARTFORD",
+   "Cocaine and Opiate Toxicity"
+ ],
+ [
+   "12/16/13",
+   "Male",
+   "White",
+   22,
+   "TORRINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/1/12",
+   "Female",
+   "White",
+   67,
+   "FAIRFIELD",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/20/13",
+   "Male",
+   "White",
+   26,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/12/15",
+   "Male",
+   "Hispanic, White",
+   29,
+   "WINDSOR LOCKS",
+   "Acute Intoxication from the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "4/17/15",
+   "Male",
+   "White",
+   32,
+   "ENFIELD",
+   "Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "7/3/15",
+   "Male",
+   "White",
+   39,
+   "MANCHESTER",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/6/14",
+   "Male",
+   "White",
+   25,
+   "BOZRAH",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "10/24/15",
+   "Male",
+   "White",
+   45,
+   "DERBY",
+   "Complications of Acute Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "4/12/15",
+   "Male",
+   "White",
+   18,
+   "MANCHESTER",
+   "Intoxication due to the Combined Effects of Heroin, Alprazolam, and Fentanyl"
+ ],
+ [
+   "5/19/15",
+   "Male",
+   "White",
+   29,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/18/14",
+   "Male",
+   "White",
+   34,
+   "ANDOVER",
+   "Acute intoxication due to the combined effects of heroin and Oxycodone"
+ ],
+ [
+   "9/15/15",
+   "Male",
+   "White",
+   55,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin, cocaine and ethanol"
+ ],
+ [
+   "2/21/14",
+   "Female",
+   "White",
+   58,
+   "NORWICH",
+   "Heroin, Cocaine, and Quetiapine Intoxication"
+ ],
+ [
+   "2/17/14",
+   "Male",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Heroin, Cocaine, and Fentanyl Intoxication"
+ ],
+ [
+   "12/10/15",
+   "Male",
+   "White",
+   49,
+   "BRISTOL",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "5/19/15",
+   "Male",
+   "White",
+   55,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Diazepam, Cocaine and Heroin"
+ ],
+ [
+   "10/18/14",
+   "Male",
+   "White",
+   47,
+   "PLAINFIELD",
+   "Heroin, Cocaine and Alcohol Intoxication"
+ ],
+ [
+   "11/2/14",
+   "Female",
+   "White",
+   22,
+   "BRIDGEPORT",
+   "acute heroin intoxication"
+ ],
+ [
+   "2/16/14",
+   "Male",
+   "Hispanic, White",
+   35,
+   "MERIDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/11/14",
+   "Female",
+   "White",
+   22,
+   "STAMFORD",
+   "Amphetamine, Heroin, and Fentanyl Intoxication"
+ ],
+ [
+   "10/15/14",
+   "Male",
+   "Hispanic, White",
+   44,
+   "DANBURY",
+   "Intoxication due to the combined effects of Cocaine and Heroin"
+ ],
+ [
+   "3/14/13",
+   "Male",
+   "White",
+   24,
+   "STAMFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/11/14",
+   "Male",
+   "White",
+   56,
+   "PLAINVILLE",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/11/13",
+   "Male",
+   "White",
+   26,
+   "MILFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/21/13",
+   "Male",
+   "White",
+   44,
+   "NIANTIC",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/4/12",
+   "Male",
+   "White",
+   31,
+   "NIANTIC",
+   "Opiate and Ethanol Toxicities"
+ ],
+ [
+   "7/4/14",
+   "Male",
+   "White",
+   52,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/9/14",
+   "Male",
+   "White",
+   24,
+   "GUILFORD",
+   "Acute Intoxication due to the combined effects of Heroin, Fentanyl and Cocaine"
+ ],
+ [
+   "6/17/14",
+   "Female",
+   "White",
+   22,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Cocaine, Heroin and Fentanyl"
+ ],
+ [
+   "3/17/15",
+   "Male",
+   "White",
+   52,
+   "GROTON",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "11/5/13",
+   "Male",
+   "White",
+   34,
+   "WATERBURY",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "6/3/14",
+   "Male",
+   "Hispanic, White",
+   50,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/23/15",
+   "Male",
+   "Hispanic, Black",
+   39,
+   "PUTNAM",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "9/18/14",
+   "Male",
+   "White",
+   47,
+   "HARTFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/13/15",
+   "Male",
+   "White",
+   23,
+   "WINDSOR LOCKS",
+   "Acute Intoxication due to the Combined Effects of Ethanol, Diazepam, Temazepam, Bupropion, and Heroin"
+ ],
+ [
+   "6/3/13",
+   "Male",
+   "White",
+   22,
+   "WILTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/26/15",
+   "Male",
+   "White",
+   22,
+   "MIDDLETOWN",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/2/13",
+   "Female",
+   "Hispanic, White",
+   30,
+   "BRIDGEPORT",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "9/24/13",
+   "Female",
+   "White",
+   32,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Lorazepam, Morphine, Sertraline, and Desmethylsertraline"
+ ],
+ [
+   "4/19/13",
+   "Male",
+   "White",
+   46,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/5/13",
+   "Male",
+   "White",
+   43,
+   "NORWICH",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/3/15",
+   "Female",
+   "White",
+   45,
+   "WATERBURY",
+   "complications of an acute intoxication due to the combined effects of opiates and benzodiazepines"
+ ],
+ [
+   "11/9/13",
+   "Male",
+   "White",
+   61,
+   "FARMINGTON",
+   "Acute Heroin and Hydrocodone Intoxication"
+ ],
+ [
+   "12/5/15",
+   "Male",
+   "Black",
+   58,
+   "DANBURY",
+   "Acute Heroin Intoxication While Using Tramadol"
+ ],
+ [
+   "9/4/13",
+   "Male",
+   "White",
+   42,
+   "BRIDGEPORT",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/18/12",
+   "Female",
+   "Unknown",
+   19,
+   "WILLIMANTIC",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/12/15",
+   "Female",
+   "White",
+   45,
+   "HARTFORD",
+   "Acute heroin intoxication"
+ ],
+ [
+   "4/6/14",
+   "Male",
+   "White",
+   46,
+   "TORRINGTON",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "12/1/13",
+   "Male",
+   "White",
+   39,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Benzodiazepines, Oxycodone, Morphine, Zolpidem, Trazodone, and Ethanol"
+ ],
+ [
+   "4/14/15",
+   "Male",
+   "White",
+   33,
+   "VERNON",
+   "Intoxication due to the Combined Effects of Cocaine, Fentanyl, and Meperidine"
+ ],
+ [
+   "11/4/15",
+   "Male",
+   "White",
+   60,
+   "WETHERSFIELD",
+   "Acute Combined Heroin, Fentanyl and Diazepam Toxicities"
+ ],
+ [
+   "2/20/13",
+   "Male",
+   "White",
+   32,
+   "DANBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/19/15",
+   "Female",
+   "White",
+   60,
+   "WINDHAM",
+   "Intoxication due to the Combined Effects of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "10/1/14",
+   "Female",
+   "White",
+   44,
+   "PUTNAM",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/8/13",
+   "Male",
+   "Hispanic, White",
+   36,
+   "NORWICH",
+   "Cocaine, Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "9/2/14",
+   "Male",
+   "White",
+   38,
+   "SOUTHINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/15/14",
+   "Female",
+   "White",
+   30,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin and alcohol"
+ ],
+ [
+   "7/4/14",
+   "Male",
+   "White",
+   28,
+   "MILFORD",
+   "Intoxication due to the combined effects of Nordiazepam, Clonazepam, Alprazolam, Cocaine, and Heroin"
+ ],
+ [
+   "11/14/14",
+   "Female",
+   "White",
+   23,
+   "HARTFORD",
+   "Complications of acute opiate intoxication"
+ ],
+ [
+   "11/21/15",
+   "Male",
+   "Hispanic, White",
+   55,
+   "HARTFORD",
+   "Acute Intoxicaton from the Combined Effects of Cocaine, Alcohol, Morphine, and Diazepam"
+ ],
+ [
+   "2/24/14",
+   "Female",
+   "White",
+   29,
+   "HARTFORD",
+   "Anoxic Encephalopathy due to Heroin Intoxication"
+ ],
+ [
+   "6/2/13",
+   "Male",
+   "White",
+   38,
+   "GROTON",
+   "Combined Drug Toxicity, Heroin, Cocaine and Ethanol"
+ ],
+ [
+   "2/8/13",
+   "Male",
+   "Hispanic, White",
+   47,
+   "MIDDLETOWN",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/12/15",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined EFfects of Cocaine and Heroin"
+ ],
+ [
+   "7/15/15",
+   "Male",
+   "White",
+   24,
+   "NEW HAVEN",
+   "Acute Intoxication from the Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "2/8/12",
+   "Male",
+   "Hispanic, White",
+   45,
+   "EAST HARTFORD",
+   "Opiate Toxicity"
+ ],
+ [
+   "12/4/12",
+   "Male",
+   "White",
+   54,
+   "ENFIELD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/15/15",
+   "Male",
+   "Hispanic, White",
+   26,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of cocaine, heroin, methadone, Chlordiazepoxide and Hydroxyzine"
+ ],
+ [
+   "11/9/14",
+   "Male",
+   "White",
+   52,
+   "GLASTONBURY",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "3/2/13",
+   "Female",
+   "Black",
+   48,
+   "NEW HAVEN",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "1/5/15",
+   "Male",
+   "Unknown",
+   51,
+   "HARTFORD",
+   "Intoxication due to the combined effects of Methadone, Heroin, and Oxycodone"
+ ],
+ [
+   "8/18/15",
+   "Male",
+   "White",
+   38,
+   "NEW LONDON",
+   "Acute combined heroin and alcohol toxicities"
+ ],
+ [
+   "11/6/13",
+   "Male",
+   "White",
+   24,
+   "WINSTED",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/2/14",
+   "Male",
+   "White",
+   37,
+   "MERIDEN",
+   "Acute heroin and benzodiazepine intoxication"
+ ],
+ [
+   "12/27/12",
+   "Male",
+   "White",
+   49,
+   "NORWICH",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/30/14",
+   "Female",
+   "Black",
+   46,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/10/12",
+   "Female",
+   "White",
+   39,
+   "NEW BRITAIN",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/26/15",
+   "Male",
+   "White",
+   31,
+   "BRIDGEPORT",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "10/5/15",
+   "Male",
+   "White",
+   33,
+   "DERBY",
+   "Acute Intoxication due to the Combined Effects of Heroin, Alprazolam and Clonazepam"
+ ],
+ [
+   "8/29/13",
+   "Male",
+   "White",
+   39,
+   "SOUTHINGTON",
+   "Acute Drug Intoxication with Heroin and Alprazolam"
+ ],
+ [
+   "3/26/12",
+   "Female",
+   "White",
+   19,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/18/12",
+   "Male",
+   "White",
+   41,
+   "PUTNAM",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "11/12/14",
+   "Female",
+   "Hispanic, Black",
+   20,
+   "STAMFORD",
+   "Complications of Heroin Toxicity"
+ ],
+ [
+   "12/1/12",
+   "Male",
+   "White",
+   29,
+   "ROGERS",
+   "Opiate Toxicity"
+ ],
+ [
+   "6/1/15",
+   "Male",
+   "White",
+   33,
+   "PUTNAM",
+   "heroin, fentanyl, benzo"
+ ],
+ [
+   "4/7/15",
+   "Male",
+   "White",
+   30,
+   "BRISTOL",
+   "Acute intoxication due to the combined effects of heroin, alcohol"
+ ],
+ [
+   "11/18/15",
+   "Male",
+   "Hispanic, White",
+   49,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, and Cocaine"
+ ],
+ [
+   "8/15/13",
+   "Female",
+   "White",
+   19,
+   "NEW MILFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/17/14",
+   "Male",
+   "White",
+   56,
+   "WALLINGFORD",
+   "Acute intoxication due to the combined effects of cocaine and heroin"
+ ],
+ [
+   "12/16/12",
+   "Male",
+   "White",
+   31,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/13/15",
+   "Male",
+   "White",
+   46,
+   "HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin, Alcohol, and Cyclobenzaprine"
+ ],
+ [
+   "10/4/14",
+   "Male",
+   "White",
+   36,
+   "EAST WINDSOR",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/31/12",
+   "Female",
+   "White",
+   27,
+   "BRANFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "7/13/13",
+   "Female",
+   "White",
+   47,
+   "DANBURY",
+   "Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "2/26/15",
+   "Male",
+   "White",
+   50,
+   "SOUTHINGTON",
+   "Acute Combined Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "1/25/14",
+   "Male",
+   "Hispanic, White",
+   45,
+   "HARTFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/25/14",
+   "Male",
+   "White",
+   45,
+   "LISBON",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "2/5/15",
+   "Male",
+   "White",
+   39,
+   "WATERBURY",
+   "Acute Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "1/14/15",
+   "Male",
+   "White",
+   26,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/22/13",
+   "Male",
+   "White",
+   24,
+   "GLASTONBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/2/14",
+   "Male",
+   "White",
+   53,
+   "WILLIMANTIC",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/24/13",
+   "Male",
+   "White",
+   32,
+   "MILFORD",
+   "Intoxication due to the Combined Effects of Cocaine, Methadone, and Heroin"
+ ],
+ [
+   "4/9/15",
+   "Male",
+   "Black",
+   20,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Heroin, Lorazepam, and Diphenhydramine"
+ ],
+ [
+   "1/7/15",
+   "Female",
+   "White",
+   45,
+   "WATERBURY",
+   "Intoxication due to the combined effects of Cocaine and Heroin"
+ ],
+ [
+   "10/24/14",
+   "Male",
+   "White",
+   51,
+   "NORWICH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "9/8/12",
+   "Female",
+   "White",
+   21,
+   "DERBY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/3/14",
+   "Male",
+   "White",
+   30,
+   "DEEP RIVER",
+   "Acute heroin and Alprazolam intoxication"
+ ],
+ [
+   "7/5/15",
+   "Male",
+   "White",
+   54,
+   "NORWICH",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/30/15",
+   "Male",
+   "White",
+   35,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of cocaine, heroin and hydromorphone"
+ ],
+ [
+   "5/30/12",
+   "Male",
+   "White",
+   59,
+   "HARTFORD",
+   "Cocaine and Morphine Toxicities"
+ ],
+ [
+   "1/27/14",
+   "Male",
+   "White",
+   40,
+   "MERIDEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/10/13",
+   "Male",
+   "White",
+   22,
+   "NORWALK",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/7/14",
+   "Male",
+   "White",
+   63,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin, hydromorphone and diphenhydramine"
+ ],
+ [
+   "6/12/14",
+   "Male",
+   "Hispanic, White",
+   59,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin, cocaine, Resperidone, Sertraline and Trazodone"
+ ],
+ [
+   "4/30/13",
+   "Male",
+   "Hispanic, White",
+   55,
+   "EAST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/7/12",
+   "Male",
+   "White",
+   42,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/18/14",
+   "Male",
+   "White",
+   32,
+   "ROCKY HILL",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/17/12",
+   "Male",
+   "Asian, Other",
+   22,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/13/13",
+   "Male",
+   "White",
+   22,
+   "WILLIMANTIC",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/27/15",
+   "Male",
+   "White",
+   27,
+   "GROTON LONG POINT",
+   "comb effects heroin, clonazepam, alprazolam and ethanol"
+ ],
+ [
+   "4/2/13",
+   "Female",
+   "White",
+   45,
+   "CHESHIRE",
+   "Intoxicatin due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "7/16/15",
+   "Male",
+   "White",
+   59,
+   "TORRINGTON",
+   "Acute Intoxication from the Combined Effects of Cocaine, Heroin, and Alcohol"
+ ],
+ [
+   "4/5/15",
+   "Male",
+   "White",
+   31,
+   "MIDDLETOWN",
+   "Acute intoxication due to the combined effects of heroin, cocaine and ethanol"
+ ],
+ [
+   "11/13/13",
+   "Male",
+   "White",
+   29,
+   "MIDDLETOWN",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "8/6/14",
+   "Male",
+   "White",
+   28,
+   "EAST HARTFORD",
+   "Heroin, Cocaine, Alcohol, and Diazepam Intoxication"
+ ],
+ [
+   "8/21/12",
+   "Male",
+   "White",
+   30,
+   "GLASTONBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/28/15",
+   "Male",
+   "White",
+   45,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "10/11/13",
+   "Male",
+   "White",
+   50,
+   "NEW HAVEN",
+   "Acute Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "2/4/15",
+   "Male",
+   "Black",
+   49,
+   "WATERBURY",
+   "Intoxication due to the combined effects of Diazepam, Cocaine, and Heroin"
+ ],
+ [
+   "12/5/15",
+   "Male",
+   "White",
+   59,
+   "COLUMBIA",
+   "Acute Intoxication from the Combined Effects of Heroin, Cocaine, Cyclobenzaprine, Hydroxyzine"
+ ],
+ [
+   "4/10/13",
+   "Male",
+   "Hispanic, White",
+   57,
+   "HARTFORD",
+   "Intoxicaton due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "8/27/15",
+   "Male",
+   "White",
+   21,
+   "SHARON",
+   "Acute heroin intoxication"
+ ],
+ [
+   "10/18/13",
+   "Male",
+   "Hispanic, White",
+   42,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/2/14",
+   "Male",
+   "White",
+   33,
+   "NEW LONDON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/10/14",
+   "Male",
+   "Hispanic, White",
+   44,
+   "MIDDLETOWN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/23/14",
+   "Male",
+   "White",
+   48,
+   "MERIDEN",
+   "Acute intoxication due to the combined effects of heroin and ethanol"
+ ],
+ [
+   "9/19/15",
+   "Male",
+   "White",
+   52,
+   "WATERBURY",
+   "Acute intoxication from the combined effects of heroin, Fentanyl, Oxycodone and alcohol"
+ ],
+ [
+   "4/4/15",
+   "Female",
+   "White",
+   28,
+   "BRISTOL",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/17/13",
+   "Male",
+   "White",
+   26,
+   "N HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/28/15",
+   "Male",
+   "White",
+   23,
+   "DANBURY",
+   "Alcohol and Heroin Intoxication"
+ ],
+ [
+   "1/1/12",
+   "Male",
+   "White",
+   35,
+   "HEBRON",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "10/22/14",
+   "Female",
+   "White",
+   45,
+   "WATERBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/2/15",
+   "Male",
+   "Asian, Other",
+   26,
+   "NEW MILFORD",
+   "Acute intoxication from the combined effects of heroin, Fentanyl and Oxycodone"
+ ],
+ [
+   "12/17/15",
+   "Male",
+   "White",
+   31,
+   "NEWTOWN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/20/14",
+   "Male",
+   "White",
+   29,
+   "DANBURY",
+   "Acute intoxication due to the combined effects of heroin, Hydrocodone and Ketamine"
+ ],
+ [
+   "7/8/15",
+   "Male",
+   "White",
+   43,
+   "WATERBURY",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl and cocaine"
+ ],
+ [
+   "9/3/13",
+   "Male",
+   "White",
+   28,
+   "TORRINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "1/8/15",
+   "Female",
+   "White",
+   43,
+   "TORRINGTON",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "9/1/15",
+   "Female",
+   "White",
+   24,
+   "NEW HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "1/13/13",
+   "Male",
+   "White",
+   22,
+   "HARWINTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "7/28/13",
+   "Male",
+   "White",
+   62,
+   "NEW MILFORD",
+   "Acute intoxication due to the combined effects of                                              Fentanyl, heroin and lorazepam"
+ ],
+ [
+   "2/1/14",
+   "Male",
+   "White",
+   19,
+   "GREENWICH",
+   "Heroin Toxicity"
+ ],
+ [
+   "3/29/15",
+   "Male",
+   "White",
+   47,
+   "DERBY",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl, OXYCOD, ETHANL"
+ ],
+ [
+   "6/13/15",
+   "Male",
+   "White",
+   34,
+   "THOMPSON",
+   "Acute Intoxication from the Combined Effects of Heroin, Clonazepam, 7-Amino Clonazepam, and Amphetamine"
+ ],
+ [
+   "2/28/15",
+   "Male",
+   "White",
+   41,
+   "NORWICH",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "9/21/13",
+   "Male",
+   "White",
+   25,
+   "HARTFORD",
+   "Heroin and Amphetamine Intoxication"
+ ],
+ [
+   "6/16/14",
+   "Male",
+   "White",
+   36,
+   "SHELTON",
+   "Acute Bronchial Asthma"
+ ],
+ [
+   "6/28/14",
+   "Male",
+   "White",
+   53,
+   "MIDDLETOWN",
+   "Acute intoxication due to the combined effects of morphine, cocaine and ethanol"
+ ],
+ [
+   "8/31/12",
+   "Male",
+   "White",
+   56,
+   "MONTVILLE",
+   "Heroin Toxicity"
+ ],
+ [
+   "12/28/15",
+   "Male",
+   "White",
+   43,
+   "IVORYTON",
+   "Acute Heroin and Cocaine Intoxication While Using Oxycodone and Alprazolam"
+ ],
+ [
+   "6/18/12",
+   "Male",
+   "White",
+   37,
+   "EAST HADDAM",
+   "Heroin and Cocaine Toxicities"
+ ],
+ [
+   "1/18/14",
+   "Male",
+   "White",
+   38,
+   "BRISTOL",
+   "Heroin and Alprazolam Intoxication"
+ ],
+ [
+   "7/13/12",
+   "Male",
+   "White",
+   51,
+   "GLASTONBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "10/11/14",
+   "Male",
+   "White",
+   33,
+   "MERIDEN",
+   "Acute heroin intoxication"
+ ],
+ [
+   "8/9/14",
+   "Male",
+   "White",
+   35,
+   "NORTH GRANBY",
+   "Acute Intoxication due to the combined effects of heroin, Alprazolam and Zolpidem"
+ ],
+ [
+   "10/10/15",
+   "Male",
+   "White",
+   43,
+   "STRATFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "12/30/13",
+   "Female",
+   "White",
+   55,
+   "HAMDEN",
+   "Acute intoxication due to the combined effects of heroin, Alprazolam and ethanol"
+ ],
+ [
+   "10/2/14",
+   "Male",
+   "White",
+   35,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/24/15",
+   "Male",
+   "White",
+   27,
+   "NEW MILFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/14/15",
+   "Female",
+   "White",
+   28,
+   "TERRYVILLE",
+   "Acute Intoxication Due To The Combined Effects of Heroin, Fentanyl and Alprazolam"
+ ],
+ [
+   "10/29/15",
+   "Male",
+   "White",
+   29,
+   "WILLIMANTIC",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/6/14",
+   "Female",
+   "White",
+   55,
+   "EAST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/9/14",
+   "Female",
+   "White",
+   47,
+   "MERIDEN",
+   "Cocaine, Alcohol, and Heroin Intoxication"
+ ],
+ [
+   "11/8/15",
+   "Female",
+   "White",
+   34,
+   "MANCHESTER",
+   "Complications of Heroin Toxicity"
+ ],
+ [
+   "1/16/15",
+   "Male",
+   "White",
+   33,
+   "MANCHESTER",
+   "Acute intoxication due to the combined effects of heroin and Alprazolam"
+ ],
+ [
+   "11/17/15",
+   "Male",
+   "White",
+   47,
+   "NEW BRITAIN",
+   "Acute Morphine Intoxication (Probably Derived from Heroin)"
+ ],
+ [
+   "4/4/15",
+   "Male",
+   "White",
+   26,
+   "EAST HARTFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/2/13",
+   "Male",
+   "Hispanic, White",
+   28,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/9/13",
+   "Male",
+   "White",
+   61,
+   "EAST HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "10/5/15",
+   "Male",
+   "White",
+   71,
+   "WATERBURY",
+   "Acute Intoxication Due To The Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "10/18/13",
+   "Male",
+   "Hispanic, White",
+   35,
+   "NEW BRITAIN",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "2/16/13",
+   "Male",
+   "White",
+   29,
+   "WOODBURY",
+   "Intoxication due to the Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "12/17/13",
+   "Male",
+   "White",
+   25,
+   "GRANBY",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/29/15",
+   "Male",
+   "Hispanic, White",
+   43,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, and Cocaine"
+ ],
+ [
+   "12/12/15",
+   "Female",
+   "White",
+   28,
+   "ROCKY HILL",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "9/26/15",
+   "Male",
+   "White",
+   38,
+   "STAMFORD",
+   "Intoxication due to the combined effects of Diazepam, Chlordiazepoxide, Bupropion, Citalopram/Escitalopram and Heroin"
+ ],
+ [
+   "4/12/15",
+   "Male",
+   "White",
+   45,
+   "ENFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "3/24/14",
+   "Male",
+   "White",
+   23,
+   "DANBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/9/12",
+   "Female",
+   "White",
+   36,
+   "MIDDLETOWN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "11/16/14",
+   "Male",
+   "White",
+   40,
+   "NORTH CANAAN",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/4/15",
+   "Male",
+   "White",
+   30,
+   "SOUTHINGTON",
+   "Intoxication due to the Combined Effects of Alprazolam, Morphine, and Oxycodone"
+ ],
+ [
+   "10/3/14",
+   "Female",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "6/4/13",
+   "Male",
+   "White",
+   30,
+   "NAUGATUCK",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/5/13",
+   "Female",
+   "Hispanic, White",
+   46,
+   "BRIDGEPORT",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/12/15",
+   "Male",
+   "Black",
+   36,
+   "WATERBURY",
+   "Acute Intoxication from the Combined Effects of Heroin and Hydromorphone"
+ ],
+ [
+   "12/22/15",
+   "Male",
+   "White",
+   28,
+   "WEST HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/25/15",
+   "Male",
+   "White",
+   54,
+   "NEW BRITAIN",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/29/12",
+   "Male",
+   "Hispanic, White",
+   34,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "6/3/13",
+   "Male",
+   "Hispanic, White",
+   32,
+   "ENFIELD",
+   "Heroin Toxicity"
+ ],
+ [
+   "1/31/14",
+   "Male",
+   "Hispanic, White",
+   30,
+   "BROAD BROOK",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/23/13",
+   "Female",
+   "White",
+   29,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/17/14",
+   "Male",
+   "White",
+   53,
+   "CANTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/6/14",
+   "Male",
+   "White",
+   36,
+   "TORRINGTON",
+   "Acute intoxication due to the combined effects of heroin, Diazepam and ethanol"
+ ],
+ [
+   "10/27/13",
+   "Male",
+   "Hispanic, White",
+   24,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "8/3/13",
+   "Female",
+   "White",
+   49,
+   "NEW BRITAIN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/26/14",
+   "Male",
+   "Hispanic, White",
+   37,
+   "BRIDGEPORT",
+   "Heroin toxicity"
+ ],
+ [
+   "8/25/13",
+   "Female",
+   "White",
+   51,
+   "BRANFORD",
+   "Heroin and Cocaine Intoxication"
+ ],
+ [
+   "7/12/14",
+   "Male",
+   "White",
+   59,
+   "WINDSOR",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "7/2/14",
+   "Male",
+   "White",
+   37,
+   "MERIDEN",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "5/10/14",
+   "Female",
+   "Hispanic, White",
+   47,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "3/10/15",
+   "Female",
+   "White",
+   25,
+   "VERNON",
+   "Acute Combined Heroin and Alcohol Toxicities"
+ ],
+ [
+   "8/2/14",
+   "Male",
+   "Hispanic, White",
+   50,
+   "BRIDGEPORT",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/22/15",
+   "Male",
+   "White",
+   29,
+   "EAST HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/28/12",
+   "Male",
+   "White",
+   46,
+   "NEW LONDON",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "9/20/15",
+   "Female",
+   "White",
+   47,
+   "MERIDEN",
+   "Acute heroin toxicity"
+ ],
+ [
+   "10/11/14",
+   "Female",
+   "White",
+   43,
+   "SOUTHINGTON",
+   "Acute intoxication due to the combined effects of heroin and Diazepam"
+ ],
+ [
+   "9/21/13",
+   "Male",
+   "White",
+   25,
+   "MILFORD",
+   "Acute intoxication due to the combined effects of heroin and ethanol"
+ ],
+ [
+   "7/27/13",
+   "Male",
+   "White",
+   56,
+   "NEW LONDON",
+   "Acute Cocaine, Heroin and Hydrocodone Toxicities"
+ ],
+ [
+   "9/4/15",
+   "Male",
+   "White",
+   60,
+   "WATERFORD",
+   "Acute Intoxication Due to the Combined Effects of Cyclobenzaprine, Heroin, and Morphine"
+ ],
+ [
+   "6/4/15",
+   "Female",
+   "Black",
+   25,
+   "BRIDGEPORT",
+   "Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "8/26/15",
+   "Female",
+   "White",
+   37,
+   "NEW BRITAIN",
+   "Complications of Acute Heroin Intoxication"
+ ],
+ [
+   "5/7/12",
+   "Male",
+   "White",
+   52,
+   "TORRINGTON",
+   "Heroin Toxicity"
+ ],
+ [
+   "3/23/14",
+   "Male",
+   "White",
+   26,
+   "CHESTER",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "3/17/15",
+   "Female",
+   "Black",
+   46,
+   "BRIDGEPORT",
+   "Intoxication due to the Combined Effects of Fentanyl, Heroin, and Lorazepam"
+ ],
+ [
+   "4/2/14",
+   "Female",
+   "White",
+   49,
+   "TORRINGTON",
+   "Alcohol, Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "10/27/12",
+   "Male",
+   "White",
+   39,
+   "STAMFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/21/15",
+   "Male",
+   "White",
+   32,
+   "TORRINGTON",
+   "Heroin, ethanol, oxycod"
+ ],
+ [
+   "12/11/15",
+   "Male",
+   "White",
+   29,
+   "HARTFORD",
+   "Acute Intoxication Due to the Combined Effects Of Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "3/20/13",
+   "Male",
+   "White",
+   21,
+   "BRIDGEPORT",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "8/19/13",
+   "Male",
+   "White",
+   46,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/3/15",
+   "Male",
+   "Chinese",
+   23,
+   "ORANGE",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "9/21/13",
+   "Female",
+   "White",
+   52,
+   "HEBRON",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/28/14",
+   "Male",
+   "White",
+   40,
+   "WALLINGFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "3/29/14",
+   "Male",
+   "White",
+   24,
+   "HARTFORD",
+   "Anoxic Brain Injury due to the Combined Effects of Cocaine, Opiate, and Ethanol Intoxication"
+ ],
+ [
+   "10/14/14",
+   "Male",
+   "White",
+   54,
+   "TORRINGTON",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "4/20/14",
+   "Male",
+   "White",
+   26,
+   "NEW HAVEN",
+   "Acute Heroin and Benzodiazapine Toxicities"
+ ],
+ [
+   "6/12/15",
+   "Male",
+   "White",
+   51,
+   "EAST HAVEN",
+   "Acute Intoxication from the Combined Effects of Heroin, Alcohol, and Diazepam"
+ ],
+ [
+   "4/1/15",
+   "Female",
+   "White",
+   33,
+   "MIDDLETOWN",
+   "Intoxication Due to the Combined Effects of Heroin, Amphetamine, Alprazolam and Cocaine"
+ ],
+ [
+   "6/19/12",
+   "Male",
+   "White",
+   29,
+   "DANBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/25/13",
+   "Female",
+   "White",
+   58,
+   "STAMFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/4/14",
+   "Male",
+   "White",
+   61,
+   "EAST HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/2/15",
+   "Male",
+   "White",
+   36,
+   "MANCHESTER",
+   "Acute Combined Cocaine, Fentanyl and Heroin Toxicities"
+ ],
+ [
+   "8/25/14",
+   "Male",
+   "White",
+   21,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/8/14",
+   "Male",
+   "White",
+   49,
+   "NEW HAVEN",
+   "Acute Opiate, Clonazepam, Alprazolam and Alcohol Toxicities"
+ ],
+ [
+   "9/22/15",
+   "Male",
+   "White",
+   30,
+   "DANBURY",
+   "Acute intoxication due to the combined effects of Acetyl Fentanyl, ethanol and heroin"
+ ],
+ [
+   "3/29/14",
+   "Male",
+   "White",
+   22,
+   "TORRINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/9/12",
+   "Female",
+   "Hispanic, White",
+   31,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/25/12",
+   "Male",
+   "White",
+   26,
+   "MILFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/16/12",
+   "Male",
+   "White",
+   35,
+   "MIDDLEBURY",
+   "Cocanie and Morphine Toxicity"
+ ],
+ [
+   "6/22/14",
+   "Male",
+   "White",
+   41,
+   "TORRINGTON",
+   "Intoxication due to the combined effects of Heroin, Oxycodone, and Bupropion"
+ ],
+ [
+   "12/27/15",
+   "Male",
+   "Black",
+   47,
+   "HARTFORD",
+   "Acute Intoxication From the Combined Effects of Cocaine and Heroin "
+ ],
+ [
+   "8/27/14",
+   "Male",
+   "White",
+   64,
+   "PLYMOUTH",
+   "Heroin Intoxication"
+ ],
+ [
+   "5/21/15",
+   "Male",
+   "White",
+   28,
+   "NORTH CANAAN",
+   "Acute heroin intoxication"
+ ],
+ [
+   "6/25/14",
+   "Female",
+   "White",
+   41,
+   "MIDDLETOWN",
+   "Acute intoxication due to the combined effects of heroin, Lorazepam, Topiramate and Quetiapine"
+ ],
+ [
+   "7/15/15",
+   "Female",
+   "White",
+   28,
+   "BRIDGEPORT",
+   "Complications of Cocaine, Clonazepam, and Heroin Toxicities"
+ ],
+ [
+   "2/15/14",
+   "Male",
+   "Hispanic, White",
+   27,
+   "WATERBURY",
+   "Acute Combined Opiate and Alcohol Toxicities"
+ ],
+ [
+   "3/11/13",
+   "Male",
+   "White",
+   44,
+   "NORWICH",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "9/24/15",
+   "Male",
+   "White",
+   45,
+   "MANCHESTER",
+   "Acute intoxication from the combined effects of heroin, Fentanyl, Acetyl Fentanyl and alcohol"
+ ],
+ [
+   "11/29/14",
+   "Female",
+   "White",
+   25,
+   "PLAINFIELD",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/25/13",
+   "Male",
+   "Asian Indian",
+   58,
+   "BRANFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/21/14",
+   "Female",
+   "White",
+   35,
+   "PUTNAM",
+   "Acute Heroin"
+ ],
+ [
+   "8/8/12",
+   "Male",
+   "Hispanic, White",
+   35,
+   "HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "4/9/15",
+   "Male",
+   "White",
+   36,
+   "WESTBROOK",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/21/13",
+   "Male",
+   "White",
+   58,
+   "BRIDGEPORT",
+   "Opiate Toxicity"
+ ],
+ [
+   "5/29/14",
+   "Male",
+   "White",
+   34,
+   "PUTNAM",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/1/13",
+   "Male",
+   "White",
+   25,
+   "MANCHESTER",
+   "Combined Drug Toxicity, Heroin and Cocaine"
+ ],
+ [
+   "4/27/12",
+   "Male",
+   "Hispanic, White",
+   31,
+   "HARTFORD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "2/5/15",
+   "Male",
+   "White",
+   62,
+   "NEW HAVEN",
+   "Complications of Opiate Toxicity"
+ ],
+ [
+   "1/11/15",
+   "Male",
+   "White",
+   57,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of cocaine and heroin"
+ ],
+ [
+   "4/29/12",
+   "Female",
+   "White",
+   32,
+   "COVENTRY",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "7/11/14",
+   "Male",
+   "White",
+   25,
+   "UNCASVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/25/12",
+   "Male",
+   "White",
+   40,
+   "EAST HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/13/12",
+   "Female",
+   "White",
+   22,
+   "VERNON",
+   "Opiate Toxicity"
+ ],
+ [
+   "9/16/12",
+   "Male",
+   "Black",
+   40,
+   "HAMDEN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/2/13",
+   "Male",
+   "Hispanic, White",
+   41,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/1/14",
+   "Female",
+   "White",
+   28,
+   "BRISTOL",
+   "Intoxication due to the combined effects of Fentanyl, Heroin, and Alcohol"
+ ],
+ [
+   "12/19/15",
+   "Female",
+   "White",
+   53,
+   "STAMFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "8/25/15",
+   "Female",
+   "White",
+   21,
+   "NEW BRITAIN",
+   "Acute intoxication from the combined effects of heroin, Acetyl Fentanyl, alcohol and O-Desmethylvenlafaxine"
+ ],
+ [
+   "6/12/13",
+   "Female",
+   "Black",
+   31,
+   "NEW HAVEN",
+   "Heroin Intoxication"
+ ],
+ [
+   "6/20/13",
+   "Male",
+   "White",
+   22,
+   "WEST HARTFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "5/8/13",
+   "Male",
+   "White",
+   23,
+   "BETHEL",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/26/15",
+   "Male",
+   "White",
+   27,
+   "GLASTONBURY",
+   "Acute Heroin, Fentanyl and Ethanol Toxicities"
+ ],
+ [
+   "6/9/15",
+   "Male",
+   "White",
+   48,
+   "MIDDLETOWN",
+   "Intoxication due to the Combined Effects of Cocaine, Sertraline, and Heroin"
+ ],
+ [
+   "8/6/13",
+   "Female",
+   "White",
+   35,
+   "BRISTOL",
+   "Acute Cocaine and Morphine Toxicities"
+ ],
+ [
+   "8/28/15",
+   "Male",
+   "White",
+   32,
+   "NEW BRITAIN",
+   "Acute Intoxication from the Combined Effects of heroin and buprenorphine"
+ ],
+ [
+   "2/17/14",
+   "Male",
+   "White",
+   50,
+   "DANBURY",
+   "Heroin Toxicity"
+ ],
+ [
+   "2/27/15",
+   "Female",
+   "White",
+   29,
+   "SPRAGUE",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "1/29/12",
+   "Male",
+   "White",
+   35,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "9/19/15",
+   "Male",
+   "White",
+   29,
+   "ENFIELD",
+   "Acute intoxication due to the combined effects of Acetyl Fentanyl, Fentanyl and heroin"
+ ],
+ [
+   "11/22/14",
+   "Male",
+   "White",
+   25,
+   "NORWALK",
+   "Intoxication due to the combined effects of Ethanol and Heroin"
+ ],
+ [
+   "10/31/15",
+   "Female",
+   "Hispanic, White",
+   54,
+   "WILLIMANTIC",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "12/9/15",
+   "Male",
+   "White",
+   59,
+   "MIDDLETOWN",
+   "Acute Fentanyl and Heroin Intoxication While Using Venlafaxine, Alprazolam, Hydroxyzine, Quetiapine and Zolpidem"
+ ],
+ [
+   "10/2/15",
+   "Female",
+   "White",
+   30,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "7/17/15",
+   "Male",
+   "White",
+   42,
+   "CANTERBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/10/15",
+   "Female",
+   "White",
+   55,
+   "STAMFORD",
+   "Intoxication due to the combined effects of Diazepam, Codeine, Morphine and Hydrocodone"
+ ],
+ [
+   "1/29/14",
+   "Male",
+   "White",
+   33,
+   "GUILFORD",
+   "Acute Heroin Alprazolam, Temazepam and Alcohol Toxicities"
+ ],
+ [
+   "11/22/13",
+   "Male",
+   "White",
+   51,
+   "DERBY",
+   "Methadone, Alcohol, and Heroin Intoxication"
+ ],
+ [
+   "3/27/15",
+   "Male",
+   "White",
+   53,
+   "BERLIN",
+   "Acute Heroin, Cocaine and Fentanyl Toxicities"
+ ],
+ [
+   "2/12/14",
+   "Male",
+   "White",
+   28,
+   "SOUTHINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "11/2/12",
+   "Male",
+   "White",
+   38,
+   "TRUMBULL",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "9/1/12",
+   "Male",
+   "Black",
+   58,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "5/26/15",
+   "Male",
+   "White",
+   28,
+   "EAST HAVEN",
+   "Heroin, Methadone, Alprazolam and Topiramate"
+ ],
+ [
+   "9/7/13",
+   "Male",
+   "White",
+   52,
+   "TERRYVILLE",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "11/28/13",
+   "Female",
+   "White",
+   26,
+   "MANCHESTER",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/22/15",
+   "Male",
+   "White",
+   37,
+   "WEST HARTFORD",
+   "Acute intoxication due to the combined effects of cocaine, ethanol, Fentanyl and opiates"
+ ],
+ [
+   "3/17/15",
+   "Male",
+   "Black",
+   35,
+   "MIDDLETOWN",
+   "Acute Combined Heroin and Alcohol Toxicities"
+ ],
+ [
+   "10/14/15",
+   "Female",
+   "White",
+   66,
+   "WATERBURY",
+   "Acute Intoxication from the Combined Effects of Heroin, Alcohol, Alprazolam, Diphenhydramine, Hydroxyzine, and Cyclobenzaprine"
+ ],
+ [
+   "4/11/15",
+   "Male",
+   "Hispanic, White",
+   40,
+   "HARTFORD",
+   "Heroin and Ethanol Intoxication"
+ ],
+ [
+   "3/22/12",
+   "Male",
+   "White",
+   22,
+   "WETHERSFIELD",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/2/13",
+   "Male",
+   "White",
+   25,
+   "NEW LONDON",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/26/13",
+   "Male",
+   "White",
+   46,
+   "MANCHESTER",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "1/3/12",
+   "Male",
+   "White",
+   41,
+   "BRISTOL",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "1/30/15",
+   "Female",
+   "Black",
+   44,
+   "BRIDGEPORT",
+   "Intoxication due to the combined effects of Cocaine, Citalopram, and Heroin"
+ ],
+ [
+   "4/15/13",
+   "Male",
+   "Black",
+   52,
+   "HARTFORD",
+   "Intoxication due to the Combined Effects of Cocaine and Morphine"
+ ],
+ [
+   "12/21/13",
+   "Male",
+   "White",
+   22,
+   "BRISTOL",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Heroin, and Ethanol"
+ ],
+ [
+   "1/31/14",
+   "Male",
+   "White",
+   35,
+   "MERIDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/26/15",
+   "Male",
+   "White",
+   56,
+   "PLAINVILLE",
+   "Intoxication due to the Combined Effects of Clonazepam, Clozapine, Fentanyl, Oxycodone, and Heroin"
+ ],
+ [
+   "5/17/14",
+   "Male",
+   "White",
+   56,
+   "NORWICH",
+   "Heroin Intoxication"
+ ],
+ [
+   "1/6/14",
+   "Female",
+   "White",
+   32,
+   "HARTFORD",
+   "Cocaine and Opiate Toxicity"
+ ],
+ [
+   "1/31/12",
+   "Female",
+   "White",
+   28,
+   "HARTFORD",
+   "Morphine Toxicity"
+ ],
+ [
+   "5/11/14",
+   "Male",
+   "White",
+   44,
+   "NEW LONDON",
+   "Acute intoxication due to the combined effects of heroin, alcohol and Oxycodone"
+ ],
+ [
+   "12/3/14",
+   "Male",
+   "White",
+   19,
+   "TORRINGTON",
+   "Acute intoxication due to the combined effects of heroin and Alprazolam"
+ ],
+ [
+   "9/15/15",
+   "Male",
+   "White",
+   27,
+   "TORRINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/5/15",
+   "Male",
+   "White",
+   33,
+   "NORWICH",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "8/31/15",
+   "Male",
+   "Hispanic, White",
+   44,
+   "BRIDGEPORT",
+   "Acute ethanol and heroin intox"
+ ],
+ [
+   "2/1/15",
+   "Male",
+   "White",
+   29,
+   "WATERBURY",
+   "Intoxication due to the Combined Effects of Methadone and Heroin"
+ ],
+ [
+   "3/4/14",
+   "Male",
+   "White",
+   33,
+   "BRIDGEPORT",
+   "Heroin and Alcohol Intoxication"
+ ],
+ [
+   "11/26/12",
+   "Female",
+   "Black",
+   20,
+   "NEW HAVEN",
+   "Heroin Toxicity"
+ ],
+ [
+   "8/2/14",
+   "Male",
+   "Hispanic, White",
+   27,
+   "HARTFORD",
+   "Alcohol, Cocaine and Heroin Intoxication"
+ ],
+ [
+   "7/9/15",
+   "Female",
+   "Hispanic, White",
+   57,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin, Cocaine and Olanzapine"
+ ],
+ [
+   "5/3/14",
+   "Female",
+   "White",
+   33,
+   "VERNON",
+   "Heroin Overdose"
+ ],
+ [
+   "12/31/14",
+   "Female",
+   "White",
+   26,
+   "BALTIC",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/14/14",
+   "Male",
+   "White",
+   47,
+   "BRIDGEPORT",
+   "Acute intoxication due to the combined effects of heroin and alcohol"
+ ],
+ [
+   "1/20/14",
+   "Male",
+   "White",
+   44,
+   "OAKVILLE",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/21/14",
+   "Male",
+   "White",
+   43,
+   "NEW BRITAIN",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "2/3/13",
+   "Male",
+   "White",
+   59,
+   "GROTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/25/14",
+   "Male",
+   "Asian, Other",
+   30,
+   "SUFFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/26/12",
+   "Male",
+   "Black",
+   31,
+   "PRESTON",
+   "Heroin and Ethanol Toxicity"
+ ],
+ [
+   "5/30/15",
+   "Male",
+   "White",
+   39,
+   "WATERBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "9/2/15",
+   "Male",
+   "Hispanic, White",
+   26,
+   "FRANKLIN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/7/15",
+   "Male",
+   "Black",
+   39,
+   "WATERBURY",
+   "Intoxication due to the combined effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "7/26/15",
+   "Male",
+   "White",
+   50,
+   "BRIDGEPORT",
+   "Acute Intoxication from the Combined Effects of Heroin, Zolpidem, and Alcohol"
+ ],
+ [
+   "4/2/13",
+   "Female",
+   "Black",
+   48,
+   "MERIDEN",
+   "Intoxication due to the Combined Effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "11/8/13",
+   "Male",
+   "White",
+   61,
+   "NAUGATUCK",
+   "Acute intoxication due to heroin and oxycodone"
+ ],
+ [
+   "5/10/14",
+   "Male",
+   "White",
+   55,
+   "TORRINGTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "10/12/15",
+   "Male",
+   "White",
+   41,
+   "DANBURY",
+   "Acute Combined Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "8/21/15",
+   "Female",
+   "White",
+   25,
+   "NEW HAVEN",
+   "Acute intoxication due to the combined effects of heroin, Fentanyl, cocaine and Alprazolam"
+ ],
+ [
+   "9/17/14",
+   "Female",
+   "White",
+   55,
+   "DANBURY",
+   "Acute heroin and Clonazepam intoxication"
+ ],
+ [
+   "8/12/15",
+   "Male",
+   "Hispanic, White",
+   53,
+   "MIDDLETOWN",
+   "Acute Intoxication from the Combined Effects of Heroin, Alcohol, and Mirtazapine"
+ ],
+ [
+   "7/2/15",
+   "Male",
+   "White",
+   52,
+   "HARTFORD",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "6/7/13",
+   "Male",
+   "White",
+   46,
+   "NEW HAVEN",
+   "Cocaine and Heroin Intoxication"
+ ],
+ [
+   "2/4/15",
+   "Male",
+   "White",
+   42,
+   "NEW BRITAIN",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "4/1/14",
+   "Male",
+   "White",
+   35,
+   "BETHEL",
+   "Acute Heroin, Oxycodone, Fentanyl and Alprazolam Toxicities"
+ ],
+ [
+   "4/23/15",
+   "Male",
+   "White",
+   30,
+   "BRIDGEPORT",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "6/20/14",
+   "Female",
+   "White",
+   20,
+   "WINDSOR LOCKS",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "7/19/14",
+   "Male",
+   "White",
+   28,
+   "PUTNAM",
+   "Acute Intoxication Due to the Combined Effects of Heroin, Clonazepam, and Buprenorphine"
+ ],
+ [
+   "1/10/14",
+   "Male",
+   "White",
+   50,
+   "HARTFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/22/14",
+   "Male",
+   "White",
+   51,
+   "SHELTON",
+   "Alprazolam, Methadone and Morphine Intoxication"
+ ],
+ [
+   "9/25/15",
+   "Male",
+   "White",
+   45,
+   "HARTFORD",
+   "Acute heroin and alcohol toxicities"
+ ],
+ [
+   "4/18/14",
+   "Male",
+   "Hispanic, White",
+   40,
+   "WATERBURY",
+   "Acute Cocaine and Heroin Toxicities"
+ ],
+ [
+   "6/25/13",
+   "Male",
+   "White",
+   33,
+   "LEDYARD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/26/14",
+   "Male",
+   "White",
+   25,
+   "NORWICH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/16/13",
+   "Male",
+   "White",
+   26,
+   "NEW BRITAIN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "12/27/14",
+   "Male",
+   "White",
+   58,
+   "MERIDEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/11/14",
+   "Male",
+   "Hispanic, White",
+   60,
+   "HARTFORD",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "9/27/15",
+   "Male",
+   "White",
+   29,
+   "WATERBURY",
+   "Acute Heroin, Cocaine, and Alcohol Toxicities"
+ ],
+ [
+   "12/25/14",
+   "Male",
+   "White",
+   27,
+   "MIDDLETOWN",
+   "Intoxication due to the combined effects of Lorazepam, Bupropion, Citalopram, Quetiapine, and Heroin"
+ ],
+ [
+   "12/31/14",
+   "Male",
+   "Black",
+   39,
+   "EAST HARTFORD",
+   "her, coc, eth"
+ ],
+ [
+   "10/9/14",
+   "Male",
+   "Black",
+   40,
+   "NEW HAVEN",
+   "Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "12/19/15",
+   "Male",
+   "White",
+   24,
+   "NEW HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/18/15",
+   "Male",
+   "White",
+   62,
+   "TERRYVILLE",
+   "Acute Heroin Toxicity Associated with Tramadol and Alcohol Use"
+ ],
+ [
+   "4/6/12",
+   "Male",
+   "Hispanic, White",
+   49,
+   "WILLIMANTIC",
+   "Cocaine and Heroin Toxicity"
+ ],
+ [
+   "9/7/15",
+   "Male",
+   "Hispanic, White",
+   40,
+   "HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "1/7/15",
+   "Male",
+   "White",
+   26,
+   "NEW HAVEN",
+   "Complications of Heroin Toxicity"
+ ],
+ [
+   "7/2/14",
+   "Male",
+   "White",
+   34,
+   "NEW BRITAIN",
+   "Intoxication due to the combined effects of Ethanol, Cocaine, and Heroin"
+ ],
+ [
+   "8/12/15",
+   "Female",
+   "White",
+   17,
+   "MERIDEN",
+   "Acute intoxication due to the combined effects of Heroin, Diphenhydramine and Gabapentin"
+ ],
+ [
+   "11/27/15",
+   "Male",
+   "White",
+   42,
+   "HARTFORD",
+   "Acute Combined Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "1/11/14",
+   "Male",
+   "White",
+   45,
+   "NEW MILFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/24/13",
+   "Male",
+   "Hispanic, White",
+   51,
+   "GROTON",
+   "Heroin Intoxication"
+ ],
+ [
+   "7/30/12",
+   "Male",
+   "White",
+   24,
+   "NORWICH",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/17/13",
+   "Male",
+   "White",
+   50,
+   "DERBY",
+   "Acute Intoxication due to the Combined Effects of Heroin, Tramadol, and Ethanol"
+ ],
+ [
+   "12/10/12",
+   "Male",
+   "Hispanic, White",
+   50,
+   "HARTFORD",
+   "Cocaine and Morphine Toxicity"
+ ],
+ [
+   "2/29/12",
+   "Female",
+   "White",
+   29,
+   "MANCHESTER",
+   "Ethanol and Heroin Toxicity"
+ ],
+ [
+   "4/18/14",
+   "Male",
+   "White",
+   34,
+   "NORWICH",
+   "Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "8/27/12",
+   "Female",
+   "White",
+   17,
+   "NEW MILFORD",
+   "Heroin Toxicity"
+ ],
+ [
+   "11/17/14",
+   "Male",
+   "White",
+   50,
+   "TORRINGTON",
+   "Intoxication due to the Combined Effects of Ethanol, Heroin, and Oxycodine"
+ ],
+ [
+   "1/21/14",
+   "Female",
+   "White",
+   52,
+   "HARTFORD",
+   "Acute intoxication due to the combined effects of heroin and Diazepam"
+ ],
+ [
+   "6/16/14",
+   "Male",
+   "Hispanic, White",
+   48,
+   "NEW BRITAIN",
+   "Heroin Intoxication"
+ ],
+ [
+   "8/19/15",
+   "Male",
+   "White",
+   33,
+   "HADDAM",
+   "Acute heroin and ethanol toxicities"
+ ],
+ [
+   "10/10/12",
+   "Male",
+   "White",
+   45,
+   "MIDDLETOWN",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "10/5/15",
+   "Male",
+   "White",
+   62,
+   "NEW BRITAIN",
+   "Acute Intoxication Due to the Combined Effects of Cocaine, Ethanol, and Heroin"
+ ],
+ [
+   "9/18/15",
+   "Male",
+   "White",
+   43,
+   "HARTFORD",
+   "Complications of Acute Heroin Intoxication"
+ ],
+ [
+   "11/14/14",
+   "Male",
+   "White",
+   49,
+   "NEW BRITAIN",
+   "Acute bronchial asthma"
+ ],
+ [
+   "2/28/15",
+   "Male",
+   "White",
+   32,
+   "ENFIELD",
+   "Acute Heroin and Cocaine Toxicities"
+ ],
+ [
+   "1/14/15",
+   "Male",
+   "Black",
+   39,
+   "WINDHAM",
+   "Heroin Intoxication"
+ ],
+ [
+   "12/1/12",
+   "Male",
+   "Black",
+   51,
+   "WATERBURY",
+   "Multiple Drug Toxicity"
+ ],
+ [
+   "3/17/13",
+   "Male",
+   "White",
+   44,
+   "WATERBURY",
+   "Heroin Intoxication"
+ ],
+ [
+   "9/8/13",
+   "Male",
+   "Black",
+   49,
+   "NEW HAVEN",
+   "Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "7/30/14",
+   "Male",
+   "White",
+   29,
+   "NEW MILFORD",
+   "Heroin Intoxication"
+ ],
+ [
+   "2/20/14",
+   "Male",
+   "White",
+   43,
+   "NORWALK",
+   "Acute intoxication due to the combined effects of heroin, cocaine, Oxycodone and ethanol"
+ ],
+ [
+   "3/24/14",
+   "Female",
+   "White",
+   26,
+   "WALLINGFORD",
+   "Cocaine,Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "10/5/13",
+   "Male",
+   "White",
+   32,
+   "KILLINGWORTH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "3/6/16",
+   "Male",
+   "White",
+   35,
+   "NORWICH",
+   "Acute Heroin and Fentanyl Toxicities Associated With Alprazolam Use"
+ ],
+ [
+   "1/1/16",
+   "Male",
+   "White",
+   60,
+   "NIANTIC",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "11/21/15",
+   "Female",
+   "White",
+   30,
+   "BROOKFIELD",
+   "Acute Intoxication From The Combined Effects of Heroin and Amphetamine"
+ ],
+ [
+   "12/25/15",
+   "Male",
+   "White",
+   56,
+   "NEW HAVEN",
+   "Acute Intoxications due to the Combined Effects of Ethanol, Methadone, and Heroin"
+ ],
+ [
+   "10/2/15",
+   "Male",
+   "White",
+   56,
+   "OAKVILLE",
+   "Acute Intoxication due to the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "11/14/15",
+   "Female",
+   "White",
+   40,
+   "PLANTSVILLE",
+   "Acute Intoxication due to the Combined Effects of Ethanol, Citalopram, Escitalopram, and Heroin"
+ ],
+ [
+   "4/6/16",
+   "Male",
+   "Black",
+   44,
+   "NEW HAVEN",
+   "Acetyl Fentanyl, Fentanyl, and Heroin"
+ ],
+ [
+   "10/20/15",
+   "Male",
+   "Hispanic, White",
+   39,
+   "WILLIMANTIC",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "5/19/16",
+   "Female",
+   "White",
+   38,
+   "DANBURY",
+   "Complications of Acute Cocaine and Heroin Intoxication"
+ ],
+ [
+   "5/8/16",
+   "Female",
+   "White",
+   58,
+   "DAYVILLE",
+   "Acute Intoxication from the Combined Effects of Fentanyl, Heroin, Diazepam and Clonazepam"
+ ],
+ [
+   "2/13/16",
+   "Male",
+   "White",
+   30,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "6/5/16",
+   "Male",
+   "Hispanic, Black",
+   65,
+   "DANBURY",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "2/12/16",
+   "Female",
+   "Black",
+   47,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Fentanyl, Heroin, and Hydromorphone"
+ ],
+ [
+   "4/15/16",
+   "Male",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Acute Fentanyl, Heroin and Alcohol Intoxication While Using Methadone"
+ ],
+ [
+   "2/6/16",
+   "Male",
+   "White",
+   27,
+   "WOODBRIDGE",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "2/16/16",
+   "Male",
+   "White",
+   21,
+   "WATERFORD",
+   "Acute Intoxication From The Combined Effects of Fentanyl, Morphine, Alprazolam and Clonazepam"
+ ],
+ [
+   "3/8/16",
+   "Male",
+   "White",
+   26,
+   "NORWICH",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/12/16",
+   "Male",
+   "White",
+   22,
+   "FARMINGTON",
+   "Acute Cocaine, Heroin, Fentanyl and Phencyclidine Toxicities"
+ ],
+ [
+   "5/13/16",
+   "Male",
+   "White",
+   45,
+   "BRIDGEPORT",
+   "Acute Intoxication from the Combined Effects of Cocaine, Heroin, Fentanyl and Alcohol"
+ ],
+ [
+   "12/3/15",
+   "Male",
+   "White",
+   21,
+   "TORRINGTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/18/16",
+   "Male",
+   "Black",
+   45,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "4/22/16",
+   "Male",
+   "White",
+   33,
+   "NORWALK",
+   "Acute Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "3/25/16",
+   "Male",
+   "White",
+   28,
+   "NEW HAVEN",
+   "Heroin intoxication"
+ ],
+ [
+   "10/1/15",
+   "Male",
+   "White",
+   37,
+   "MANSFIELD",
+   "Acute Opiate Intoxication"
+ ],
+ [
+   "2/16/16",
+   "Male",
+   "White",
+   47,
+   "WATERBURY",
+   "Acute Bronchial Asthma Complicating Acute Heroin and Diphenhydramine Intoxication While on Methadone"
+ ],
+ [
+   "5/5/16",
+   "Male",
+   "White",
+   43,
+   "BRIDGEPORT",
+   "Acute Heroin, Fentanyl and Cocaine Toxicities"
+ ],
+ [
+   "5/27/16",
+   "Male",
+   "White",
+   30,
+   "ENFIELD",
+   "The Combined Effects of Fentanyl, Heroin and Hydromorphone"
+ ],
+ [
+   "6/22/16",
+   "Male",
+   "White",
+   63,
+   "NEW BRITAIN",
+   "Acetyl fentanyl, Fentanyl, Heroin Intoxication"
+ ],
+ [
+   "1/6/16",
+   "Male",
+   "Hispanic, White",
+   35,
+   "NORWALK",
+   "Acute Intoxication from the Combined Effects of Cocaine, Fentanyl, Heroin, Sertraline, and Risperidone"
+ ],
+ [
+   "6/3/16",
+   "Female",
+   "White",
+   57,
+   "ANSONIA",
+   "Acute Intoxication from the Combined Effects of Heroin, Methadone, Lorazepam, Clonazepam, Trazadone and Hydroxyzine with Recent Cocaine Use"
+ ],
+ [
+   "4/5/16",
+   "Female",
+   "White",
+   37,
+   "SOUTHINGTON",
+   "Acute Heroin and Fentanyl Toxicities Associated with Cocaine, Sertraline and Trazodone Use"
+ ],
+ [
+   "10/22/15",
+   "Male",
+   "White",
+   52,
+   "NEW BRITAIN",
+   "Acute Combined Heroin, Cocaine and Alcohol Toxicities"
+ ],
+ [
+   "6/19/16",
+   "Male",
+   "White",
+   29,
+   "NEW HAVEN",
+   "The Combined Effects of Cocaine, Acetyl Fentanyl, Morphine and Oxycodone"
+ ],
+ [
+   "3/5/16",
+   "Male",
+   "White",
+   25,
+   "WATERBURY",
+   "Acute Fentanyl and Morphine Intoxication"
+ ],
+ [
+   "2/29/16",
+   "Male",
+   "Hispanic, White",
+   61,
+   "NEW BRITAIN",
+   "Acute Intoxication Due to the Combined Effects of Cocaine and Morphine"
+ ],
+ [
+   "6/5/16",
+   "Male",
+   "White",
+   36,
+   "BRIDGEPORT",
+   "Complications of Acute Fentanyl, Heroin, Lorazepam and Alprazolam Toxicities"
+ ],
+ [
+   "3/25/16",
+   "Female",
+   "White",
+   32,
+   "WATERBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "1/25/16",
+   "Male",
+   "White",
+   52,
+   "NORWICH",
+   "Acute Heroin and Methadone Toxicities"
+ ],
+ [
+   "3/12/16",
+   "Female",
+   "White",
+   37,
+   "NEW BRITAIN",
+   "Acute Heroin and Alcohol Intoxication"
+ ],
+ [
+   "1/1/16",
+   "Male",
+   "White",
+   46,
+   "EAST HAMPTON",
+   "Acute Fentanyl, Acetyl Fentanyl and Heroin (With Hydroxyzine) Intoxication While Using Methadone"
+ ],
+ [
+   "4/3/16",
+   "Female",
+   "White",
+   30,
+   "ENFIELD",
+   "Acute Heroin Toxicity Associated with Alprazolam Use"
+ ],
+ [
+   "11/4/15",
+   "Male",
+   "White",
+   35,
+   "WATERBURY",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Clonazepam"
+ ],
+ [
+   "2/8/16",
+   "Male",
+   "White",
+   54,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, Alcohol and Tramadol"
+ ],
+ [
+   "5/10/16",
+   "Male",
+   "White",
+   43,
+   "ENFIELD",
+   "Acute Heroin, Fentanyl and Cocaine Toxicities Associated With Alprazolam and Alcohol Use"
+ ],
+ [
+   "10/20/15",
+   "Male",
+   "White",
+   30,
+   "BURLINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/29/16",
+   "Male",
+   "White",
+   28,
+   "NEW MILFORD",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "1/28/16",
+   "Male",
+   "Hispanic, White",
+   47,
+   "NEW LONDON",
+   "Acute Combined Morphine and Buprenorphine Toxicities"
+ ],
+ [
+   "5/1/16",
+   "Male",
+   "White",
+   55,
+   "PLAINVILLE",
+   "Acute Heroin, Fentanyl, Cocaine and Alcohol Toxicities"
+ ],
+ [
+   "6/19/16",
+   "Male",
+   "Hispanic, White",
+   45,
+   "STAMFORD",
+   "The Combined Effects of Heroin, Fentanyl and Methadone"
+ ],
+ [
+   "1/17/16",
+   "Male",
+   "Black",
+   26,
+   "BRISTOL",
+   "Acute Intoxication from the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "2/26/16",
+   "Male",
+   "White",
+   56,
+   "PLAINVILLE",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/26/16",
+   "Male",
+   "White",
+   31,
+   "BRIDGEPORT",
+   "Acute Heroin and Probable Acetyl Fentanyl Intoxication"
+ ],
+ [
+   "10/7/15",
+   "Male",
+   "White",
+   46,
+   "NEW MILFORD",
+   "Combined Acute Heroin, Fentanyl and Diazepam Toxicities"
+ ],
+ [
+   "5/14/16",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, Cocaine and Ethanol"
+ ],
+ [
+   "3/31/16",
+   "Male",
+   "White",
+   22,
+   "STAMFORD",
+   "Complications of Acute Heroin Intoxication"
+ ],
+ [
+   "6/4/16",
+   "Male",
+   "White",
+   25,
+   "EAST LYME",
+   "Acute Heroin and Fentanyl Toxicities Associated with Nordiazepam Use"
+ ],
+ [
+   "6/9/16",
+   "Male",
+   "Black",
+   52,
+   "NEW BRITAIN",
+   "Complications of Acute and Chronic Substance Abuse (Cocaine and Heroin)"
+ ],
+ [
+   "10/27/15",
+   "Female",
+   "White",
+   31,
+   "TORRINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "5/27/16",
+   "Male",
+   "White",
+   28,
+   "STAMFORD",
+   "Acute Intoxication due to the Combined Effects of Ethanol, Diphenhydramine, Fentanyl and Heroin"
+ ],
+ [
+   "2/26/16",
+   "Male",
+   "White",
+   24,
+   "NORWICH",
+   "Acute Intoxication from the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "11/16/15",
+   "Female",
+   "White",
+   56,
+   "STRATFORD",
+   "Acute Intoxication Due to the Combined Effects Of Acetyl Fentanyl, Alprazolam, Amphetamine, and Heroin"
+ ],
+ [
+   "10/9/15",
+   "Male",
+   "Hispanic, Black",
+   38,
+   "HARTFORD",
+   "Acute Intoxication Due To The Combined Effects Of Heroin, Fentanyl and Cocaine"
+ ],
+ [
+   "1/10/16",
+   "Male",
+   "White",
+   45,
+   "TORRINGTON",
+   "Acute Intoxication From the Combined Effects of Heroin and Methadone"
+ ],
+ [
+   "12/17/15",
+   "Male",
+   "White",
+   55,
+   "MASHANTUCKET",
+   "Acute Intoxication From The Combined Effects Of Cocaine, Heroin, Methamphetamine, Cyclobenzaprine, Venlafaxine and 7-Amino Clonazepam"
+ ],
+ [
+   "5/7/16",
+   "Male",
+   "White",
+   31,
+   "ENFIELD",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "5/14/16",
+   "Female",
+   "White",
+   62,
+   "BRIDGEPORT",
+   "Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, and Methadone"
+ ],
+ [
+   "6/6/16",
+   "Male",
+   "Hispanic, White",
+   52,
+   "EAST HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, Methadone and Alprazolam"
+ ],
+ [
+   "2/29/16",
+   "Female",
+   "Hispanic, White",
+   22,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Ethanol and Heroin"
+ ],
+ [
+   "5/11/16",
+   "Female",
+   "White",
+   31,
+   "GLASTONBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/23/16",
+   "Male",
+   "White",
+   43,
+   "WEST HAVEN",
+   "Acute Heroin, Cocaine and Hydromorphone Toxicities Associated with Buprenorphine and Alcohol Use"
+ ],
+ [
+   "10/17/15",
+   "Male",
+   "White",
+   38,
+   "PUTNAM",
+   "Acute Intoxication from the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "1/30/16",
+   "Male",
+   "White",
+   54,
+   "MIDDLETOWN",
+   "Acute Heroin Intoxication While Using Alcohol, Trazodone, Bupropion and Abilify"
+ ],
+ [
+   "1/6/16",
+   "Male",
+   "Unknown",
+   24,
+   "BRIDGEPORT",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Clonazepam"
+ ],
+ [
+   "4/25/16",
+   "Female",
+   "White",
+   31,
+   "WATERBURY",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest due to acute heroin intoxication"
+ ],
+ [
+   "6/3/16",
+   "Male",
+   "White",
+   51,
+   "NEW BRITAIN",
+   "Acute Heroin Toxicity Associated with Alcohol Use"
+ ],
+ [
+   "4/18/16",
+   "Female",
+   "White",
+   21,
+   "BRIDGEPORT",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest due to acute heroin intoxication"
+ ],
+ [
+   "5/31/16",
+   "Male",
+   "White",
+   35,
+   "DEEP RIVER",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "4/27/16",
+   "Male",
+   "White",
+   41,
+   "WEST HARTFORD",
+   "Acute Heroin and Fentanyl Toxicities Associated With Alprazolam Use"
+ ],
+ [
+   "2/12/16",
+   "Male",
+   "White",
+   60,
+   "STRATFORD",
+   "Acute Intoxication Due To The Combined Effects of Cocaine, Heroin and Alprazolam"
+ ],
+ [
+   "5/24/16",
+   "Male",
+   "Black",
+   50,
+   "HARTFORD",
+   "Acute Heroin and Cocaine Toxicities Associated with Alcohol Use"
+ ],
+ [
+   "5/11/16",
+   "Male",
+   "White",
+   26,
+   "DARIEN",
+   "Acute Heroin, Fentanyl and Cocaine Intoxication While Using Alprazolam"
+ ],
+ [
+   "5/7/16",
+   "Male",
+   "Black",
+   57,
+   "HARTFORD",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest Acute Cocaine and Opioid (Probably Heroin) Intoxication"
+ ],
+ [
+   "4/25/16",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Morphine and Oxycodone Intoxication and Recent Use of Cocaine"
+ ],
+ [
+   "6/27/16",
+   "Male",
+   "Hispanic, White",
+   48,
+   "MERIDEN",
+   "Acute Fentanyl and Heroin Toxicities"
+ ],
+ [
+   "4/7/16",
+   "Male",
+   "White",
+   58,
+   "VERNON",
+   "Acute Intoxication due to the Combined Effects of Heroin and Acetyl Fentanyl"
+ ],
+ [
+   "1/21/16",
+   "Male",
+   "White",
+   31,
+   "OLD SAYBROOK",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/20/16",
+   "Male",
+   "Hispanic, White",
+   33,
+   "HARTFORD",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "11/26/15",
+   "Male",
+   "White",
+   55,
+   "BRANFORD",
+   "Acute Intoxication Due To The Combined Effects Of Alprazolam, Ethanol, Heroin, and Methadone"
+ ],
+ [
+   "3/24/16",
+   "Male",
+   "White",
+   61,
+   "TORRINGTON",
+   "Acute Heroin and Fentanyl Toxicities Associated With Tramadol, Topiramate, Olanzapine and Fluoxetine Use"
+ ],
+ [
+   "6/13/16",
+   "Male",
+   "White",
+   49,
+   "BRISTOL",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, Alcohol and Diazepam"
+ ],
+ [
+   "2/8/16",
+   "Male",
+   "Black",
+   69,
+   "HAMDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/30/15",
+   "Male",
+   "White",
+   32,
+   "TORRINGTON",
+   "Acute Combined Heroin, Fentanyl and Cocaine Toxicities"
+ ],
+ [
+   "10/4/15",
+   "Male",
+   "Black",
+   35,
+   "WEST HAVEN",
+   "Acute Intoxication from the Combined Effects of Cocaine, Heroin, and Hydroxyzine "
+ ],
+ [
+   "10/23/15",
+   "Male",
+   "White",
+   36,
+   "EAST HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Heroin, Phencyclidine, Olanzapine and Citalopram"
+ ],
+ [
+   "12/11/15",
+   "Male",
+   "White",
+   43,
+   "WEST HAVEN",
+   "Acute Cocaine and Heroin Intoxication"
+ ],
+ [
+   "4/18/16",
+   "Male",
+   "Hispanic, White",
+   39,
+   "HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin, Acetyl Fentanyl and alcohol"
+ ],
+ [
+   "5/24/16",
+   "Male",
+   "White",
+   20,
+   "WEST HAVEN",
+   "The Combined Effects of Heroin, Alprazolam and Cocaine"
+ ],
+ [
+   "2/13/16",
+   "Male",
+   "White",
+   58,
+   "BRISTOL",
+   "Hypertensive Cardiovascular Disease/Acute Heroin and Methadone Intoxication"
+ ],
+ [
+   "6/17/16",
+   "Female",
+   "White",
+   32,
+   "MONROE",
+   "The Combined Effects of Clonazepam, Citalopram/Escitalopram and Heroin"
+ ],
+ [
+   "10/10/15",
+   "Male",
+   "White",
+   52,
+   "GLASTONBURY",
+   "Acute Intoxication due to the Combined Effects of Fentanyl, Morphine, and Ethanol"
+ ],
+ [
+   "11/17/15",
+   "Male",
+   "White",
+   21,
+   "WARREN",
+   "Acute Intoxication Due to the Combined Effects of Heroin and Ethanol"
+ ],
+ [
+   "3/24/16",
+   "Male",
+   "White",
+   31,
+   "HARTFORD",
+   "Acute Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "2/2/16",
+   "Male",
+   "White",
+   28,
+   "OXFORD",
+   "Acute Intoxication due to the Combined Effects of Amphetamine, Clonazepam, Cocaine, Heroin, and MDMA"
+ ],
+ [
+   "11/23/15",
+   "Male",
+   "Hispanic, White",
+   63,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "10/9/15",
+   "Male",
+   "White",
+   30,
+   "GROTON",
+   "Acute Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "3/22/16",
+   "Male",
+   "White",
+   61,
+   "GRANBY",
+   "Acute Heroin, Fentanyl and Acetyl Fentanyl Toxicities"
+ ],
+ [
+   "5/6/16",
+   "Female",
+   "White",
+   51,
+   "WATERBURY",
+   "Acute Heroin Intoxication with Aspiration Pneumonia"
+ ],
+ [
+   "2/1/16",
+   "Male",
+   "White",
+   28,
+   "MILFORD",
+   "Acute Fentanyl, Heroin with Hydroxyzine, Cocaine and Alcohol Intoxication While Using Alprazolam"
+ ],
+ [
+   "12/1/15",
+   "Male",
+   "White",
+   59,
+   "TERRYVILLE",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "12/4/15",
+   "Female",
+   "White",
+   51,
+   "NEW BRITAIN",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "5/26/16",
+   "Female",
+   "Black",
+   47,
+   "HARTFORD",
+   "Cocaine and Heroin"
+ ],
+ [
+   "5/10/16",
+   "Male",
+   "White",
+   23,
+   "NEW HAVEN",
+   "Acute Bronchial Asthma Complicating Acute Heroin and Cocaine Intoxication While Using Alprazolam"
+ ],
+ [
+   "10/10/15",
+   "Male",
+   "White",
+   29,
+   "WEST HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "1/26/16",
+   "Female",
+   "White",
+   37,
+   "WATERBURY",
+   "Acute Intoxication From the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "10/21/15",
+   "Female",
+   "White",
+   52,
+   "MERIDEN",
+   "Acute Intoxication Due to the Combined Effects of Benzodiazepines and heroin"
+ ],
+ [
+   "4/4/16",
+   "Male",
+   "White",
+   42,
+   "NEW LONDON",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest Acute Fentanyl and Heroin Intoxication While Using Methadone"
+ ],
+ [
+   "12/31/15",
+   "Female",
+   "White",
+   34,
+   "WATERBURY",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "12/16/15",
+   "Male",
+   "White",
+   60,
+   "EAST HARTFORD",
+   "Acute Heroin Toxicitty"
+ ],
+ [
+   "2/29/16",
+   "Male",
+   "White",
+   47,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Ethanol, and Heroin"
+ ],
+ [
+   "2/25/16",
+   "Male",
+   "Black",
+   55,
+   "NEW HAVEN",
+   "Complications of Acute Heroin Toxicity Associated With Prescribed tramadol use"
+ ],
+ [
+   "2/13/16",
+   "Male",
+   "White",
+   33,
+   "NORTHFORD",
+   "Acute Intoxication  due to the Combined Effects of Clonazepam, Cocaine, Hydroxyzine and Heroin"
+ ],
+ [
+   "4/9/16",
+   "Male",
+   "White",
+   18,
+   "NORWICH",
+   "Acute Intoxication From the Combined Effects of Heroin, Alprazolam, and 7-Amino Clonazepam"
+ ],
+ [
+   "6/1/16",
+   "Male",
+   "White",
+   51,
+   "NEW HAVEN",
+   "Benzodiazepines, Ethanol, and Heroin"
+ ],
+ [
+   "4/19/16",
+   "Male",
+   "White",
+   33,
+   "HARTFORD",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "3/11/16",
+   "Male",
+   "White",
+   42,
+   "MILFORD",
+   "Acute Intoxication Due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "4/8/16",
+   "Female",
+   "White",
+   44,
+   "PORTLAND",
+   "Acute Fentanyl and Heroin Toxicities Associated with Alprazolam Use"
+ ],
+ [
+   "5/13/16",
+   "Male",
+   "White",
+   61,
+   "NEW BRITAIN",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "2/17/16",
+   "Male",
+   "White",
+   24,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Meprobamate, Fentanyl, Dextro/Levo Methorphan, Morphine, and Oxycodone"
+ ],
+ [
+   "11/3/15",
+   "Male",
+   "White",
+   27,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Heroin, Alprazolam, and Lorazepam"
+ ],
+ [
+   "2/24/16",
+   "Male",
+   "White",
+   44,
+   "NEW HAVEN",
+   "Sequelae of Cardiopulmonary Arrest Including Hypoxic-Ischemic Encephalopathy Acute Opiate Intoxication"
+ ],
+ [
+   "5/25/16",
+   "Male",
+   "White",
+   40,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Ethanol, Diazepam, Fentanyl and Heroin"
+ ],
+ [
+   "6/2/16",
+   "Male",
+   "White",
+   34,
+   "MERIDEN",
+   "The Combined Effects of Heroin, Cocaine and Alprazolam"
+ ],
+ [
+   "6/18/16",
+   "Male",
+   "White",
+   24,
+   "STERLING",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "5/5/16",
+   "Male",
+   "White",
+   47,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "11/30/15",
+   "Male",
+   "White",
+   33,
+   "HARTFORD",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest Acute Opiate/Heroin and Cocaine Intoxication"
+ ],
+ [
+   "2/3/16",
+   "Male",
+   "White",
+   24,
+   "WATERBURY",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/30/16",
+   "Male",
+   "Black",
+   61,
+   "NORWICH",
+   "The Combined Effects of Heroin, Fentanyl and Alcohol"
+ ],
+ [
+   "1/1/16",
+   "Male",
+   "Hispanic, White",
+   34,
+   "BRIDGEPORT",
+   "Acute Intoxication due to the Combined Effects of Heroin, Cocaine, Oxycodone, and Ethanol"
+ ],
+ [
+   "10/21/15",
+   "Male",
+   "White",
+   34,
+   "HARTFORD",
+   "Acute Intoxication From The Combined Effects of Heroin, Fentanyl, Phencyclidine, Hydroxyzine and Paroxetine"
+ ],
+ [
+   "12/17/15",
+   "Female",
+   "White",
+   46,
+   "EAST WINDSOR",
+   "Acute Intoxication from the Combined Effects of Heroin and Clonazepam"
+ ],
+ [
+   "1/2/16",
+   "Male",
+   "White",
+   25,
+   "NAUGATUCK",
+   "Acute Heroin and Cocaine (With Hydroxyzine) Intoxication While Using Topiramate"
+ ],
+ [
+   "10/4/15",
+   "Male",
+   "Black",
+   47,
+   "NEW BRITAIN",
+   "Intoxication due to the Combined Effects of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "3/8/16",
+   "Male",
+   "Hispanic, White",
+   31,
+   "BRIDGEPORT",
+   "Acute Intoxication Due To The Combined Effects Of Fentanyl and Heroin"
+ ],
+ [
+   "1/21/16",
+   "Male",
+   "White",
+   26,
+   "MANCHESTER",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/24/16",
+   "Male",
+   "White",
+   37,
+   "BRISTOL",
+   "Acute Intoxication From the Combined Effects of Heroin and Diazepam"
+ ],
+ [
+   "5/2/16",
+   "Female",
+   "White",
+   41,
+   "NEW BRITAIN",
+   "Acute Bronchial Asthma Complicating Acute Heroin Intoxication"
+ ],
+ [
+   "11/9/15",
+   "Male",
+   "White",
+   36,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Ethanol, Cocaine, Methadone, and Heroin"
+ ],
+ [
+   "1/20/16",
+   "Male",
+   "White",
+   39,
+   "SIMSBURY",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "4/17/16",
+   "Female",
+   "Asian, Other",
+   39,
+   "BRIDGEPORT",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "12/15/15",
+   "Male",
+   "White",
+   54,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "3/10/16",
+   "Male",
+   "Black",
+   48,
+   "NEW HAVEN",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/3/16",
+   "Female",
+   "White",
+   27,
+   "WATERBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/8/16",
+   "Male",
+   "White",
+   26,
+   "DANBURY",
+   "Complications of Acute Opioid Intoxication"
+ ],
+ [
+   "11/21/15",
+   "Male",
+   "White",
+   23,
+   "NORWALK",
+   "Acute Intoxication From The Combined Effects of Cocaine, Heroin, Fentanyl and Hydroxyzine"
+ ],
+ [
+   "1/28/16",
+   "Male",
+   "White",
+   46,
+   "WESTPORT",
+   "Acute Fentanyl, Acetyl Fentanyl, Heroin and Alcohol Intoxication While Using Lorazepam"
+ ],
+ [
+   "11/10/15",
+   "Male",
+   "White",
+   64,
+   "IVORYTON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/26/16",
+   "Male",
+   "Hispanic, White",
+   23,
+   "BRIDGEPORT",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "11/13/15",
+   "Male",
+   "White",
+   29,
+   "WILLINGTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/15/15",
+   "Female",
+   "White",
+   42,
+   "ENFIELD",
+   "Acute Intoxication due to the Combined Effects of Clonazepam, Topiramate, Fluoxetine, and Heroin"
+ ],
+ [
+   "3/23/16",
+   "Female",
+   "White",
+   45,
+   "SHELTON",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/31/16",
+   "Male",
+   "White",
+   23,
+   "GREENWICH",
+   "Acute Fentanyl and Morphine Intoxication"
+ ],
+ [
+   "2/3/16",
+   "Male",
+   "Black",
+   33,
+   "NEW HAVEN",
+   "Acute Fentanyl, Heroin and Alcohol Intoxication"
+ ],
+ [
+   "6/7/16",
+   "Male",
+   "White",
+   33,
+   "NORWICH",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl and Alcohol"
+ ],
+ [
+   "6/7/16",
+   "Female",
+   "Hispanic, White",
+   44,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "2/1/16",
+   "Male",
+   "Black",
+   33,
+   "HARTFORD",
+   "Acute Intoxiction From the Combined Effects of Cocaine, Heroin, and Phencyclidine"
+ ],
+ [
+   "3/19/16",
+   "Male",
+   "Black",
+   27,
+   "BRIDGEPORT",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/6/16",
+   "Male",
+   "White",
+   57,
+   "STRATFORD",
+   "Acute Intoxication The Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "2/4/16",
+   "Male",
+   "Hispanic, White",
+   39,
+   "WETHERSFIELD",
+   "Acute Intoxication From the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "5/18/16",
+   "Male",
+   "White",
+   35,
+   "WATERBURY",
+   "The Combined Effects of Fentanyl, Heroin, Alprazolam and Clonazepam"
+ ],
+ [
+   "6/6/16",
+   "Male",
+   "White",
+   32,
+   "PORTLAND",
+   "The Combined Effects of Clonazepam, Cyclobenzaprine, Heroin and Furanyl Fentanyl"
+ ],
+ [
+   "3/28/16",
+   "Male",
+   "Hispanic, White",
+   55,
+   "HARTFORD",
+   "Heroin and Fentanyl intoxication"
+ ],
+ [
+   "4/19/16",
+   "Male",
+   "White",
+   46,
+   "TORRINGTON",
+   "Acute Fentanyl, Heroin and Alcohol Intoxication"
+ ],
+ [
+   "4/17/16",
+   "Male",
+   "White",
+   51,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "1/31/16",
+   "Male",
+   "Hispanic, White",
+   47,
+   "BRISTOL",
+   "Sepsis with Acute and Chronic Heroin Abuse"
+ ],
+ [
+   "5/20/16",
+   "Male",
+   "White",
+   51,
+   "DERBY",
+   "the combined effects of Fentanyl, Heroin, Oxycodone and Diazepam"
+ ],
+ [
+   "5/13/16",
+   "Male",
+   "White",
+   46,
+   "DANBURY",
+   "Acute Intoxication from the Combined Effects of Cocaine, Heroin, Tramadol and Alprazolam"
+ ],
+ [
+   "4/13/16",
+   "Male",
+   "White",
+   53,
+   "STONINGTON",
+   "Acute Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "5/26/16",
+   "Male",
+   "",
+   73,
+   "HARTFORD",
+   "Acute Heroin and Ethanol Intoxication"
+ ],
+ [
+   "3/21/16",
+   "Female",
+   "White",
+   34,
+   "WATERBURY",
+   "Bronchopneumonia Complicating Acute and Chronic Substance Abuse (Morphine, Hydrocodone, Buprenorphine, Phencyclidine)"
+ ],
+ [
+   "11/15/15",
+   "Female",
+   "White",
+   26,
+   "SIMSBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/30/16",
+   "Male",
+   "White",
+   26,
+   "NORWALK",
+   "Acute Heroin Intoxication While Using Clonazepam"
+ ],
+ [
+   "3/31/16",
+   "Male",
+   "Hispanic, White",
+   35,
+   "NEW BRITAIN",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Heroin, Fentanyl, and Oxycodone"
+ ],
+ [
+   "3/9/16",
+   "Male",
+   "White",
+   39,
+   "NEW HAVEN",
+   "Acute Heroin, Cocaine and Cocaethylene Intoxication"
+ ],
+ [
+   "11/4/15",
+   "Male",
+   "Hispanic, White",
+   49,
+   "HARTFORD",
+   "Complications of Acute and Chronic Substance Abuse (Heroin and Cocaine)"
+ ],
+ [
+   "4/11/16",
+   "Male",
+   "Hispanic, White",
+   26,
+   "HARTFORD",
+   "Acute Cocaine, Heroin, Fentanyl and Alcohol Toxicities"
+ ],
+ [
+   "1/4/16",
+   "Male",
+   "White",
+   48,
+   "WATERBURY",
+   "Acute Intoxication Due to the Combined Effects of Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "3/13/16",
+   "Male",
+   "White",
+   58,
+   "NEW HAVEN",
+   "Acute Intoxication Due To The Combined Effects of Heroin And Alcohol"
+ ],
+ [
+   "4/3/16",
+   "Male",
+   "Hispanic, White",
+   26,
+   "BRIDGEPORT",
+   "The Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "11/5/15",
+   "Female",
+   "White",
+   56,
+   "MANCHESTER",
+   "Acute Combined Heroin and Methadone Toxicities"
+ ],
+ [
+   "6/3/16",
+   "Male",
+   "White",
+   55,
+   "WETHERSFIELD",
+   "Acute Intoxication from the Combined Effects of Heroin, Hydrocodone and Alcohol"
+ ],
+ [
+   "4/9/16",
+   "Male",
+   "Hispanic, White",
+   48,
+   "BRIDGEPORT",
+   "Acute Intoxication due to the Combined Effects of Acetyl Fentanyl, Cocaine, Ethanol, Fentanyl and Heroin"
+ ],
+ [
+   "4/20/16",
+   "Male",
+   "White",
+   36,
+   "SOMERS",
+   "Acute Heroin, Fentanyl and Cocaine Toxicities"
+ ],
+ [
+   "6/1/16",
+   "Female",
+   "Asian, Other",
+   35,
+   "BRIDGEPORT",
+   "Acute Intoxication from the Combined Effects of Heroin, Acetyl Fentanyl and Alcohol"
+ ],
+ [
+   "1/8/16",
+   "Male",
+   "White",
+   68,
+   "MILFORD",
+   "Acute Intoxication From the Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "2/28/16",
+   "Female",
+   "White",
+   58,
+   "NEW HAVEN",
+   "Acute Intoxication Due to the Combined Effects of Heroin, Clonazepam, Trazodone and Alcohol"
+ ],
+ [
+   "4/8/16",
+   "Male",
+   "Black",
+   46,
+   "WILLIMANTIC",
+   "Acute Heroin Toxicity with Associated Alcohol Use"
+ ],
+ [
+   "4/13/16",
+   "Male",
+   "White",
+   47,
+   "MIDDLETOWN",
+   "Acute Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "10/18/15",
+   "Male",
+   "White",
+   49,
+   "PORTLAND",
+   "Heroin Intoxication"
+ ],
+ [
+   "4/30/16",
+   "Female",
+   "White",
+   48,
+   "MANCHESTER",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, and methadone"
+ ],
+ [
+   "3/25/16",
+   "Male",
+   "Black",
+   44,
+   "MERIDEN",
+   "Acute Heroin and Fentanyl Toxicities"
+ ],
+ [
+   "10/20/15",
+   "Female",
+   "White",
+   24,
+   "MARLBOROUGH",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "3/18/16",
+   "Male",
+   "White",
+   33,
+   "NORWALK",
+   "Acute Intoxication The Combined Effects of Heroin, Alcohol, Clonazepam and Diazepam"
+ ],
+ [
+   "1/3/16",
+   "Male",
+   "Hispanic, White",
+   57,
+   "BRIDGEPORT",
+   "Complications of Acute Morphine Toxicity"
+ ],
+ [
+   "5/13/16",
+   "Male",
+   "White",
+   29,
+   "MANCHESTER",
+   "Acute Intoxication due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "2/12/16",
+   "Male",
+   "White",
+   33,
+   "WATERTOWN",
+   "Acute Intoxication Due To The Combined Effects of Fentanyl, Heroin and Cocaine"
+ ],
+ [
+   "11/23/15",
+   "Male",
+   "White",
+   65,
+   "GALES FERRY",
+   "Acute Intoxication Due to the Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "4/9/16",
+   "Male",
+   "White",
+   23,
+   "GRISWOLD",
+   "Acute Intoxication due to the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "2/9/16",
+   "Male",
+   "White",
+   23,
+   "HARTFORD",
+   "Acute Intoxication Due to the Combined Effects of Alprazolam, Heroin, and Methamphetamine"
+ ],
+ [
+   "1/30/16",
+   "Male",
+   "Black",
+   34,
+   "BRIDGEPORT",
+   "Acute Fentanyl, Heroin, Ketamine and Methadone Intoxication"
+ ],
+ [
+   "6/13/16",
+   "Male",
+   "White",
+   35,
+   "NEWTOWN",
+   "Acute Heroin and Fentanyl Toxicities Associated With Buprenorphine and Ethanol Use"
+ ],
+ [
+   "4/25/16",
+   "Male",
+   "Black",
+   49,
+   "NEW BRITAIN",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "3/13/16",
+   "Male",
+   "White",
+   25,
+   "NORWALK",
+   "Acute Heroin and Cocaine Toxicities, Associated Alprazolam Use"
+ ],
+ [
+   "11/19/15",
+   "Male",
+   "White",
+   22,
+   "WOODBRIDGE",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Alprazolam"
+ ],
+ [
+   "5/6/16",
+   "Male",
+   "White",
+   48,
+   "WATERBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "6/18/16",
+   "Male",
+   "White",
+   33,
+   "WETHERSFIELD",
+   "The Combined Effects of Fentanyl, Heroin and Cocaine"
+ ],
+ [
+   "6/19/16",
+   "Male",
+   "White",
+   47,
+   "TERRYVILLE",
+   "Acute Combined Fentanyl, Heroin and Oxycodone Toxicities Associated With Pseudoephedrine Use"
+ ],
+ [
+   "6/20/16",
+   "Male",
+   "White",
+   26,
+   "SOUTHINGTON",
+   "Acute Heroin and Alcohol Intoxication"
+ ],
+ [
+   "5/28/16",
+   "Male",
+   "White",
+   63,
+   "SEYMOUR",
+   "The Combined Effects of Heroin, Diazepam and Alcohol"
+ ],
+ [
+   "2/17/16",
+   "Male",
+   "White",
+   39,
+   "DERBY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "11/6/15",
+   "Female",
+   "White",
+   41,
+   "HARTFORD",
+   "Acute Heroin and Clonazepam Intoxication"
+ ],
+ [
+   "2/16/16",
+   "Male",
+   "White",
+   66,
+   "BRANFORD",
+   "Acute Heroin Intoxication While Using Diazepam"
+ ],
+ [
+   "11/27/15",
+   "Male",
+   "White",
+   44,
+   "WINSTED",
+   "Combined Acute Heroin and Alcohol Toxicities"
+ ],
+ [
+   "6/18/16",
+   "Male",
+   "White",
+   28,
+   "DANBURY",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "4/16/16",
+   "Male",
+   "White",
+   52,
+   "BRISTOL",
+   "Acute Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "5/14/16",
+   "Male",
+   "White",
+   26,
+   "OLD SAYBROOK",
+   "Acute Heroin and Fentanyl Toxicities Associated with Diazepam, Oxazepam, Temazepam and Alprazolam Use"
+ ],
+ [
+   "5/31/16",
+   "Male",
+   "White",
+   23,
+   "FARMINGTON",
+   "Acute Heroin Toxicity Associated with Alprazolam Use"
+ ],
+ [
+   "10/12/15",
+   "Male",
+   "Hispanic, White",
+   23,
+   "WILLIMANTIC",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "3/23/16",
+   "Male",
+   "White",
+   24,
+   "TRUMBULL",
+   "Acute Intoxication due to the Combined Effects of Alprazolam and Heroin"
+ ],
+ [
+   "6/11/16",
+   "Female",
+   "White",
+   57,
+   "CLINTON",
+   "Acute Heroin and Oxycodone Intoxication"
+ ],
+ [
+   "10/23/15",
+   "Male",
+   "White",
+   25,
+   "MERIDEN",
+   "Acute Intoxication Due to the Combined Effects of Cocaine, Fentanyl, Heroin, and Methamphetamine"
+ ],
+ [
+   "4/15/16",
+   "Male",
+   "White",
+   44,
+   "GROTON",
+   "Acute Fentanyl, Heroin and Alcohol Intoxication While Using Buprenorphine"
+ ],
+ [
+   "10/1/15",
+   "Male",
+   "White",
+   38,
+   "COLUMBIA",
+   "Acute Heroin, Fentanyl and Methamphetamine Toxicities"
+ ],
+ [
+   "3/30/16",
+   "Female",
+   "White",
+   41,
+   "BRISTOL",
+   "Complications of Acute Intoxication due to the Combined Effects of Heroin and Benzodiazepines"
+ ],
+ [
+   "11/19/15",
+   "Male",
+   "White",
+   47,
+   "WATERBURY",
+   "Acute Fentanyl, Heroin and Cocaine Intoxication While Using Sertraline and Methadone"
+ ],
+ [
+   "2/3/16",
+   "Male",
+   "White",
+   41,
+   "NORWALK",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "10/30/15",
+   "Male",
+   "Black",
+   28,
+   "NEW HAVEN",
+   "Combined Adverse Effects of Fentanyl, Heroin, Phencyclidine and Cocaine"
+ ],
+ [
+   "2/12/16",
+   "Male",
+   "Black",
+   35,
+   "WATERBURY",
+   "Acute Intoxication Due To The Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "2/1/16",
+   "Female",
+   "White",
+   63,
+   "DANBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/27/16",
+   "Male",
+   "White",
+   64,
+   "MILFORD",
+   "Cocaine, Heroin, and Alcohol Intoxication"
+ ],
+ [
+   "1/1/16",
+   "Female",
+   "White",
+   26,
+   "NEW HAVEN",
+   "Acute Morphine and Codeine Intoxication While Using Diazepam and Fluoxetine"
+ ],
+ [
+   "6/29/16",
+   "Female",
+   "Hispanic, White",
+   25,
+   "BRIDGEPORT",
+   "Acute Heroin, Cocaine, Alcohol and Cocaethylene Intoxication"
+ ],
+ [
+   "2/7/16",
+   "Male",
+   "Hispanic, White",
+   43,
+   "NORWICH",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/13/16",
+   "Male",
+   "White",
+   27,
+   "BRIDGEPORT",
+   "Acute Heroin and Alprazolam Intoxication"
+ ],
+ [
+   "10/30/15",
+   "Male",
+   "White",
+   35,
+   "HARTFORD",
+   "Acute Intoxication Due to the Combined Effects of Diazepam, Heroin, and Tramadol"
+ ],
+ [
+   "1/31/16",
+   "Female",
+   "White",
+   54,
+   "DANBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/10/16",
+   "Male",
+   "Hispanic, White",
+   41,
+   "BRIDGEPORT",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/17/16",
+   "Female",
+   "White",
+   27,
+   "WINCHESTER",
+   "Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, Hydrocodone and Alcohol"
+ ],
+ [
+   "11/11/15",
+   "Male",
+   "White",
+   38,
+   "MERIDEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "4/9/16",
+   "Male",
+   "White",
+   26,
+   "WINDHAM",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "11/21/15",
+   "Male",
+   "Hispanic, White",
+   47,
+   "HARTFORD",
+   "Acute Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "4/11/16",
+   "Male",
+   "White",
+   51,
+   "NEW BRITAIN",
+   "Acute Heroin, Fentanyl and Acetyl Fentanyl Toxicities"
+ ],
+ [
+   "4/30/16",
+   "Male",
+   "Hispanic, White",
+   59,
+   "HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin and Fentanyl"
+ ],
+ [
+   "10/6/15",
+   "Male",
+   "White",
+   44,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Clonazepam, Alprazolam, Cocaine, Methadone, and Heroin"
+ ],
+ [
+   "1/31/16",
+   "Male",
+   "Hispanic, White",
+   57,
+   "WILLIMANTIC",
+   "Acute Intoxication due to the Combined Effects of Diphenhydramine, Citalopram/Escitalopram, Tramadol, and Heroin"
+ ],
+ [
+   "5/9/16",
+   "Female",
+   "White",
+   30,
+   "BRIDGEPORT",
+   "Acute Heroin and Fentanyl Toxicities, recent cocaine"
+ ],
+ [
+   "12/6/15",
+   "Male",
+   "White",
+   32,
+   "NEW LONDON",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "5/28/16",
+   "Female",
+   "White",
+   29,
+   "NORWICH",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, Metaxalone, Flecainide, Clonidine, and Duloxetine"
+ ],
+ [
+   "12/13/15",
+   "Female",
+   "White",
+   47,
+   "BRISTOL",
+   "Acute Heroin and Alcohol Intoxication While Using Duloxetine and Mirtazapine With Recent Use of Cocaine"
+ ],
+ [
+   "4/12/16",
+   "Male",
+   "White",
+   48,
+   "DANBURY",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "3/13/16",
+   "Female",
+   "White",
+   30,
+   "DANBURY",
+   "Acute Heroin and Cocaine Intoxication"
+ ],
+ [
+   "1/4/16",
+   "Male",
+   "White",
+   28,
+   "ENFIELD",
+   "Acute Fentanyl Intoxication and Recent Use of Heroin and Cocaine"
+ ],
+ [
+   "3/18/16",
+   "Male",
+   "White",
+   41,
+   "WILLIMANTIC",
+   "Acute Heroin, Fentanyl and Acetyl Fentanyl Toxicities Associated With Sertraline Use"
+ ],
+ [
+   "6/28/16",
+   "Male",
+   "White",
+   49,
+   "HARTFORD",
+   "Acute Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "1/7/16",
+   "Male",
+   "White",
+   42,
+   "SOUTHINGTON",
+   "Acute Fentanyl and Heroin Toxicities"
+ ],
+ [
+   "3/20/16",
+   "Male",
+   "White",
+   48,
+   "NEW LONDON",
+   "Heroin, fentanyl, hydromorphone, and benzodiazepine intoxication"
+ ],
+ [
+   "6/16/16",
+   "Female",
+   "White",
+   44,
+   "HARTFORD",
+   "Acute Fentanyl, Heroin, Cocaine and Cocoethylene Intoxication"
+ ],
+ [
+   "5/13/16",
+   "Male",
+   "White",
+   53,
+   "DERBY",
+   "Acute Heroin and Fentanyl Toxicities, recent cocaine"
+ ],
+ [
+   "3/10/16",
+   "Male",
+   "White",
+   23,
+   "NEW LONDON",
+   "Acute Intoxication Due To The Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "6/22/16",
+   "Female",
+   "White",
+   23,
+   "WILLINGTON",
+   "Acute Heroin Toxicity Associated with Alprazolam and Alcohol Use"
+ ],
+ [
+   "12/29/15",
+   "Male",
+   "White",
+   28,
+   "ENFIELD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "1/18/16",
+   "Female",
+   "White",
+   32,
+   "FARMINGTON",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, Acetyl Fentanyl, Cocaine, Buprenorphine, Hydroxyzine and Diphenhydramine"
+ ],
+ [
+   "11/13/15",
+   "Male",
+   "White",
+   34,
+   "BRIDGEPORT",
+   "Acute Intoxication due to the Combined Effects of Alprazolam, Methadone, Fentanyl, Heroin, and Oxycodone"
+ ],
+ [
+   "2/21/16",
+   "Male",
+   "White",
+   32,
+   "SOUTHINGTON",
+   "Acute Intoxication due to the Combined Effects of Heroin, Fentanyl, Cocaine and Trazodone"
+ ],
+ [
+   "1/25/16",
+   "Female",
+   "White",
+   21,
+   "NEW HAVEN",
+   "Complications of Acute Heroin Toxicity"
+ ],
+ [
+   "6/12/16",
+   "Male",
+   "Hispanic, White",
+   57,
+   "MANCHESTER",
+   "The Combined Effects of Fentanyl, Diphenhydramine, Cocaine and Heroin"
+ ],
+ [
+   "5/23/16",
+   "Male",
+   "White",
+   24,
+   "BRISTOL",
+   "The Combined Effects of Heroin and Alcohol"
+ ],
+ [
+   "6/17/16",
+   "Female",
+   "White",
+   38,
+   "BRIDGEPORT",
+   "The Combined Effects of Fentanyl and Heroin"
+ ],
+ [
+   "11/24/15",
+   "Male",
+   "White",
+   20,
+   "ROCKY HILL",
+   "Acute Intoxication due to the Combined Effects of Alprazolam and Heroin"
+ ],
+ [
+   "6/28/16",
+   "Male",
+   "White",
+   44,
+   "BRISTOL",
+   "Acute Heroin, Fentanyl and Cocaine Intoxication While Using Hydroxyzine, Citalopram and Mirtazapine"
+ ],
+ [
+   "4/10/16",
+   "Male",
+   "White",
+   29,
+   "NEW HAVEN",
+   "Acute Heroin Intoxication"
+ ],
+ [
+   "2/1/16",
+   "Male",
+   "White",
+   45,
+   "VERNON",
+   "Acute Intoxication From the Combined Effects of Heroin, Fentanyl, Acetyl Fentanyl, Alcohol, and Alprazolam"
+ ],
+ [
+   "11/27/15",
+   "Male",
+   "White",
+   55,
+   "WALLINGFORD",
+   "Complications of Acute Intoxication The Combined Effects Benzodiazepines, Ethanol, and Heroin"
+ ],
+ [
+   "5/6/16",
+   "Male",
+   "White",
+   29,
+   "SHELTON",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, Methadone, and alprazolam"
+ ],
+ [
+   "11/18/15",
+   "Male",
+   "White",
+   30,
+   "NEW HARTFORD",
+   "Acute Intoxication from the Combined Effects of Heroin, Fentanyl, and Phenobarbital"
+ ],
+ [
+   "2/14/16",
+   "Male",
+   "White",
+   36,
+   "WALLINGFORD",
+   "Acute Intoxication Due To The Combined Effects of Heroin, Clonazepam And Buprenorphine"
+ ],
+ [
+   "5/9/16",
+   "Male",
+   "White",
+   57,
+   "SHARON",
+   "Acute Intoxication due to the Combined Effects of Cyclobenzapeine, Amitriptyline and Heroin"
+ ],
+ [
+   "2/14/16",
+   "Female",
+   "White",
+   46,
+   "WALLINGFORD",
+   "Acute and Chronic Substance Abuse (Heroin, Buprenorphine, Cocaine)"
+ ],
+ [
+   "1/13/16",
+   "Male",
+   "Black",
+   29,
+   "NEW HAVEN",
+   "Acute Heroin Intoxication in a Person Taking Clonazepam, Amphetamine, Citalopram, and Aripiprazole"
+ ],
+ [
+   "3/10/16",
+   "Male",
+   "Hispanic, White",
+   35,
+   "HARTFORD",
+   "Acute Heroin, Fentanyl and Cocaine Toxicities"
+ ],
+ [
+   "11/14/15",
+   "Female",
+   "White",
+   24,
+   "PUTNAM",
+   "Acute Intoxication Due To The Combined Effects of Heroin, Cocaine, Alprazolam and Hydroxyzine"
+ ],
+ [
+   "1/20/16",
+   "Male",
+   "White",
+   45,
+   "HARTFORD",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "4/6/16",
+   "Male",
+   "White",
+   57,
+   "NORWICH",
+   "Acute Fentanyl, Heroin and Methamphetamine Intoxication While Using Alcohol"
+ ],
+ [
+   "4/19/16",
+   "Male",
+   "White",
+   26,
+   "MERIDEN",
+   "Acute Intoxication due to the Combined Effects of Fentanyl, Cocaine and Heroin"
+ ],
+ [
+   "5/20/16",
+   "Male",
+   "Other",
+   25,
+   "MILFORD",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Heroin, Benzodiazepines and Ethanol"
+ ],
+ [
+   "6/16/16",
+   "Female",
+   "White",
+   53,
+   "NEW HAVEN",
+   "The Combined Effects of Diazepam, Methadone, Venlafaxine, Heroin and Hydromorphone"
+ ],
+ [
+   "4/17/16",
+   "Male",
+   "Black",
+   53,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Bupropion, Duloxetine and Heroin"
+ ],
+ [
+   "10/8/15",
+   "Male",
+   "White",
+   50,
+   "WEST HAVEN",
+   "Acute Intoxication from the Combined Effects of Heroin, Alcohol, and Alprazolam"
+ ],
+ [
+   "6/14/16",
+   "Male",
+   "White",
+   32,
+   "BRIDGEPORT",
+   "Acute Heroin Toxicity"
+ ],
+ [
+   "6/9/16",
+   "Female",
+   "White",
+   32,
+   "DANBURY",
+   "The Combined Effects of Fentanyl, Heroin, Cocaine, Methadone and Alcohol"
+ ],
+ [
+   "11/15/15",
+   "Male",
+   "White",
+   46,
+   "HARTFORD",
+   "Acute Intoxication due to the Combined Effects of Cocaine, Fentanyl, and Heroin"
+ ],
+ [
+   "3/14/16",
+   "Male",
+   "White",
+   46,
+   "MERIDEN",
+   "Acute Fentanyl and Heroin Intoxication While Using Methadone and Alprazolam with Recent Use of Cocaine"
+ ],
+ [
+   "3/25/16",
+   "Male",
+   "White",
+   26,
+   "DERBY",
+   "Heroin and ethanol intoxication"
+ ],
+ [
+   "4/27/16",
+   "Male",
+   "White",
+   55,
+   "WATERBURY",
+   "Acute Intoxication due to the Combined Effects of Cocaine and Heroin"
+ ],
+ [
+   "10/14/15",
+   "Male",
+   "White",
+   33,
+   "KILLINGLY",
+   "Acute Heroin and Fentanyl Intoxication"
+ ],
+ [
+   "3/31/16",
+   "Male",
+   "White",
+   39,
+   "NEW HAVEN",
+   "Acute Intoxication due to the Combined Effects of Heroin and Cocaine"
+ ],
+ [
+   "6/16/16",
+   "Male",
+   "White",
+   49,
+   "STRATFORD",
+   "The Combined Effects of Heroin, Fentanyl, and Ethanol"
+ ],
+ [
+   "11/1/15",
+   "Female",
+   "White",
+   48,
+   "NEW HAVEN",
+   "Hypoxic-Ischemic Encephalopathy Following Cardiopulmonary Arrest Morphine Intoxication Probably Derived from Heroin"
+ ],
+ [
+   "1/21/16",
+   "Male",
+   "White",
+   29,
+   "HARTFORD",
+   "Complications following Acute Heroin Intoxication"
+ ],
+ [
+   "6/17/16",
+   "Male",
+   "White",
+   25,
+   "HARTFORD",
+   "Acute Fentanyl and Heroin Intoxication"
+ ],
+ [
+   "5/12/16",
+   "Male",
+   "Hispanic, White",
+   41,
+   "BRIDGEPORT",
+   "Ethanol, Fentanyl, and Heroin"
+ ],
+ [
+   "4/13/16",
+   "Female",
+   "Hispanic, White",
+   47,
+   "GROTON",
+   "Acute Intoxication due to the Combined Effects of Heroin, Methadone, Diphenhydramine and Amitriptyline"
+ ],
+ [
+   "5/8/16",
+   "Male",
+   "Black",
+   58,
+   "NEW HAVEN",
+   "Fentanyl and Heroin"
+ ],
+ [
+   "6/29/16",
+   "Female",
+   "White",
+   50,
+   "MERIDEN",
+   "The Combined Effects of Bupropion, Fentanyl, and Morphine"
+ ],
+ [
+   "11/27/15",
+   "Female",
+   "White",
+   47,
+   "DANBURY",
+   "Complications of Acute Heroin Intoxication"
+ ],
+ [
+   "1/30/16",
+   "Male",
+   "White",
+   53,
+   "NEW LONDON",
+   "Acute Fentanyl, Heroin and Alprazolam intoxication"
+ ],
+ [
+   "4/6/16",
+   "Male",
+   "White",
+   34,
+   "MIDDLEFIELD",
+   "Acute Heroin and Cocaine Toxicities"
+ ]
+]
+}

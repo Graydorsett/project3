@@ -1,22 +1,33 @@
+
+//$(document).ready(function() {
+$(document).ready(function() {
+  $('#example').DataTable( {
+    "ajax": 'data.json'
+  } );
+
+  //buildChart();
+  loadData("deathDates.json");
+} );
+// }=);
+
+
+
+
+
 var chart = c3.generate({
     bindto: '#chart',
     data: {
-      url: 'heroinDeaths_age.csv',
+      url: 'heroinDeathsAge.csv',
       type: 'bar',
       axes: {
         data1: 'Age'
       },
-      // Add a type to object to change display type
-      // types: {
-      //   data2: 'bar' // ADD
-      // },
-      // Add a tick to add a character to the data on this axis
       tick: {
          format: d3.format("$") // ADD
        }
     },
     color: {
-      pattern: ['orange', 'blue']
+      pattern: ['#489FB7', '#489FB7']
     },
     axis: {
       y: {
@@ -51,7 +62,7 @@ var chartPie = c3.generate({
         onmouseout: function (d, i) { console.log("onmouseout", d, i); }
   },
   color: {
-    pattern: ['lightblue', 'pink']
+    pattern: ['#AFD4DD', '#8DD3C6']
   },
 });
 
@@ -67,8 +78,10 @@ var chartPie = c3.generate({
         onclick: function (d, i) { console.log("onclick", d, i); },
         onmouseover: function (d, i) { console.log("onmouseover", d, i); },
         onmouseout: function (d, i) { console.log("onmouseout", d, i); }
-  }
-
+  },
+    color: {
+        pattern: ['#AFD4DD', '#8DD3C6' , '#55A4B7' ]
+  },
 });
 
 //////////////////////
@@ -76,10 +89,10 @@ var chartPie = c3.generate({
 //////////////////////
 
 
-$( document ).ready(function() {
-  loadData("deathDates.json");
-  //buildChart();
-});
+// $( document ).ready(function() {
+//
+//
+// });
 
 function loadData(dataURL){
 
@@ -149,4 +162,74 @@ function buildChart() {
 	    },
       }
   });
-}; // Buildchart
+};
+
+///////////////////////
+///////Date Deaths///////
+///////////////////////
+
+// var chart = c3.generate({
+//     bindto: '#time',
+//     data: {
+//       columns: [
+//             ['data1', 30, 200, 100, 400, 150, 250],
+//         ],
+//       axes: {
+//         data1: 'Age'
+//       },
+//       // Add a type to object to change display type
+//       // types: {
+//       //   data2: 'bar' // ADD
+//       // },
+//       // Add a tick to add a character to the data on this axis
+//       tick: {
+//          format: d3.format("$") // ADD
+//        }
+//     },
+//     color: {
+//       pattern: ['#489FB7', '#489FB7']
+//     },
+//     axis: {
+//       y: {
+//         label: { // ADD
+//           text: 'Deaths ',
+//           position: 'outer-middle'
+//         }
+//       },
+//       x: {
+//         show: true,
+//         label: { // ADD
+//           text: 'Age',
+//           position: 'outer-middle'
+//         }
+//       }
+//     }
+// });
+
+var chart = c3.generate({
+  bindto: '#time',
+    data: {
+        columns: [
+            ['Deaths', 14,10,6,17,13,13,11,20,17,14,13,25,18,25,21,17,8,25,18,21,19,24,32,29,32,27,28,21,29,28,21,27,28,30,32,22,24,32,22,32,25,31,47,32,45,47,46,32,34,40,35,46,45,44]
+        ]
+    },
+    axis: {
+      y: {
+              label: { // ADD
+                text: 'Deaths ',
+                position: 'outer-middle'
+              }
+            },
+        x: {
+            show: false,
+            type: 'category',
+            categories: ["1/12","2/12","3/12","4/12","5/12","6/12","7/12","8/12","9/12","10/12","11/12","12/12","1/13","2/13","3/13","4/13","5/13","6/13","7/13","8/13","9/13","10/13","11/13","12/13","1/14","2/14","3/14","4/14","5/14","6/14","7/14","8/14","9/14","10/14","11/14","12/14","1/15","2/15","3/15","4/15","5/15","6/15","7/15","8/15","9/15","10/15","11/15","12/15","1/16","2/16","3/16","4/16","5/16","6/16"],
+            text: 'Dates',
+            tick: {
+              labels: {
+                show: false,
+              }
+            }
+        }
+    }
+});

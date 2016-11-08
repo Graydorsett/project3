@@ -9,8 +9,12 @@
   <meta name="author" content="Gray Dorsett">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="css/style.css">
   <link href="css/c3.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.1.0/css/responsive.dataTables.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -18,31 +22,177 @@
 </head>
 
 <body>
-hellos
 
-  <div id="timeline"></div>
+    <div class="container page">
+        <div class="row title">
+            <h1>Heroin Epidemic</h1>
 
-  <div id="chart"></div>
-
-<div id="genderPie"></div>
-
-<div id="racePie"></div>
-
+            <p>Since 1999, the number of overdose deaths involving opioids, including prescription opioid pain relievers, heroin, and fentanyl, has nearly quadrupled.  More people in Connecticut die from durg overdose than car accident or gunshot.</p>
+        </div>
+        <div class="bar">
+        </div>
 
 
-  <script
+        <div class="row accord">
+            <div class="col-md-12">
+                <div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-    parent="#accordion" href="#collapseOne">
+                                    <div>Growing Killer</div>
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in">
+                            <div class="panel-body">
+                                <p>Drug overdose is the leading cause of accidental death in the US, with 47,055 lethal drug overdoses in 2014. Opioid addiction is driving this epidemic, with 18,893 overdose deaths related to prescription pain relievers, and 10,574 overdose deaths related to heroin in 2014.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                    <div>About the Data</div>
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <p>Source: <a href="https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015">State of Connecticut</a><br/>
+                                    This information was pulled from a listing of each accidental death associated with drug overdose in Connecticut from 2012 to 2015.
+                                    The data was derived from an investigation by the Office of the Chief Medical Examiner which includes the toxicity report, death certificate, as well as a scene investigation.  It's purpose is a sample to shed a state-level lense on a growing national problem.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+    <div class="row">
+        <div class="title">
+            <h3>Deaths by Location</h3>
+            <h5>Hover over the map to see where the concentractions of heroin deaths are</h5>
+        </div>
+        <div align="middle">
+            <iframe src="https://www.google.com/maps/d/embed?mid=1kyxTDfV_YUmisKXfaaNrziR4C9g" width="95%" height="450" align="middle" frameBorder="0"></iframe>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="title">
+            <h3>Growing Epidemic</h3>
+            <h5>Hover over the map to see deaths per month since 2012</h5>
+        </div>
+        <div id="time" style="min-width: 300px; height: 400px;"></div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <h3>Heroin Through the Ages</h3>
+            <h5>Between 2012 and 2016 1415 people have overdosed from heroin or some kind of opiate.  Even individuals as young as 14 are addicted and overdosing, while the peak age seems to be late 20's.</h5>
+
+          <div id="chart" style="min-width: 300px; height: 450px;"></div>
+
+        </div>
+        <div class="col-md-4">
+            <h3 style="margin-left: 25px;">By the Numbers</h3>
+            <div class="row fact">
+                <div>
+                    <h1><center>3X</center></h1>
+                </div>
+                <div class="bar">
+        </div>
+                    <p>Deaths from heroin overdoses have more than tripled since 2010 and are double the rate of deaths from cocaine.</p>
+            </div>
+            <div class="row fact">
+                <div>
+                    <h1><center>61%</center></h1>
+                </div>
+                <div class="bar">
+        </div>
+                <p>Nationally, opioids were involved in more than 61 percent of deaths from overdoses in 2014.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+
+            <div class="title">
+                <h3>Demographics</h3>
+                <h5>Hover over to see percentage of heroin deaths, broken down by gender and race.</h5>
+            </div>
+            <div class="col-sm-5 pie">
+                <h3>Gender</h3>
+                <div id="genderPie"></div>
+                </div>
+            <div class="col-sm-5 pie">
+                <h3>Race</h3>
+                <div id="racePie"></div>
+            </div>
+
+
+
+    </div>
+
+     <div class="row">
+         <div class="title">
+
+                <h3>Table of Connecticut Heroin Deaths, 2012 - 2016</h3>
+                <h5>Select column headers to sort data accordingly or use the search bar to narrow the results.</h5>
+              </div>
+          <!-- <div class="container"> -->
+         <table id="example" class="display responsive nowrap" cellspacing="0" width="95%">
+         <thead>
+             <tr>
+                 <th>Date</th>
+                 <th>Sex</th>
+                 <th>Race</th>
+                 <th>Age</th>
+                 <th>City</th>
+                 <th>Death</th>
+             </tr>
+         </thead>
+         <tfoot>
+             <tr>
+               <th>Date</th>
+               <th>Sex</th>
+               <th>Race</th>
+               <th>Age</th>
+               <th>City</th>
+               <th>Death</th>
+             </tr>
+         </tfoot>
+     </table>
+   <!-- </div> -->
+</div>
+
+
+
+</div>
+</body>
+
+    <script
       src="https://code.jquery.com/jquery-2.2.4.min.js"
       integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
       crossorigin="anonymous"></script>
 
-  <script src="js/d3.min.js" charset="utf-8"></script>
-  <script src="js/c3.min.js"></script>
+    <script src="js/d3.min.js" charset="utf-8"></script>
+    <script src="js/c3.min.js"></script>
+
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+
+    <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
 
 
-  <script src="js/scripts.js"></script>
+    <script src="js/scripts.js"></script>
     <script src="js/scripts_chart.js"></script>
 
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
 
 </body>
 </html>
